@@ -1,5 +1,5 @@
 TemplateProject3/Config/DefaultEngine.ini
-Engine/GlobalShaderCache-GLSL_ES3_1_ANDROID.bin
+Engine/GlobalShaderCache-SF_VULKAN_ES31_ANDROID.bin
 Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset
 Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp
 Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset
@@ -338,6 +338,10 @@ Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset
 Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp
 Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset
 Engine/Content/EditorResources/Spline/T_Loft_Spline.uexp
+Engine/Content/EditorSounds/Notifications/CompileFailed.uasset
+Engine/Content/EditorSounds/Notifications/CompileFailed.uexp
+Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset
+Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uexp
 Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset
 Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uexp
 Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset
@@ -1046,8 +1050,8 @@ Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveInd
 Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset
 Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp
 TemplateProject3/AssetRegistry.bin
-TemplateProject3/Content/ShaderArchive-Global-GLSL_ES3_1_ANDROID.ushaderbytecode
-TemplateProject3/Content/ShaderArchive-TemplateProject3-GLSL_ES3_1_ANDROID.ushaderbytecode
+TemplateProject3/Content/ShaderArchive-Global-SF_VULKAN_ES31_ANDROID.ushaderbytecode
+TemplateProject3/Content/ShaderArchive-TemplateProject3-SF_VULKAN_ES31_ANDROID.ushaderbytecode
 TemplateProject3/Content/Geometry/Meshes/CubeMaterial.uasset
 TemplateProject3/Content/Geometry/Meshes/CubeMaterial.uexp
 TemplateProject3/Content/Geometry/Meshes/TemplateFloor.uasset
