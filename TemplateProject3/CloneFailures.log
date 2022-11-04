@@ -1,0 +1,24 @@
+The following files could not be copied to the new project directory
+Intermediate/Android/armv7/gradle/app/build/intermediates/javac/debug/classes/com/google/android/vending/expansion/downloader/impl/CustomIntentService$ServiceHandler.class
+Intermediate/Android/armv7/gradle/app/build/intermediates/javac/debug/classes/com/google/android/vending/expansion/downloader/impl/DownloaderService$GenerateSaveFileError.class
+Intermediate/Android/armv7/gradle/app/build/intermediates/javac/debug/classes/com/google/android/vending/expansion/downloader/impl/DownloaderService$InnerBroadcastReceiver.class
+Intermediate/Android/armv7/gradle/app/build/intermediates/javac/debug/classes/com/google/android/vending/expansion/downloader/impl/DownloadsDB$DownloadsContentDBHelper.class
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/epicgames/ue4/GameActivity$VirtualKeyboardInput$VirtualKeyboardInputConnection.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Proxy.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Stub$1.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Stub$2.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/DownloaderClientMarshaller$Stub.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/DownloaderServiceMarshaller$Proxy.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/DownloaderServiceMarshaller$Stub$1.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/DownloaderServiceMarshaller$Stub.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/CustomIntentService$ServiceHandler.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloaderService$GenerateSaveFileError.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloaderService$InnerBroadcastReceiver.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloaderService$LVLRunnable$1.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloaderService$LVLRunnable.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloadsDB$DownloadColumns.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloadsDB$DownloadsContentDBHelper.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloadsDB$MetadataColumns.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloadThread$InnerState.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloadThread$RetryDownload.dex
+Intermediate/Android/armv7/gradle/app/build/intermediates/project_dex_archive/debug/out/com/google/android/vending/expansion/downloader/impl/DownloadThread$StopRequest.dex
