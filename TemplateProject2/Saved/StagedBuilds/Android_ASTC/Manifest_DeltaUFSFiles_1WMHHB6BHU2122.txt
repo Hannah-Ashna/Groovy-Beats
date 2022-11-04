@@ -1142,6 +1142,8 @@ Engine/Content/BufferVisualization/WorldNormal.uasset
 Engine/Content/BufferVisualization/WorldNormal.uexp
 Engine/Content/BufferVisualization/WorldTangent.uasset
 Engine/Content/BufferVisualization/WorldTangent.uexp
+Engine/Content/EditorBlueprintResources/StandardMacros.uasset
+Engine/Content/EditorBlueprintResources/StandardMacros.uexp
 Engine/Content/EditorLandscapeResources/DataLayer.uasset
 Engine/Content/EditorLandscapeResources/DataLayer.uexp
 Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset
@@ -1798,6 +1800,8 @@ Engine/Content/Tutorial/ContentIntroCurve.uasset
 Engine/Content/Tutorial/ContentIntroCurve.uexp
 Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset
 Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp
+Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset
+Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uexp
 Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset
 Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk
 Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp
@@ -1993,10 +1997,18 @@ TemplateProject2/Content/Maps/BaseLevel.umap
 TemplateProject2/Content/Maps/BaseLevel_BuiltData.uasset
 TemplateProject2/Content/Maps/BaseLevel_BuiltData.ubulk
 TemplateProject2/Content/Maps/BaseLevel_BuiltData.uexp
+TemplateProject2/Content/VRPlayer/GrabComponent.uasset
+TemplateProject2/Content/VRPlayer/GrabComponent.uexp
+TemplateProject2/Content/VRPlayer/GrabType.uasset
+TemplateProject2/Content/VRPlayer/GrabType.uexp
 TemplateProject2/Content/VRPlayer/VRGameBase.uasset
 TemplateProject2/Content/VRPlayer/VRGameBase.uexp
+TemplateProject2/Content/VRPlayer/VRInteractionBPI.uasset
+TemplateProject2/Content/VRPlayer/VRInteractionBPI.uexp
 TemplateProject2/Content/VRPlayer/VRPawn.uasset
 TemplateProject2/Content/VRPlayer/VRPawn.uexp
+TemplateProject2/Content/VRPlayer/Haptics/GrabHapticEffect.uasset
+TemplateProject2/Content/VRPlayer/Haptics/GrabHapticEffect.uexp
 TemplateProject2/Content/Whiteboard/MarkerMaterial.uasset
 TemplateProject2/Content/Whiteboard/MarkerMaterial.uexp
 TemplateProject2/Content/Whiteboard/RTWhiteboard.uasset
