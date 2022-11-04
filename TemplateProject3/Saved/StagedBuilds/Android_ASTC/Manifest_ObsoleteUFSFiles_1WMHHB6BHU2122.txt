@@ -1,0 +1,2 @@
+TemplateProject3/Saved/Logs/TemplateProject3.log
+TemplateProject3/Saved/Logs/TemplateProject3-backup-2022.11.04-17.32.37.log
