@@ -3377,3 +3377,1416 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.05-21.32.20:409][501]LogPlayLevel: AutomationTool exiting with ExitCode=0 (Success)
 
 [2022.11.05-21.32.20:409][501]LogPlayLevel: Launch On Completed. Time: 149.603922
+[2022.11.05-21.39.20:034][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.11.05-21.39.31:897][179]MapCheck: New page: Map Check
+[2022.11.05-21.39.31:913][179]LightingResults: New page: Lighting Build - 5 Nov 2022, 21:39:31
+[2022.11.05-21.39.31:926][179]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.05-21.39.31:933][179]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.05-21.39.31:933][179]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.05-21.39.31:935][179]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.05-21.39.31:935][179]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13892
+[2022.11.05-21.39.36:538][179]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.11.05-21.39.36:539][179]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.05-21.39.36:539][179]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.05-21.39.36:539][179]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.05-21.39.36:539][179]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.05-21.39.36:539][179]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.05-21.39.36:586][179]LogEditorBuildUtils: Build time 0:04
+[2022.11.05-21.39.36:592][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.05-21.39.36:592][179]LogShaderCompilers: Display: Total job queries 5447, among them cache hits 0 (0.00%)
+[2022.11.05-21.39.36:592][179]LogShaderCompilers: Display: Tracking 5447 distinct input hashes that result in 2360 distinct outputs (43.33%)
+[2022.11.05-21.39.36:592][179]LogShaderCompilers: Display: RAM used: 64.56 MB (0.06 GB) of 819.20 MB (0.80 GB) budget. Usage: 7.88%
+[2022.11.05-21.39.36:592][179]LogShaderCompilers: Display: ================================================
+[2022.11.05-21.39.36:638][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.05-21.39.41:962][452]Job is a success!
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:          1: 2.9% covering 1.6% of volume
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:          2: 94.1% covering 0.8% of volume
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.05-21.39.42:106][454]LogVolumetricLightmapImport:          BaseLevel 			 34 bricks 	 100.0% (Persistent Level)
+[2022.11.05-21.39.42:260][454]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.11.05-21.39.42:260][454]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.11.05-21.39.42:260][454]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2022.11.05-21.39.42:260][454]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.05-21.39.42:260][454]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.05-21.39.42:260][454]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2022.11.05-21.39.42:434][454]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.11.05-21.39.42:435][454]LogStaticLightingSystem: BaseLevel_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2022.11.05-21.39.42:445][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.05-21.39.42:454][454]Lightmass on NOTAHACKER: 5.26 sec total, 155 ms importing, 13 ms setup, 939 ms photons, 4.09 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 45.0 sec total, 6.67 sec processing.
+[2022.11.05-21.39.42:516][454]LogStaticLightingSystem: Illumination: 10.5 sec (82 ms encoding lightmaps, 203 ms encoding shadowmaps)
+[2022.11.05-21.39.42:516][454]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.11.05-21.39.42:516][454]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.11.05-21.39.52:550][454]DumpUnbuiltLightIteractions
+[2022.11.05-21.39.52:550][454]Lights with unbuilt interactions: 0
+[2022.11.05-21.39.52:550][454]
+[2022.11.05-21.39.52:550][454]Primitives with unbuilt interactions: 0
+[2022.11.05-21.39.52:591][455]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.05-21.39.52:592][455]MapCheck: New page: BaseLevel - 5 Nov 2022, 21:39:52
+[2022.11.05-21.39.52:592][455]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.48ms to complete.
+[2022.11.05-21.40.09:849][471]LogContentBrowser: Deferred new asset file creation: RedMarkerMaterial1
+[2022.11.05-21.40.09:868][471]LogContentBrowser: Creating deferred item: RedMarkerMaterial1
+[2022.11.05-21.40.14:244][734]LogContentBrowser: Attempting asset rename: RedMarkerMaterial1 -> GreenMarkerMaterial
+[2022.11.05-21.40.14:248][734]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 662B7DCDD347FBD38D2B4DDF1B393C6E44519C97), compiling. 
+[2022.11.05-21.40.14:270][734]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.11.05-21.40.14:271][734]LogContentBrowser: End creating deferred item RedMarkerMaterial1
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.14:283][735]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.15:832][807]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Whiteboard/Markers/GreenMarkerMaterial.GreenMarkerMaterial
+[2022.11.05-21.40.15:834][807]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 27B99255425F1B3FD099A67ADC5D4ECF7FD0F8C7), compiling. 
+[2022.11.05-21.40.15:870][807]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.11.05-21.40.15:946][807]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.11.05-21.40.16:154][807]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1C4FB561B05BFD2E71956E0F47A67B1A8B7656AB), compiling. 
+[2022.11.05-21.40.16:159][807]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A6EC77482FC2CEFE17AF5A747CFBD7590687DDDF), compiling. 
+[2022.11.05-21.40.16:163][807]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2CD929F70CBDEE69901128AFCF8FB7E347B16803), compiling. 
+[2022.11.05-21.40.16:164][807]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionOneMinus_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D1FCF3A73A2C3345E4538C24CA29A5BA567C5371), compiling. 
+[2022.11.05-21.40.16:165][807]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 798B3B400C58E731BD4EBCECB7974D0199A54C48), compiling. 
+[2022.11.05-21.40.16:182][807]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.40.16:182][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.05-21.40.16:187][807]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.05-21.40.16:276][808]MaterialEditorStats: Base pass shader without light map: 122 instructions
+[2022.11.05-21.40.16:276][808]MaterialEditorStats: Base pass vertex shader: 166 instructions
+[2022.11.05-21.40.16:276][808]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.40.16:276][808]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.05-21.40.16:375][814]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.16:375][814]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.40.16:375][814]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.40.16:375][814]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.16:434][816]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.16:434][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.11.05-21.40.16:434][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.11.05-21.40.16:434][816]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.19:883][991]LogAssetEditorSubsystem: Opening Asset editor for MaterialParameterCollection /Game/Whiteboard/Markers/MarkerColours.MarkerColours
+[2022.11.05-21.40.24:782][210]LogSlate: Window 'GreenMarkerMaterial' being destroyed
+[2022.11.05-21.40.30:500][550]LogMaterial: Display: Missing cached shadermap for WhiteboardMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C772ABF4C1389D0AB1C3DEC2A7E9181AC6D20B65), compiling. 
+[2022.11.05-21.40.30:528][550]LogMaterial: Display: Missing cached shadermap for BlackMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8304EAF26A6E592D68C25BD782C8357023B9A5E4), compiling. 
+[2022.11.05-21.40.30:531][550]LogMaterial: Display: Missing cached shadermap for MarkerBlackMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6749822BA7BA8BC00F01258E78866E6273E74647), compiling. 
+[2022.11.05-21.40.30:533][550]LogMaterial: Display: Missing cached shadermap for MarkerRedMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7C63823DFFE3ACDFD96834B465323298BF558358), compiling. 
+[2022.11.05-21.40.30:536][550]LogMaterial: Display: Missing cached shadermap for BlueMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DAE8B141D426128DF5FDF308A79F5B0C1A53E5DA), compiling. 
+[2022.11.05-21.40.30:539][550]LogMaterial: Display: Missing cached shadermap for MarkerBlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 45D63FDF76FA8C205A5DBC4A190EBB2B7150547C), compiling. 
+[2022.11.05-21.40.30:541][550]LogMaterial: Display: Missing cached shadermap for RedMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BA00B7CDDE18FC68F06576C9A4FD75D98A8EEA72), compiling. 
+[2022.11.05-21.40.30:544][550]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A1B5BDCD48E06E4C2C80F76FB2796C85DB36F55A), compiling. 
+[2022.11.05-21.40.30:546][550]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E8092DD3A3444DDF74C61CE376B686DB004D1C2F), compiling. 
+[2022.11.05-21.40.30:555][551]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.30:555][551]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.30:559][551]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.11.05-21.40.30:559][551]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.30:559][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.05-21.40.30:565][552]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.30:577][552]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.11.05-21.40.30:577][552]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.11.05-21.40.30:577][552]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.30:604][552]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:626][552]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:647][552]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:671][552]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:687][552]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:707][553]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:728][553]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:749][553]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.30:775][553]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.31:880][608]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.11.05-21.40.31:880][608]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.31:880][608]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.11.05-21.40.31:880][608]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.31:915][609]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.11.05-21.40.31:915][609]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.32:149][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.11.05-21.40.32:149][615]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.33:116][661]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.11.05-21.40.33:117][661]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.33:246][668]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.11.05-21.40.33:246][668]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.33:463][681]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.11.05-21.40.33:463][681]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.40.34:184][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 92
+[2022.11.05-21.40.34:185][724]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.34:301][731]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 82
+[2022.11.05-21.40.34:301][731]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.34:467][741]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 72
+[2022.11.05-21.40.34:467][741]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.39:306][ 15]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 62
+[2022.11.05-21.40.39:306][ 15]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.39:481][ 25]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2022.11.05-21.40.39:482][ 25]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.39:585][ 31]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2022.11.05-21.40.39:585][ 31]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.41:719][158]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2022.11.05-21.40.41:719][158]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.41:825][164]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2022.11.05-21.40.41:825][164]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.41:942][171]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2022.11.05-21.40.41:942][171]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.41:954][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2022.11.05-21.40.41:954][172]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.42:012][175]Cmd: TRANSACTION UNDO
+[2022.11.05-21.40.42:013][175]LogEditorTransaction: Undo Edit Parameter Name
+[2022.11.05-21.40.42:034][175]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 58D453E2F2050D6973D3A4A95815572654525BC7), compiling. 
+[2022.11.05-21.40.42:040][175]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionOneMinus_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5DCC3A78C174037DE13CA6F5CCED111AEFFC462E), compiling. 
+[2022.11.05-21.40.44:136][274]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2022.11.05-21.40.44:136][274]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.45:587][353]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2022.11.05-21.40.45:587][353]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.40.56:664][991]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.11.05-21.40.56:664][991]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.01:994][283]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.05-21.41.04:489][420]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerColours0C1877344AAD37E09595AAAF57D13C6A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/MarkerColours.uasset'
+[2022.11.05-21.41.04:599][420]AssetCheck: New page: Asset Save: MarkerColours
+[2022.11.05-21.41.04:600][420]LogContentValidation: Display: Validating MaterialParameterCollection /Game/Whiteboard/Markers/MarkerColours.MarkerColours
+[2022.11.05-21.41.05:071][442]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.05:137][444]MaterialEditorStats: Base pass shader without light map: 122 instructions
+[2022.11.05-21.41.05:137][444]MaterialEditorStats: Base pass vertex shader: 166 instructions
+[2022.11.05-21.41.05:137][444]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.41.05:137][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.05-21.41.07:499][550]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.41.07:499][550]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.07:956][573]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8FB6DA72878DC380897D185871E6EBB6E710EB8C), compiling. 
+[2022.11.05-21.41.07:961][573]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionOneMinus_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6305DF70F00E5BC6D576D4A06870B14C9973D4DD), compiling. 
+[2022.11.05-21.41.07:965][573]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A6436C29D53542A3BC8FE2C3286E39F27EEBFCE), compiling. 
+[2022.11.05-21.41.07:973][573]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 60E260799169426C7E39229C95A67728823AABDD), compiling. 
+[2022.11.05-21.41.07:986][573]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.41.07:986][573]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.05-21.41.08:036][575]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.08:036][575]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.08:036][575]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.08:235][583]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.11.05-21.41.08:235][583]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.08:775][609]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.11.05-21.41.08:775][609]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.09:539][645]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.11.05-21.41.09:540][645]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.09:839][660]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.11.05-21.41.09:839][660]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.09:913][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.11.05-21.41.09:913][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.10:841][710]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.11.05-21.41.10:842][710]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.10:916][714]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2022.11.05-21.41.10:916][714]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.10:994][715]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.11.05-21.41.10:995][715]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.11:149][722]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2022.11.05-21.41.11:149][722]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.11:173][723]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.41.11:173][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.05-21.41.12:005][761]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.11.05-21.41.12:005][761]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.12:426][781]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2022.11.05-21.41.12:427][781]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.12:448][782]LogMaterialEditor: Saving and Compiling material GreenMarkerMaterial
+[2022.11.05-21.41.12:963][782]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2022.11.05-21.41.12:963][782]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.12:992][782]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6521984BD71F1BD79F4C86726DE0E18980EC4087), compiling. 
+[2022.11.05-21.41.13:016][782]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.11.05-21.41.13:016][782]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.13:048][782]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 79F581A3DB542C57042746F8007D846AA4C6969D), compiling. 
+[2022.11.05-21.41.13:110][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.11.05-21.41.13:143][782]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.11.05-21.41.13:143][782]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.13:144][782]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.14:688][782]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.11.05-21.41.14:688][782]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.14:688][782]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.11.05-21.41.14:688][782]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.14:688][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.05-21.41.14:816][782]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.14:855][782]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/GreenMarkerMaterial837310654EBA1B3D4404DEBBB0C2EBA6.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/GreenMarkerMaterial.uasset'
+[2022.11.05-21.41.14:900][782]AssetCheck: New page: Asset Save: GreenMarkerMaterial
+[2022.11.05-21.41.14:900][782]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/GreenMarkerMaterial.GreenMarkerMaterial
+[2022.11.05-21.41.16:351][849]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.11.05-21.41.16:351][849]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.16:725][864]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.11.05-21.41.16:725][864]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.17:354][887]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.11.05-21.41.17:355][887]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.17:363][887]MaterialEditorStats: Base pass shader without light map: 122 instructions
+[2022.11.05-21.41.17:363][887]MaterialEditorStats: Base pass vertex shader: 166 instructions
+[2022.11.05-21.41.17:363][887]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.41.17:363][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.05-21.41.17:890][905]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.11.05-21.41.17:890][905]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.18:411][921]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.41.18:411][921]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.26:657][214]LogContentBrowser: Deferred new asset file creation: MarkerRedMaterial1
+[2022.11.05-21.41.26:710][214]LogContentBrowser: Creating deferred item: MarkerRedMaterial1
+[2022.11.05-21.41.31:516][496]LogContentBrowser: Attempting asset rename: MarkerRedMaterial1 -> MarkerGreenMaterial
+[2022.11.05-21.41.31:517][496]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D8C8EC4CB0BF3B3199CFC3C23F45ED32A4653AC2), compiling. 
+[2022.11.05-21.41.31:544][496]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.05-21.41.31:544][496]LogContentBrowser: End creating deferred item MarkerRedMaterial1
+[2022.11.05-21.41.31:553][497]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.41.31:553][497]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.31:554][497]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.32:894][539]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.11.05-21.41.32:894][539]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.32:900][539]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial.MarkerGreenMaterial
+[2022.11.05-21.41.32:903][539]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0B0011206A6256F96A58812658A0510956D04BE6), compiling. 
+[2022.11.05-21.41.33:047][539]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.41.33:047][539]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.33:049][539]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 787C285AE489C3EDC9BDC07E7A2F34FA55C908F1), compiling. 
+[2022.11.05-21.41.33:054][539]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2FE45075280037D6E262608439CF952DD1FB078A), compiling. 
+[2022.11.05-21.41.33:058][539]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 724600C84F401E9EA9E03BEB3600D607410D64B4), compiling. 
+[2022.11.05-21.41.33:106][539]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.41.33:218][540]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.41.33:323][543]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.33:453][547]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.11.05-21.41.33:453][547]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.35:065][623]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.11.05-21.41.35:065][623]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.36:700][707]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 842707FE9A1DBECE0F1E1734775B0365172F8BBB), compiling. 
+[2022.11.05-21.41.36:704][707]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 04CF631BD99F8C731ED727A5C86994BDAE7A569C), compiling. 
+[2022.11.05-21.41.36:708][707]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E521AA7A362D2162328D665253E4F37F3ADA4AC6), compiling. 
+[2022.11.05-21.41.36:719][707]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.41.36:729][708]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.36:729][708]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.11.05-21.41.36:729][708]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.36:751][709]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.36:767][709]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.37:859][762]LogMaterialEditor: Saving and Compiling material MarkerGreenMaterial
+[2022.11.05-21.41.38:392][762]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AF8D43E22E6A51CF98E48FDDE6D97EEE930A656A), compiling. 
+[2022.11.05-21.41.38:441][762]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 971753F83A6B1AFF906C8C576207F89B302D7B8E), compiling. 
+[2022.11.05-21.41.38:478][762]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.38:513][762]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.38:525][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2022.11.05-21.41.38:558][762]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:073][762]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.11.05-21.41.52:074][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:074][762]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.11.05-21.41.52:074][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:074][762]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.11.05-21.41.52:074][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:074][762]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.11.05-21.41.52:074][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:074][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.05-21.41.52:127][762]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:127][762]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.11.05-21.41.52:127][762]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.11.05-21.41.52:127][762]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.11.05-21.41.52:127][762]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.11.05-21.41.52:127][762]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.11.05-21.41.52:127][762]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.41.52:142][762]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerGreenMaterial218F37104243E852862A8C879FA7DE00.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerGreenMaterial.uasset'
+[2022.11.05-21.41.52:164][762]AssetCheck: New page: Asset Save: MarkerGreenMaterial
+[2022.11.05-21.41.52:164][762]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial.MarkerGreenMaterial
+[2022.11.05-21.41.52:194][762]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.41.54:014][863]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.05-21.41.54:015][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-21.41.58:277][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.05-21.41.58:290][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_Auto1F38F1E984BA1BEB61480E29DE48ABCF4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Maps/BaseLevel_Auto1.umap'
+[2022.11.05-21.41.58:291][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/BaseLevel' took 0.022
+[2022.11.05-21.41.58:291][103]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2022.11.05-21.41.58:292][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Whiteboard/WhiteboardMaterial] ([1] browsable assets)...
+[2022.11.05-21.41.58:300][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Whiteboard/WhiteboardMaterial.WhiteboardMaterial]
+[2022.11.05-21.41.58:300][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Whiteboard/WhiteboardMaterial]
+[2022.11.05-21.41.58:305][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/WhiteboardMaterial_Auto1DDDA61EB4603BC2B5083EEBD91FED953.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Whiteboard/WhiteboardMaterial_Auto1.uasset'
+[2022.11.05-21.41.58:307][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Whiteboard/Markers/BlackMarkerMaterial] ([1] browsable assets)...
+[2022.11.05-21.41.58:314][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Whiteboard/Markers/BlackMarkerMaterial.BlackMarkerMaterial]
+[2022.11.05-21.41.58:314][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Whiteboard/Markers/BlackMarkerMaterial]
+[2022.11.05-21.41.58:321][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BlackMarkerMaterial_Auto14C076CEE45667F9D3DBE3BA84277DDC7.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Whiteboard/Markers/BlackMarkerMaterial_Auto1.uasset'
+[2022.11.05-21.41.58:322][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Whiteboard/Markers/Geometry/MarkerBlackMaterial] ([1] browsable assets)...
+[2022.11.05-21.41.58:327][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Whiteboard/Markers/Geometry/MarkerBlackMaterial.MarkerBlackMaterial]
+[2022.11.05-21.41.58:327][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Whiteboard/Markers/Geometry/MarkerBlackMaterial]
+[2022.11.05-21.41.58:332][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerBlackMaterial_Auto1841AE2B84332345A8DD2ADA1C9EF0529.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Whiteboard/Markers/Geometry/MarkerBlackMaterial_Auto1.uasset'
+[2022.11.05-21.41.58:333][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial] ([1] browsable assets)...
+[2022.11.05-21.41.58:341][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Whiteboard/Markers/Geometry/MarkerRedMaterial.MarkerRedMaterial]
+[2022.11.05-21.41.58:341][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial]
+[2022.11.05-21.41.58:345][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerRedMaterial_Auto1187C6DB14D0BDA40123313884384026C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial_Auto1.uasset'
+[2022.11.05-21.41.58:346][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Whiteboard/Markers/BlueMarkerMaterial] ([1] browsable assets)...
+[2022.11.05-21.41.58:353][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Whiteboard/Markers/BlueMarkerMaterial.BlueMarkerMaterial]
+[2022.11.05-21.41.58:353][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Whiteboard/Markers/BlueMarkerMaterial]
+[2022.11.05-21.41.58:360][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BlueMarkerMaterial_Auto1BFC010134D4DE226BAB90C8AF30A61F3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Whiteboard/Markers/BlueMarkerMaterial_Auto1.uasset'
+[2022.11.05-21.41.58:361][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Whiteboard/Markers/Geometry/MarkerBlueMaterial] ([1] browsable assets)...
+[2022.11.05-21.41.58:368][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Whiteboard/Markers/Geometry/MarkerBlueMaterial.MarkerBlueMaterial]
+[2022.11.05-21.41.58:368][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Whiteboard/Markers/Geometry/MarkerBlueMaterial]
+[2022.11.05-21.41.58:373][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerBlueMaterial_Auto1CBCB53CB4AA6DE582D8A39A31BE76AB4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Whiteboard/Markers/Geometry/MarkerBlueMaterial_Auto1.uasset'
+[2022.11.05-21.41.58:374][103]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Whiteboard/Markers/RedMarkerMaterial] ([1] browsable assets)...
+[2022.11.05-21.41.58:383][103]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Whiteboard/Markers/RedMarkerMaterial.RedMarkerMaterial]
+[2022.11.05-21.41.58:383][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Whiteboard/Markers/RedMarkerMaterial]
+[2022.11.05-21.41.58:390][103]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/RedMarkerMaterial_Auto1F3AF2A2F40017E38C4225DA64E213552.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Whiteboard/Markers/RedMarkerMaterial_Auto1.uasset'
+[2022.11.05-21.41.58:391][103]LogFileHelpers: Auto-saving content packages took 0.099
+[2022.11.05-21.42.02:485][335]LogContentBrowser: Deferred new asset file creation: RedMarker1
+[2022.11.05-21.42.02:518][335]LogContentBrowser: Creating deferred item: RedMarker1
+[2022.11.05-21.42.04:728][467]LogContentBrowser: Attempting asset rename: RedMarker1 -> GreenMarker
+[2022.11.05-21.42.04:742][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.11.05-21.42.04:746][467]LogContentBrowser: End creating deferred item RedMarker1
+[2022.11.05-21.42.05:819][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Whiteboard/Markers/Actors/GreenMarker.GreenMarker
+[2022.11.05-21.42.06:410][528]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 126 classes and 0 folders.
+[2022.11.05-21.42.16:867][ 58]BlueprintLog: New page: Compile GreenMarker
+[2022.11.05-21.42.16:908][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.11.05-21.42.17:470][ 83]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/GreenMarker3049A26844CAD9B4320B69954609EA27.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/GreenMarker.uasset'
+[2022.11.05-21.42.17:485][ 83]AssetCheck: New page: Asset Save: GreenMarker
+[2022.11.05-21.42.17:485][ 83]LogContentValidation: Display: Validating Blueprint /Game/Whiteboard/Markers/Actors/GreenMarker.GreenMarker
+[2022.11.05-21.42.18:259][125]LogRenderer: Reallocating scene render targets to support 1164x692 Format 10 NumSamples 1 (Frame:1).
+[2022.11.05-21.42.24:543][484]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/GreenMarker20BD4DD54363183D97B196850E348494.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/GreenMarker.uasset'
+[2022.11.05-21.42.24:558][484]AssetCheck: New page: Asset Save: GreenMarker
+[2022.11.05-21.42.24:558][484]LogContentValidation: Display: Validating Blueprint /Game/Whiteboard/Markers/Actors/GreenMarker.GreenMarker
+[2022.11.05-21.42.54:298][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.11.05-21.43.02:540][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.11.05-21.43.03:093][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.05-21.43.03:138][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.05-21.43.03:149][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevelCCAEEAD5481D2EA1DA5AC797FCE4D73D.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2022.11.05-21.43.03:156][620]LogFileHelpers: Saving map 'BaseLevel' took 0.037
+[2022.11.05-21.43.03:201][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltDataCB70A03C48F5D0A07C5222B078FD4CE0.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2022.11.05-21.43.03:205][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/WhiteboardMaterial76D8C91F4FAB7F50C48901825A918528.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardMaterial.uasset'
+[2022.11.05-21.43.03:209][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BlackMarkerMaterial390A51DA4D78F74BDD90AB8E00830915.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlackMarkerMaterial.uasset'
+[2022.11.05-21.43.03:212][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerBlackMaterialDFEC30864BA84BBFF7DEC0A70C69D6B6.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uasset'
+[2022.11.05-21.43.03:214][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerRedMaterial9E11963444E860D7D2B60D9B1F9A1F37.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerRedMaterial.uasset'
+[2022.11.05-21.43.03:218][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BlueMarkerMaterial02B08B6C4CA5145D761B56914A31571A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlueMarkerMaterial.uasset'
+[2022.11.05-21.43.03:222][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerBlueMaterialAE6F9F494B282D7D9E6A8C93D639EFB6.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uasset'
+[2022.11.05-21.43.03:226][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/RedMarkerMaterial33D42D99400779E2567748A6C539EF9F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/RedMarkerMaterial.uasset'
+[2022.11.05-21.43.03:272][620]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltData134DB0944ED167F79B1773A134BC754A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2022.11.05-21.43.03:304][620]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating Material /Game/Whiteboard/WhiteboardMaterial.WhiteboardMaterial
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/BlackMarkerMaterial.BlackMarkerMaterial
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/Geometry/MarkerBlackMaterial.MarkerBlackMaterial
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/Geometry/MarkerRedMaterial.MarkerRedMaterial
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/BlueMarkerMaterial.BlueMarkerMaterial
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/Geometry/MarkerBlueMaterial.MarkerBlueMaterial
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/RedMarkerMaterial.RedMarkerMaterial
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2022.11.05-21.43.03:304][620]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2022.11.05-21.43.20:969][669]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.43.20:969][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.43.20:969][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.43.20:969][669]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.43.21:450][697]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.05-21.43.21:450][697]LogShaderCompilers: Display: Total job queries 5718, among them cache hits 53 (0.93%)
+[2022.11.05-21.43.21:450][697]LogShaderCompilers: Display: Tracking 5623 distinct input hashes that result in 2438 distinct outputs (43.36%)
+[2022.11.05-21.43.21:450][697]LogShaderCompilers: Display: RAM used: 65.70 MB (0.06 GB) of 819.20 MB (0.80 GB) budget. Usage: 8.02%
+[2022.11.05-21.43.21:450][697]LogShaderCompilers: Display: ================================================
+[2022.11.05-21.43.35:344][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.05-21.43.35:346][509]LogPlayLevel: Launcher Device ID: Android_ASTC@1WMHHB6BHU2122
+[2022.11.05-21.43.35:351][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.05-21.43.35:352][509]LogCook: Display: Updating asset registry
+[2022.11.05-21.43.35:367][509]LogCook: Display: Discovering localized assets for cultures: en
+[2022.11.05-21.43.35:378][509]LogCook: Display: Inisetting is different for  Engine /Script/Engine.Engine ConsoleClassName, missmatched num array elements 0 != 1 
+[2022.11.05-21.43.35:378][509]LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Engine:/Script/Engine.Engine
+[2022.11.05-21.43.35:379][509]LogCook: Display: Cook invalidated for platform Android_ASTC ini settings don't match from last cook, clearing all cooked content
+[2022.11.05-21.43.35:389][509]LogCook: Display: Sandbox cleanup took 0.019 seconds for platforms Android_ASTC
+[2022.11.05-21.43.36:023][509]LogShaderLibrary: Display: 
+[2022.11.05-21.43.36:023][509]LogShaderLibrary: Display: Shader Library 'Global' (SF_VULKAN_ES31_ANDROID) Stats:
+[2022.11.05-21.43.36:023][509]LogShaderLibrary: Display: =================
+[2022.11.05-21.43.36:023][509]LogShaderLibrary: Display: Assets: 0, Unique Shadermaps: 70 (0.00%)
+[2022.11.05-21.43.36:023][509]LogShaderLibrary: Display: Total Shaders: 546, Unique Shaders: 536 (98.17%)
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: Total Shader Size: 3.37mb, Unique Shaders Size: 3.36mb (99.75%)
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: === Extended info:
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: Maximum number of shaders in shadermap: 110
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display:     3, 2, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-Global-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2022.11.05-21.43.36:024][509]LogShaderLibrary: Display: =================
+[2022.11.05-21.43.36:028][509]LogLauncherProfile: Project requires temp target (OnlineSubsystemGooglePlay plugin is disabled)
+[2022.11.05-21.43.36:028][509]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Binaries/Android/UE4Game.target does not exist.
+[2022.11.05-21.43.36:028][509]LogLauncherProfile: Project requires temp target (OnlineSubsystemGooglePlay plugin is disabled)
+[2022.11.05-21.43.36:028][509]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Binaries/Android/UE4Game.target does not exist.
+[2022.11.05-21.43.36:090][510]LogCook: Display: Cooked packages 0 Packages Remain 20 Total 20
+[2022.11.05-21.43.36:090][510]LogCook: Display: Cook Diagnostics: OpenFileHandles=649, VirtualMemory=3993MiB
+[2022.11.05-21.43.36:094][510]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.05-21.43.36:147][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.05-21.43.36:526][511]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2022.11.05-21.43.36:526][511]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (ASTC_RGB, 256X256)
+[2022.11.05-21.43.36:526][511]LogTexture: Display: Building textures: HQ_Lightmap0_2 (ASTC_RGBAuto, 256X256)
+[2022.11.05-21.43.36:526][511]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (ASTC_RGB, 1024X1024)
+[2022.11.05-21.43.36:526][511]LogMaterial: Display: Missing cached shadermap for RedMarkerMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 411F69FF97017DE35B6EAB9EDDD8DCB174FB8C74), compiling. 
+[2022.11.05-21.43.36:540][511]LogTexture: Display: Building textures: HQ_Lightmap0_1 (ASTC_RGBAuto, 1024X1024)
+[2022.11.05-21.43.36:540][511]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:549][511]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.43.36:549][511]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.43.36:549][511]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:551][511]LogMaterial: Display: Missing cached shadermap for MarkerBlueMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 6324C44B80D8CF8B30E4EF09D55C452BDD357FE2), compiling. 
+[2022.11.05-21.43.36:643][511]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:670][512]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.11.05-21.43.36:670][512]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.11.05-21.43.36:670][512]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.11.05-21.43.36:670][512]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.11.05-21.43.36:670][512]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.11.05-21.43.36:670][512]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.11.05-21.43.36:670][512]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:676][512]LogMaterial: Display: Missing cached shadermap for BlueMarkerMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 81B9354F337A35BA4610CB11CD9A950D842F7DA9), compiling. 
+[2022.11.05-21.43.36:683][512]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:895][513]LogMaterial: Display: Missing cached shadermap for MarkerRedMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 3552726E0088D7E2248DE47233AA245C0FC858B5), compiling. 
+[2022.11.05-21.43.36:914][513]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:925][513]LogMaterial: Display: Missing cached shadermap for MarkerBlackMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: F8D124ED0AEEAA68CBF4F03AE4E8F6E0C37A2C34), compiling. 
+[2022.11.05-21.43.36:948][513]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:952][513]LogMaterial: Display: Missing cached shadermap for BlackMarkerMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 3316B510AA9E5AFCBE7006855B32552D3BC71122), compiling. 
+[2022.11.05-21.43.36:959][513]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.36:972][513]LogMaterial: Display: Missing cached shadermap for WhiteboardMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 72A930390D5841FB09AD2132A647A778BE004F3E), compiling. 
+[2022.11.05-21.43.36:993][513]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.37:698][518]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 52
+[2022.11.05-21.43.37:699][518]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2022.11.05-21.43.37:699][518]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.37:699][518]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2022.11.05-21.43.38:153][521]LogCook: Display: Cooked packages 214 Packages Remain 447 Total 661
+[2022.11.05-21.43.38:714][526]LogCook: Display: Excluding /MagicLeapPassableWorld/MagicLeapARPinInfoActor -> C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/EditorCooked/Android_ASTC/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset
+[2022.11.05-21.43.38:847][527]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 38
+[2022.11.05-21.43.38:847][527]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.39:125][530]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2022.11.05-21.43.39:125][530]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.39:450][532]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2022.11.05-21.43.39:450][532]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.39:516][533]LogMaterial: Display: Missing cached shadermap for PersonaFloorMat in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: DD11AF30A323DF139FF19234D61138A526111811), compiling. 
+[2022.11.05-21.43.39:735][533]LogShaderCompilers: Display: Submitted 45 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.40:030][534]LogCook: Display: Cooked packages 419 Packages Remain 242 Total 661
+[2022.11.05-21.43.40:046][535]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2022.11.05-21.43.40:046][535]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.40:174][537]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 3CD91A8AC24C2ED7CA11681EFB42CC4992E46F0D), compiling. 
+[2022.11.05-21.43.40:198][537]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 60
+[2022.11.05-21.43.40:198][537]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.40:198][537]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.40:430][539]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 67
+[2022.11.05-21.43.40:430][539]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.40:570][540]LogMaterial: Display: Missing cached shadermap for GridMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 435C9B4CDEC29BF78F8085223E86A4621355A7CC), compiling. 
+[2022.11.05-21.43.40:610][540]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.42:354][541]LogCook: Display: Cooked packages 645 Packages Remain 17 Total 662
+[2022.11.05-21.43.42:414][542]LogMaterial: Display: Missing cached shadermap for M_SkyBox in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 34921D72B2EE1C57323525A980A5AFBD0F537E69), compiling. 
+[2022.11.05-21.43.42:422][542]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.42:529][543]LogMaterial: Display: Missing cached shadermap for GreenMarkerMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: C7E0B5448DCBAA8109259A288A45F38A7769E97D), compiling. 
+[2022.11.05-21.43.42:536][543]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.42:538][543]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 14A3B18E6CD3AE49DB93D332E92EA079DD365B94), compiling. 
+[2022.11.05-21.43.42:576][543]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.43.44:051][589]LogCook: Display: Cooked packages 650 Packages Remain 12 Total 662
+[2022.11.05-21.43.45:200][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 92
+[2022.11.05-21.43.45:200][614]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.45:326][619]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 82
+[2022.11.05-21.43.45:326][619]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.46:039][654]LogCook: Display: Cooked packages 651 Packages Remain 11 Total 662
+[2022.11.05-21.43.46:251][663]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 72
+[2022.11.05-21.43.46:251][663]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.46:867][695]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2022.11.05-21.43.46:867][695]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.46:972][698]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2022.11.05-21.43.46:972][698]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.48:035][749]LogCook: Display: Cooked packages 652 Packages Remain 10 Total 662
+[2022.11.05-21.43.51:028][909]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2022.11.05-21.43.51:028][909]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.51:735][944]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2022.11.05-21.43.51:735][944]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.52:528][982]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2022.11.05-21.43.52:528][982]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.54:033][ 59]LogCook: Display: Cooked packages 652 Packages Remain 10 Total 662
+[2022.11.05-21.43.55:392][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2022.11.05-21.43.55:392][131]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.56:770][201]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2022.11.05-21.43.56:770][201]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.56:823][201]LogCook: Display: Cooked packages 654 Packages Remain 8 Total 662
+[2022.11.05-21.43.57:771][249]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.11.05-21.43.57:771][249]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.58:033][258]LogCook: Display: Cooked packages 655 Packages Remain 7 Total 662
+[2022.11.05-21.43.58:216][264]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.11.05-21.43.58:216][264]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.59:222][315]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.11.05-21.43.59:222][315]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.59:632][336]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2022.11.05-21.43.59:632][336]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.43.59:835][345]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.11.05-21.43.59:835][345]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.00:028][352]LogCook: Display: Cooked packages 656 Packages Remain 6 Total 662
+[2022.11.05-21.44.01:441][423]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.11.05-21.44.01:441][423]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.01:537][424]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.11.05-21.44.01:537][424]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.01:828][437]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.11.05-21.44.01:828][437]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.01:917][442]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.11.05-21.44.01:917][442]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.02:030][445]LogCook: Display: Cooked packages 657 Packages Remain 5 Total 662
+[2022.11.05-21.44.02:381][462]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.11.05-21.44.02:381][462]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.02:620][469]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.11.05-21.44.02:620][469]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.03:052][490]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.11.05-21.44.03:052][490]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.03:154][494]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.11.05-21.44.03:154][494]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.44.04:031][537]LogCook: Display: Cooked packages 661 Packages Remain 1 Total 662
+[2022.11.05-21.44.04:349][555]LogCook: Display: Cooked packages 662 Packages Remain 0 Total 662
+[2022.11.05-21.44.04:350][555]LogCook: Display: Cook Diagnostics: OpenFileHandles=650, VirtualMemory=4199MiB
+[2022.11.05-21.44.04:350][555]LogCook: Display: Finishing up...
+[2022.11.05-21.44.04:350][555]LogCook: Display: Saving BulkData manifest(s)...
+[2022.11.05-21.44.04:351][555]LogCook: Display: Done saving BulkData manifest(s)
+[2022.11.05-21.44.04:351][555]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.11.05-21.44.04:351][555]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.11.05-21.44.04:351][555]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.11.05-21.44.04:371][555]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2022.11.05-21.44.04:372][555]LogAssetRegistryGenerator: Chunk: 0, Started with 650 packages, Final after dependency resolve: 650
+[2022.11.05-21.44.04:373][555]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2022.11.05-21.44.04:373][555]LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.11.05-21.44.04:389][555]LogAssetRegistryGenerator: Display: Generated asset registry num assets 669, size is 202.04kb
+[2022.11.05-21.44.04:390][555]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.11.05-21.44.04:482][555]LogShaderLibrary: Display: 
+[2022.11.05-21.44.04:483][555]LogShaderLibrary: Display: Shader Library 'TemplateProject3' (SF_VULKAN_ES31_ANDROID) Stats:
+[2022.11.05-21.44.04:483][555]LogShaderLibrary: Display: =================
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: Assets: 147, Unique Shadermaps: 109 (74.15%)
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: Total Shaders: 2638, Unique Shaders: 1900 (72.02%)
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: Total Shader Size: 30.38mb, Unique Shaders Size: 24.70mb (81.30%)
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: === Extended info:
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: Median number of shaders in shadermap: 8
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: Maximum number of shaders in shadermap: 287
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.05-21.44.04:484][555]LogShaderLibrary: Display:     54, 38, 9, 9, 9, 9, 9, 8, 8, 7
+[2022.11.05-21.44.04:487][555]LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-TemplateProject3-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2022.11.05-21.44.04:487][555]LogShaderLibrary: Display: =================
+[2022.11.05-21.44.04:488][555]LogCook: Display: Cook by the book total time in tick 6.594506s total time 29.136549
+[2022.11.05-21.44.04:488][555]LogCook: Display: Peak Used virtual 4254 MiB Peak Used physical 2846 MiB
+[2022.11.05-21.44.04:488][555]LogCook: Display: Hierarchy Timer Information:
+[2022.11.05-21.44.04:488][555]LogCook: Display:   Root: 0.000s (0)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     CleanSandbox: 0.019s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     CollectFilesToCook: 0.003s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       SearchForPackageOnDisk: 0.000s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     TickCookOnTheSide: 6.593s (1046)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       PostLoadPackageFixup: 0.001s (2761)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       LoadPackageForCooking: 1.087s (662)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       SavingPackages: 5.489s (1048)
+[2022.11.05-21.44.04:488][555]LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.850s (89)
+[2022.11.05-21.44.04:488][555]LogCook: Display:         PrecachePlatformDataForNextPackage: 1.267s (671)
+[2022.11.05-21.44.04:488][555]LogCook: Display:           BeginPackageCacheForCookedPlatformData: 1.266s (589)
+[2022.11.05-21.44.04:488][555]LogCook: Display:         SaveCookedPackage: 1.944s (662)
+[2022.11.05-21.44.04:488][555]LogCook: Display:           GEditorSavePackage: 1.911s (661)
+[2022.11.05-21.44.04:488][555]LogCook: Display:             ConvertingBlueprints: 0.007s (661)
+[2022.11.05-21.44.04:488][555]LogCook: Display:             VerifyCanCookPackage: 0.005s (650)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     GeneratingBlueprintAssets: 0.000s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     SavingCurrentIniSettings: 0.008s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:     SavingAssetRegistry: 0.127s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       BuildChunkManifest: 0.011s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       SaveManifests: 0.002s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       SaveRealAssetRegistry: 0.016s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display:       WriteCookerOpenOrder: 0.034s (1)
+[2022.11.05-21.44.04:488][555]LogCook: Display: Done!
+[2022.11.05-21.44.04:801][556]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 27.445215
+[2022.11.05-21.44.05:173][578]LogPlayLevel: Running AutomationTool...
+[2022.11.05-21.44.05:732][611]LogPlayLevel: Parsing command line: -ScriptsForProject="C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/TemplateProject3.uproject" BuildCookRun -project="C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/TemplateProject3.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -utf8output -platform=Android -targetplatform=Android -cookflavor=ASTC -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -build -map=/Game/Maps/BaseLevel -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/Maps/BaseLevel -Messaging" -device=Android_ASTC@1WMHHB6BHU2122 -addcmdline="-SessionId=ED34641048509216317BB5A541D7ABBE -SessionOwner='SLATE 15' -SessionName='Launch On Device'  " -run
+[2022.11.05-21.44.05:899][621]LogPlayLevel: Setting up ProjectParams for C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\TemplateProject3.uproject
+[2022.11.05-21.44.06:131][635]LogPlayLevel: TemplateProject3.uproject requires a temporary target.cs to be generated (OnlineSubsystemGooglePlay plugin is disabled)
+[2022.11.05-21.44.06:149][636]LogPlayLevel: ********** BUILD COMMAND STARTED **********
+[2022.11.05-21.44.06:272][643]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.256950
+[2022.11.05-21.44.06:670][667]LogPlayLevel: Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe TemplateProject3 Android Development -Project="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\TemplateProject3.uproject"  "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\TemplateProject3.uproject" -NoUBTMakefiles  -remoteini="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3" -skipdeploy -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -Manifest="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-TemplateProject3-Android-Development.txt"
+[2022.11.05-21.44.07:690][728]LogPlayLevel:   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room).
+[2022.11.05-21.44.07:690][728]LogPlayLevel:   PLATFORM_ANDROID_NDK_VERSION = 210500
+[2022.11.05-21.44.07:840][737]LogPlayLevel:   NDK toolchain: r21e, NDK version: 21, GccVersion: 4.9, ClangVersion: 9.0.9
+[2022.11.05-21.44.08:007][747]LogPlayLevel:   Compiling Native 32-bit code with NDK API 'android-21'
+[2022.11.05-21.44.08:107][753]LogPlayLevel:   Writing manifest to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Intermediate\Build\Manifest.xml
+[2022.11.05-21.44.08:107][753]LogPlayLevel:   Target is up to date
+[2022.11.05-21.44.08:141][755]LogPlayLevel:   Total execution time: 1.92 seconds
+[2022.11.05-21.44.08:157][756]LogPlayLevel: Took 1.9922754s to run UnrealBuildTool.exe, ExitCode=0
+[2022.11.05-21.44.08:157][756]LogPlayLevel: ********** BUILD COMMAND COMPLETED **********
+[2022.11.05-21.44.08:206][759]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2022.11.05-21.44.08:224][760]LogPlayLevel: Creating UE4CommandLine.txt
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Creating Staging Manifest...
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditor.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseLightmass.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Category.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Editor.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Engine.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2022.11.05-21.44.08:240][761]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2022.11.05-21.44.08:274][763]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.502829
+[2022.11.05-21.44.08:323][766]LogPlayLevel: Excluding config file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Config\DefaultEditor.ini
+[2022.11.05-21.44.09:135][811]LogPlayLevel: Cleaning Stage Directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.44.09:153][812]LogPlayLevel: Copying NonUFSFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.44.15:485][192]LogPlayLevel: Copying UFSFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.44.15:520][194]LogPlayLevel: Copying DebugFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.44.15:601][199]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell "echo $EXTERNAL_STORAGE"
+[2022.11.05-21.44.15:601][199]LogPlayLevel: Took 0.0712581s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.15:652][202]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  pull /sdcard/UE4Game/TemplateProject3/Manifest_UFSFiles_Android.txt "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC\Manifest_UFSFiles_Android_1WMHHB6BHU2122.txt"
+[2022.11.05-21.44.15:652][202]LogPlayLevel: Took 0.0547306s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.15:704][205]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  pull /sdcard/UE4Game/TemplateProject3/Manifest_NonUFSFiles_Android.txt "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC\Manifest_NonUFSFiles_Android_1WMHHB6BHU2122.txt"
+[2022.11.05-21.44.15:704][205]LogPlayLevel: Took 0.0494155s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.15:721][206]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2022.11.05-21.44.15:721][206]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2022.11.05-21.44.15:721][206]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2022.11.05-21.44.15:886][216]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2022.11.05-21.44.15:985][222]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  shell getprop ro.product.cpu.abi
+[2022.11.05-21.44.15:985][222]LogPlayLevel: Took 0.0893364s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.15:985][222]LogPlayLevel: AndroidPlugin: Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
+[2022.11.05-21.44.15:985][222]LogPlayLevel: AndroidPlugin: Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMessaging_UPL.xml
+[2022.11.05-21.44.15:985][222]LogPlayLevel: AndroidPlugin: Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: AndroidPlugin: Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\OculusMobile_APL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: AndroidPlugin: Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: AndroidPlugin: Source\ThirdParty\HWCPipe\HWCPipe_UPL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: AndroidPlugin: Source\ThirdParty\heapprofd\heapprofd_UPL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: AndroidPlugin: Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: UPL: Engine\Plugins/Runtime/AndroidPermission/Source/AndroidPermission/AndroidPermission_APL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: UPL: Engine\Plugins/Runtime/GoogleCloudMessaging/Source/GoogleCloudMessaging/GoogleCloudMessaging_UPL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: UPL: Engine\Plugins/Runtime/GooglePAD/Source/GooglePAD/GooglePAD_APL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: UPL: Engine\Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/OculusMobile_APL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: UPL: Engine\Source/Runtime/Online/Voice/AndroidVoiceImpl_UPL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: UPL: Engine\Source/ThirdParty/HWCPipe/HWCPipe_UPL.xml
+[2022.11.05-21.44.15:986][222]LogPlayLevel: UPL: Engine\Source/ThirdParty/heapprofd/heapprofd_UPL.xml
+[2022.11.05-21.44.16:068][227]LogPlayLevel: UPL: Engine\Source/ThirdParty/GoogleGameSDK/GoogleGameSDK_APL.xml
+[2022.11.05-21.44.16:068][227]LogPlayLevel: Using package name: 'com.YourCompany.TemplateProject3'
+[2022.11.05-21.44.16:068][227]LogPlayLevel: GotStoreVersion found v1. (bUseChangeListAsStoreVersion=False IsBuildMachine=False EngineChangeList=0)
+[2022.11.05-21.44.16:102][229]LogPlayLevel: Writing packageInfo pkgName:com.YourCompany.TemplateProject3 storeVersion:1 versionDisplayName:1.0 to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Binaries\Android\packageInfo.txt
+[2022.11.05-21.44.16:102][229]LogPlayLevel: 
+[2022.11.05-21.44.16:102][229]LogPlayLevel: ====05/11/2022 21:44:16====PREPARING TO MAKE APK=================================================================
+[2022.11.05-21.44.16:102][229]LogPlayLevel: bBuildForES31: false
+[2022.11.05-21.44.16:103][229]LogPlayLevel: bSupportsVulkan: true
+[2022.11.05-21.44.16:103][229]LogPlayLevel: Building Java with SDK API level 'android-30'
+[2022.11.05-21.44.16:119][230]LogPlayLevel: Building with Build Tools version '30.0.3'
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Writing to shim file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\epicgames\ue4\DownloadShim.java ====
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Shim data file up to date so not writing. ====
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3\AlarmReceiver.java ====
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3\DownloaderActivity.java ====
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3\OBBDownloaderService.java ====
+[2022.11.05-21.44.16:119][230]LogPlayLevel: 
+[2022.11.05-21.44.16:119][230]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.11.05-21.44.16:185][234]LogPlayLevel: Cleaning up files based on template dir C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3
+[2022.11.05-21.44.16:237][237]LogPlayLevel: UPL Init: armeabi-v7a
+[2022.11.05-21.44.16:237][237]LogPlayLevel: Android Permission Plugin Init
+[2022.11.05-21.44.16:252][238]LogPlayLevel: Google Cloud Messaging init
+[2022.11.05-21.44.16:252][238]LogPlayLevel: GCMClientSenderID set: false
+[2022.11.05-21.44.16:252][238]LogPlayLevel: GooglePAD Plugin Init
+[2022.11.05-21.44.16:252][238]LogPlayLevel: GooglePAD enabled: false
+[2022.11.05-21.44.16:252][238]LogPlayLevel: Oculus mobile init
+[2022.11.05-21.44.16:252][238]LogPlayLevel: Android Voice init
+[2022.11.05-21.44.16:252][238]LogPlayLevel: HWCPipe init
+[2022.11.05-21.44.16:252][238]LogPlayLevel: heapprofd init
+[2022.11.05-21.44.16:252][238]LogPlayLevel: Unsupported architecture: armeabi-v7a
+[2022.11.05-21.44.16:252][238]LogPlayLevel: GoogleGameSDK Android init
+[2022.11.05-21.44.16:270][239]LogPlayLevel: APK contains data.
+[2022.11.05-21.44.16:287][240]LogPlayLevel: Disabling Show Launch Image for Oculus Mobile enabled application
+[2022.11.05-21.44.16:287][240]LogPlayLevel: Output .apk file(s) are up to date (dependencies and build settings are up to date)
+[2022.11.05-21.44.16:302][241]LogPlayLevel: Using this aapt: C:\Users\SLATE 15\AppData\Local\Android\Sdk\build-tools\30.0.3\aapt.exe
+[2022.11.05-21.44.16:302][241]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:352][244]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell "echo $EXTERNAL_STORAGE"
+[2022.11.05-21.44.16:369][245]LogPlayLevel: Took 0.0520835s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.16:369][245]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:402][247]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.44.16:402][247]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:419][248]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:436][249]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.44.16:452][250]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:468][251]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:486][252]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.44.16:503][253]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:520][254]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:520][254]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.44.16:520][254]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:619][260]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell pm list packages com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:619][260]LogPlayLevel: Took 0.0941077s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.16:701][265]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell cat /sdcard/UE4Game/TemplateProject3/APKFileStamp.txt
+[2022.11.05-21.44.16:701][265]LogPlayLevel: Took 0.0785371s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.16:802][271]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell am force-stop com.YourCompany.TemplateProject3
+[2022.11.05-21.44.16:802][271]LogPlayLevel: Took 0.0901424s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.16:802][271]LogPlayLevel: Creating UE4CommandLine.txt
+[2022.11.05-21.44.16:937][279]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm -r /sdcard/UE4Game/TemplateProject3
+[2022.11.05-21.44.16:937][279]LogPlayLevel: Took 0.1523012s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.27:320][902]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 push "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC" "/sdcard/UE4Game/TemplateProject3"
+[2022.11.05-21.44.27:320][902]LogPlayLevel: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC\: 2477 files pushed, 0 skipped. 19.9 MB/s (215273229 bytes in 10.331s)
+[2022.11.05-21.44.27:385][906]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/main.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.44.27:403][907]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/main.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.44.27:403][907]LogPlayLevel: Took 0.0783777s to run adb.exe, ExitCode=1
+[2022.11.05-21.44.27:469][911]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/patch.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.44.27:486][912]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/patch.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.44.27:486][912]LogPlayLevel: Took 0.0778943s to run adb.exe, ExitCode=1
+[2022.11.05-21.44.27:552][916]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/overflow1.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.44.27:552][916]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/overflow1.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.44.27:552][916]LogPlayLevel: Took 0.0673843s to run adb.exe, ExitCode=1
+[2022.11.05-21.44.27:618][920]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/overflow2.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.44.27:618][920]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/overflow2.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.44.27:618][920]LogPlayLevel: Took 0.0718002s to run adb.exe, ExitCode=1
+[2022.11.05-21.44.27:618][920]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2022.11.05-21.44.27:619][920]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2022.11.05-21.44.27:703][925]LogPlayLevel: Starting Client....
+[2022.11.05-21.44.27:769][929]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  shell getprop ro.product.cpu.abi
+[2022.11.05-21.44.27:786][930]LogPlayLevel: Took 0.0579324s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.27:787][930]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.44.27:787][930]LogPlayLevel: Running Package@Device:com.YourCompany.TemplateProject3@1WMHHB6BHU2122
+[2022.11.05-21.44.27:835][933]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 19.047601
+[2022.11.05-21.44.27:852][934]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 logcat -c
+[2022.11.05-21.44.27:852][934]LogPlayLevel: Took 0.0726589s to run adb.exe, ExitCode=0
+[2022.11.05-21.44.27:922][938]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell am start -n com.YourCompany.TemplateProject3/com.epicgames.ue4.GameActivity
+[2022.11.05-21.44.27:968][941]LogPlayLevel:   Starting: Intent { cmp=com.YourCompany.TemplateProject3/com.epicgames.ue4.GameActivity }
+[2022.11.05-21.44.33:553][276]LogTcpMessaging: Discovered node '6B0A38E9EFA045D4BEAFAA3571C595DC' on connection '127.0.0.1:6666'...
+[2022.11.05-21.44.40:220][676]LogTcpMessaging: Discovered node '51796353EB524BAE8BE83EDFB5920DD4' on connection '127.0.0.1:6666'...
+[2022.11.05-21.45.34:016][903]Cmd: SELECT NONE
+[2022.11.05-21.45.39:014][198]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 70.673501
+[2022.11.05-21.45.40:248][272]LogTemp: Repeating last play command: VR Preview
+[2022.11.05-21.45.40:255][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.05-21.45.40:255][272]PIE: New page: PIE session: BaseLevel (5 Nov 2022, 21:45:40)
+[2022.11.05-21.45.40:259][272]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.11.05-21.45.40:260][272]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.05-21.45.40:260][272]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2022.11.05-21.45.40:267][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007552s)
+[2022.11.05-21.45.40:268][272]LogAIModule: Creating AISystem for world BaseLevel
+[2022.11.05-21.45.40:268][272]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2022.11.05-21.45.40:268][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.008789s)
+[2022.11.05-21.45.40:339][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.11.05-21.45.40:343][272]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.05-21.45.40:343][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.05-21.45.40:343][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.05-21.45.40:343][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.05-21.45.40:343][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.05-21.45.40:343][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.05-21.45.40:343][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.05-21.45.40:343][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.05-21.45.40:343][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.05-21.45.40:344][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.05-21.45.40:344][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.05-21.45.40:344][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.05-21.45.40:344][272]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.05-21.45.40:348][272]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.45.40:348][272]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.45.40:350][272]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.45.40:350][272]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.45.40:352][272]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.45.40:353][272]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.45.40:356][272]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.45.40:356][272]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.45.40:366][272]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.11.05-21.45.40:366][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.05-21.45.40:366][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.05-21.45.40:367][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.05-21.45.40:367][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.05-21.45.40:367][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.05-21.45.40:367][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.05-21.45.40:368][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.05-21.45.40:368][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.05-21.45.40:368][272]LogInit: FAudioDevice initialized.
+[2022.11.05-21.45.40:368][272]LogAudio: Display: Audio Device (ID: 2) registered with world 'BaseLevel'.
+[2022.11.05-21.45.40:383][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-21.45.40:393][272]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.11.05-21.45.40:446][272]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.05-21.45.40:449][272]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.11.05-21.45.40
+[2022.11.05-21.45.40:449][272]LogWorld: Bringing up level for play took: 0.001690
+[2022.11.05-21.45.40:450][272]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.11.05-21.45.40:453][272]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.05-21.45.40:457][272]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2022.11.05-21.45.40:465][272]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.05-21.45.40:467][272]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.05-21.45.40:476][272]PIE: Server logged in
+[2022.11.05-21.45.40:477][272]PIE: Play in editor total start time 0.224 seconds.
+[2022.11.05-21.45.40:478][272]LogEngine: Changing dynamic resolution state.
+[2022.11.05-21.45.40:490][272]LogRenderer: Warning: Resizing VR buffer to 3648 by 1840
+[2022.11.05-21.45.40:490][272]LogRenderer: Reallocating scene render targets to support 3648x1840 Format 10 NumSamples 1 (Frame:1).
+[2022.11.05-21.45.40:490][272]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.11.05-21.45.57:637][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-21.45.57:637][784]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2022.11.05-21.45.57:680][784]LogSlate: Window 'TemplateProject3 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.11.05-21.45.57:709][784]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.05-21.45.57:710][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-21.45.57:720][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.05-21.45.57:725][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-21.45.57:760][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.05-21.45.57:761][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.05-21.45.57:795][784]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.05-21.45.57:795][784]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.05-21.45.57:826][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2022.11.05-21.45.57:849][785]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.11.05-21.45.57:871][785]LogEngine: Changing dynamic resolution state.
+[2022.11.05-21.46.06:516][284]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.05-21.46.07:621][347]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerColours2810DE3B47DC7A4AEB97FE9CF8AE6EB4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/MarkerColours.uasset'
+[2022.11.05-21.46.07:633][347]AssetCheck: New page: Asset Save: MarkerColours
+[2022.11.05-21.46.07:633][347]LogContentValidation: Display: Validating MaterialParameterCollection /Game/Whiteboard/Markers/MarkerColours.MarkerColours
+[2022.11.05-21.46.13:850][717]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.05-21.46.15:087][790]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerColours50EF03E54F0C7AD7E34DCE8AB7F78097.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/MarkerColours.uasset'
+[2022.11.05-21.46.15:100][790]AssetCheck: New page: Asset Save: MarkerColours
+[2022.11.05-21.46.15:100][790]LogContentValidation: Display: Validating MaterialParameterCollection /Game/Whiteboard/Markers/MarkerColours.MarkerColours
+[2022.11.05-21.46.18:916][988]LogTemp: Repeating last play command: VR Preview
+[2022.11.05-21.46.18:923][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.05-21.46.18:923][988]LogHMD: Initializing OVRPlugin session
+[2022.11.05-21.46.19:145][988]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.11.05-21.46.19:146][988]PIE: New page: PIE session: BaseLevel (5 Nov 2022, 21:46:19)
+[2022.11.05-21.46.19:146][988]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2022.11.05-21.46.19:148][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002565s)
+[2022.11.05-21.46.19:149][988]LogAIModule: Creating AISystem for world BaseLevel
+[2022.11.05-21.46.19:149][988]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2022.11.05-21.46.19:150][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.003874s)
+[2022.11.05-21.46.19:192][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.11.05-21.46.19:193][988]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.05-21.46.19:193][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.05-21.46.19:193][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.05-21.46.19:193][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.05-21.46.19:194][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.05-21.46.19:194][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.05-21.46.19:194][988]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.05-21.46.19:194][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.05-21.46.19:194][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.05-21.46.19:194][988]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.05-21.46.19:194][988]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.05-21.46.19:194][988]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.05-21.46.19:194][988]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.05-21.46.19:198][988]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.46.19:198][988]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.46.19:200][988]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.46.19:200][988]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.46.19:201][988]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.46.19:201][988]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.46.19:205][988]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.05-21.46.19:205][988]LogAudioMixer: Display: 1: FrontRight
+[2022.11.05-21.46.19:211][988]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.11.05-21.46.19:211][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.05-21.46.19:211][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.05-21.46.19:211][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.05-21.46.19:211][988]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.05-21.46.19:211][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.05-21.46.19:211][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.05-21.46.19:212][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.05-21.46.19:212][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.05-21.46.19:212][988]LogInit: FAudioDevice initialized.
+[2022.11.05-21.46.19:212][988]LogAudio: Display: Audio Device (ID: 3) registered with world 'BaseLevel'.
+[2022.11.05-21.46.19:222][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-21.46.19:231][988]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.11.05-21.46.19:280][988]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.05-21.46.19:283][988]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.11.05-21.46.19
+[2022.11.05-21.46.19:284][988]LogWorld: Bringing up level for play took: 0.003145
+[2022.11.05-21.46.19:284][988]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.11.05-21.46.19:285][988]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.05-21.46.19:286][988]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.05-21.46.19:287][988]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.05-21.46.19:290][988]PIE: Server logged in
+[2022.11.05-21.46.19:292][988]PIE: Play in editor total start time 0.369 seconds.
+[2022.11.05-21.46.19:292][988]LogEngine: Changing dynamic resolution state.
+[2022.11.05-21.46.19:296][988]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.11.05-21.46.42:309][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-21.46.42:309][695]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2022.11.05-21.46.42:342][695]LogSlate: Window 'TemplateProject3 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.11.05-21.46.42:379][695]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.05-21.46.42:379][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-21.46.42:389][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.05-21.46.42:393][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-21.46.42:419][695]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.05-21.46.42:420][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.05-21.46.42:420][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.05-21.46.42:425][695]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.05-21.46.42:425][695]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.05-21.46.42:428][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.11.05-21.46.42:453][696]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.05-21.46.42:461][696]LogEngine: Changing dynamic resolution state.
+[2022.11.05-21.46.54:334][372]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial.MarkerGreenMaterial
+[2022.11.05-21.46.54:336][372]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3513541D7CFD5F184B8D7D821A16D7271A308F09), compiling. 
+[2022.11.05-21.46.54:365][372]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.11.05-21.46.54:410][372]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 813DE8F99114EF0230BC957DE5F0EDF9A47880F0), compiling. 
+[2022.11.05-21.46.54:413][372]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 68485BD2E3AC79592EC8DDB26B64F28816573089), compiling. 
+[2022.11.05-21.46.54:414][372]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C97B584898DF6675AA544B252DC0269292D615B), compiling. 
+[2022.11.05-21.46.54:428][372]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.46.54:462][373]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.46.54:489][374]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.11.05-21.46.54:490][374]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.46.54:524][376]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.46.54:524][376]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.11.05-21.46.54:524][376]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.11.05-21.46.54:525][376]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.46.55:803][444]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.05-21.46.55:804][444]LogShaderCompilers: Display: Total job queries 5900, among them cache hits 53 (0.90%)
+[2022.11.05-21.46.55:804][444]LogShaderCompilers: Display: Tracking 5785 distinct input hashes that result in 2513 distinct outputs (43.44%)
+[2022.11.05-21.46.55:804][444]LogShaderCompilers: Display: RAM used: 68.39 MB (0.07 GB) of 819.20 MB (0.80 GB) budget. Usage: 8.35%
+[2022.11.05-21.46.55:804][444]LogShaderCompilers: Display: ================================================
+[2022.11.05-21.46.56:284][463]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.47.06:477][ 26]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DB391CFF233D564B892A21BD31E29901264257BF), compiling. 
+[2022.11.05-21.47.06:480][ 26]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 89AF8259691FB1D52D3F277D1517DF3CBCDD190E), compiling. 
+[2022.11.05-21.47.06:482][ 26]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BF657B96DBD05D8678091AEE3DE82C7A8ABE40DB), compiling. 
+[2022.11.05-21.47.06:554][ 30]MaterialEditorStats: Base pass shader: 793 instructions
+[2022.11.05-21.47.06:554][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 860 instructions
+[2022.11.05-21.47.06:554][ 30]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.47.06:554][ 30]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.12:449][362]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BF2D8BB97D28868242855A5389B3C94DA7CF0065), compiling. 
+[2022.11.05-21.47.12:451][362]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2185D94B0EC21018FBED5073097701C542014DD8), compiling. 
+[2022.11.05-21.47.12:453][362]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.12:481][364]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.12:499][365]MaterialEditorStats: Base pass shader: 793 instructions
+[2022.11.05-21.47.12:499][365]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 860 instructions
+[2022.11.05-21.47.12:499][365]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.47.12:499][365]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.15:083][520]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 80A88B4AD63EFAD9B93FDCDDF6F1C0EFD6089F45), compiling. 
+[2022.11.05-21.47.15:085][520]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7A67DDFC72EB5CFF88E08CA1BD3DA91959B96863), compiling. 
+[2022.11.05-21.47.15:087][520]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.15:116][522]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.15:132][523]MaterialEditorStats: Base pass shader: 793 instructions
+[2022.11.05-21.47.15:132][523]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 860 instructions
+[2022.11.05-21.47.15:132][523]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.47.15:132][523]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.20:167][825]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2FCCF7992038E2BCA35588B5DABFB59AD7437540), compiling. 
+[2022.11.05-21.47.20:169][825]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A5D682C39D3377D368BB0B04CA564F8F7FB0ED5F), compiling. 
+[2022.11.05-21.47.20:170][825]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.20:199][827]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.20:216][828]MaterialEditorStats: Base pass shader: 793 instructions
+[2022.11.05-21.47.20:216][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 860 instructions
+[2022.11.05-21.47.20:216][828]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.47.20:216][828]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.22:731][956]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CD39B61D7C6B95D818CDFF098D41EDD2C1B9CF69), compiling. 
+[2022.11.05-21.47.22:735][956]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.22:738][957]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.22:754][958]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.11.05-21.47.22:755][958]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.24:073][ 25]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.47.27:999][247]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 564D830D9FF40532675104D3D55FA6C6F3F1DE92), compiling. 
+[2022.11.05-21.47.28:005][247]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DBC8E2C7465CA8D6327D43397D737B7131DF05C3), compiling. 
+[2022.11.05-21.47.28:009][247]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.28:018][248]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.28:019][248]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.11.05-21.47.28:019][248]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.11.05-21.47.28:019][248]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.28:028][249]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.28:049][250]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.11.05-21.47.28:049][250]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.29:372][328]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.11.05-21.47.29:372][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.29:376][328]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.47.30:537][392]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.11.05-21.47.30:537][392]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.32:503][497]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.11.05-21.47.32:503][497]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.33:922][571]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.11.05-21.47.33:923][571]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.34:210][585]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.11.05-21.47.34:210][585]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.34:213][585]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 47E82A89143C64D1A4993BFA22BB242B6B69D4E3), compiling. 
+[2022.11.05-21.47.34:218][585]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.34:284][586]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.34:284][586]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.34:681][608]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.11.05-21.47.34:681][608]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.35:189][629]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.11.05-21.47.35:189][629]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.36:328][678]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.11.05-21.47.36:328][678]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.39:831][878]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.11.05-21.47.39:831][878]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.40:795][935]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.11.05-21.47.40:795][935]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.41:077][949]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.11.05-21.47.41:077][949]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.42:565][ 23]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.47.43:019][ 46]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.11.05-21.47.43:020][ 46]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.44:120][106]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.11.05-21.47.44:120][106]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD9796AC2-4137-92D1-EB12-22A5C40177F4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2f03be184b07e43625de2ebf5bc1b896%7C71bd8d19f56d44079e411b118be23d9f%7C03b1bb36-58cf-429b-9257-edeeddcdcf5f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: request failed, libcurl error: 0 (No error)
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e46a1b3a90 [can pipeline])
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.173.150.65) port 443 (#4))
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 7 (Closing connection 4)
+[2022.11.05-21.47.44:285][115]LogHttp: Warning: 000001E53A49F900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.11.05-21.47.44:303][116]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD9796AC2-4137-92D1-EB12-22A5C40177F4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2f03be184b07e43625de2ebf5bc1b896%7C71bd8d19f56d44079e411b118be23d9f%7C03b1bb36-58cf-429b-9257-edeeddcdcf5f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.05-21.47.44:422][123]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.11.05-21.47.44:422][123]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.47.45:582][190]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AEC028A16CBF8F2AE401303BA13AB532908FB86F), compiling. 
+[2022.11.05-21.47.45:587][190]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B6C5BA28D060DFE6454752C5AE8BAA4CBADCAF79), compiling. 
+[2022.11.05-21.47.45:600][190]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.45:695][192]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.45:695][192]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.11.05-21.47.45:695][192]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.11.05-21.47.45:695][192]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.47.45:698][192]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.47.45:787][197]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.50:602][449]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 83F5D7C74B9D1B575AC9E45ADF40337B318A1241), compiling. 
+[2022.11.05-21.47.50:604][449]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.47.50:660][451]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.47.50:976][470]MaterialEditorStats: Base pass shader: 790 instructions
+[2022.11.05-21.47.50:976][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2022.11.05-21.47.50:976][470]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.47.50:976][470]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.06:872][399]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9B68BFA8A6EA5952EA07665CA410D9D07B7A6A6D), compiling. 
+[2022.11.05-21.48.06:874][399]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D61E32BF05E9C8C51BDB9A997E86E77AA986B4D2), compiling. 
+[2022.11.05-21.48.06:879][399]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.48.06:906][401]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.06:906][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.48.06:906][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.48.06:906][401]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.06:916][401]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.06:936][402]MaterialEditorStats: Base pass shader: 790 instructions
+[2022.11.05-21.48.06:936][402]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2022.11.05-21.48.06:936][402]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.48.06:936][402]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.10:048][581]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 028611F5FC75D3400A404B53D6F8495276ED071C), compiling. 
+[2022.11.05-21.48.10:049][581]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B6E831EA7BB877D3F12222EE99A3DDDC6073BE2), compiling. 
+[2022.11.05-21.48.10:053][581]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6AA5CE730A6FB6F46E31460C057D0615920D88F2), compiling. 
+[2022.11.05-21.48.10:054][581]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.48.10:081][583]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.10:098][584]MaterialEditorStats: Base pass shader: 790 instructions
+[2022.11.05-21.48.10:098][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2022.11.05-21.48.10:098][584]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.48.10:098][584]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.12:028][698]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2B573641658ACD0D78BF0C64DBFFFD0516380E1F), compiling. 
+[2022.11.05-21.48.12:030][698]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 590C1C011257D69FA9B4456E8575DB7B0F72DCAD), compiling. 
+[2022.11.05-21.48.12:032][698]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 471E2182B56746515AA0A66840CE039F62F5118C), compiling. 
+[2022.11.05-21.48.12:039][698]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F98665084284E571FB47208D49F350144C107EE6), compiling. 
+[2022.11.05-21.48.12:043][698]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.48.12:071][700]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.12:071][700]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.48.12:071][700]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.48.12:071][700]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.12:072][700]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.12:089][701]MaterialEditorStats: Base pass shader: 790 instructions
+[2022.11.05-21.48.12:089][701]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2022.11.05-21.48.12:089][701]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.48.12:089][701]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.19:183][ 89]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BD83026C0546F9D3765C88571D78AF5A0FDBD396), compiling. 
+[2022.11.05-21.48.19:184][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 24739881D4E0C320C28EB6AA1A0837347393BC47), compiling. 
+[2022.11.05-21.48.19:186][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F798FF1FA230BE7DB143E938E594F9D3E3B2705C), compiling. 
+[2022.11.05-21.48.19:187][ 89]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B21D412A5B217ADAF9A60AB31E11E0655C03264B), compiling. 
+[2022.11.05-21.48.19:188][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 520880BBAD6F2613AFFB623962CF475C1540B864), compiling. 
+[2022.11.05-21.48.19:189][ 89]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F55CA8F37214DC6FAE65193DAC59B82F51EF9AC0), compiling. 
+[2022.11.05-21.48.19:190][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.05-21.48.19:201][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.48.19:220][ 91]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.19:222][ 91]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.19:239][ 92]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.48.19:239][ 92]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.48.19:239][ 92]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.19:263][ 93]MaterialEditorStats: Base pass shader: 790 instructions
+[2022.11.05-21.48.19:263][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2022.11.05-21.48.19:263][ 93]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.48.19:263][ 93]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.05-21.48.20:666][160]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B7A81C46BBE9E6B209177BA3B02EB98AB19BBAC9), compiling. 
+[2022.11.05-21.48.20:667][160]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F5077557853226217B9BBBC0779DA1207D166A6E), compiling. 
+[2022.11.05-21.48.20:673][160]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.05-21.48.20:688][162]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.11.05-21.48.20:689][162]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.22:717][256]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.05-21.48.23:840][314]LogMaterialEditor: Saving and Compiling material MarkerGreenMaterial
+[2022.11.05-21.48.24:346][314]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8DD6AD80EF5E49BE5B3DF608CC39BED8899C36E8), compiling. 
+[2022.11.05-21.48.24:393][314]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5F4117F92FF7665B7436341011EE7E560C42AA1B), compiling. 
+[2022.11.05-21.48.24:488][314]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.24:488][314]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.11.05-21.48.24:488][314]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.11.05-21.48.24:488][314]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.24:488][314]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.24:488][314]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.11.05-21.48.24:488][314]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.24:536][314]LogUObjectHash: Compacting FUObjectHashTables data took  14.46ms
+[2022.11.05-21.48.26:459][314]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.11.05-21.48.26:459][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.26:459][314]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.11.05-21.48.26:459][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.05-21.48.26:459][314]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.11.05-21.48.26:459][314]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.26:460][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.11.05-21.48.27:745][314]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.11.05-21.48.27:746][314]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.29:597][314]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.11.05-21.48.29:597][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.30:010][314]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.11.05-21.48.30:010][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.30:951][314]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.11.05-21.48.30:951][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.31:242][314]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.11.05-21.48.31:242][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.31:654][314]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.11.05-21.48.31:654][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.32:056][314]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.11.05-21.48.32:056][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.05-21.48.42:427][314]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MarkerGreenMaterialC50B21FE43B991266F0686ACDFFFE031.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerGreenMaterial.uasset'
+[2022.11.05-21.48.42:457][314]AssetCheck: New page: Asset Save: MarkerGreenMaterial
+[2022.11.05-21.48.42:457][314]LogContentValidation: Display: Validating Material /Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial.MarkerGreenMaterial
+[2022.11.05-21.48.42:459][314]MaterialEditorStats: Base pass shader: 791 instructions
+[2022.11.05-21.48.42:459][314]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2022.11.05-21.48.42:459][314]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2022.11.05-21.48.42:459][314]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.05-21.49.11:297][752]MapCheck: New page: Map Check
+[2022.11.05-21.49.11:308][752]Cmd: MAP REBUILD ALLVISIBLE
+[2022.11.05-21.49.11:308][752]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.11.05-21.49.11:451][752]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=false
+[2022.11.05-21.49.11:462][752]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.11.05-21.49.11:462][752]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.11.05-21.49.11:462][752]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.11.05-21.49.11:462][752]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.11.05-21.49.11:466][752]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.11.05-21.49.11:493][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.11.05-21.49.11:497][752]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2022.11.05-21.49.11:501][752]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.11.05-21.49.11:523][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.05-21.49.11:525][752]LightingResults: New page: Lighting Build - 5 Nov 2022, 21:49:11
+[2022.11.05-21.49.11:531][752]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.05-21.49.11:535][752]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.05-21.49.11:535][752]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.05-21.49.11:536][752]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.05-21.49.11:536][752]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13892
+[2022.11.05-21.49.16:151][752]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.11.05-21.49.16:151][752]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.05-21.49.16:151][752]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.05-21.49.16:151][752]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.05-21.49.16:151][752]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.05-21.49.16:151][752]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.05-21.49.16:232][752]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.11.05-21.49.16:232][752]MapCheck: New page: BaseLevel - 5 Nov 2022, 21:49:16
+[2022.11.05-21.49.16:232][752]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.11.05-21.49.16:232][752]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.474ms to complete.
+[2022.11.05-21.49.16:234][752]LogEditorBuildUtils: Build time 0:04
+[2022.11.05-21.49.16:378][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.11.05-21.49.18:490][842]LogSlate: Window 'Message Log' being destroyed
+[2022.11.05-21.49.18:502][842]LogSlate: Window 'Message Log' being destroyed
+[2022.11.05-21.49.22:076][ 36]Job is a success!
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:          1: 2.9% covering 1.6% of volume
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:          2: 94.1% covering 0.8% of volume
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.05-21.49.22:230][ 37]LogVolumetricLightmapImport:          BaseLevel 			 34 bricks 	 100.0% (Persistent Level)
+[2022.11.05-21.49.22:383][ 37]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.11.05-21.49.22:383][ 37]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.11.05-21.49.22:383][ 37]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2022.11.05-21.49.22:383][ 37]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.05-21.49.22:383][ 37]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2022.11.05-21.49.22:384][ 37]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.05-21.49.22:613][ 37]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2022.11.05-21.49.22:619][ 37]LogStaticLightingSystem: BaseLevel_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2022.11.05-21.49.22:652][ 37]Lightmass on NOTAHACKER: 5.73 sec total, 154 ms importing, 14 ms setup, 997 ms photons, 4.51 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 49.6 sec total, 7.44 sec processing.
+[2022.11.05-21.49.22:654][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.05-21.49.22:670][ 37]LogStaticLightingSystem: Illumination: 11.1 sec (92 ms encoding lightmaps, 249 ms encoding shadowmaps)
+[2022.11.05-21.49.22:670][ 37]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.11.05-21.49.22:670][ 37]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.11.05-21.49.23:157][ 37]DumpUnbuiltLightIteractions
+[2022.11.05-21.49.23:157][ 37]Lights with unbuilt interactions: 0
+[2022.11.05-21.49.23:157][ 37]
+[2022.11.05-21.49.23:157][ 37]Primitives with unbuilt interactions: 0
+[2022.11.05-21.49.23:196][ 38]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.05-21.49.23:197][ 38]MapCheck: New page: BaseLevel - 5 Nov 2022, 21:49:23
+[2022.11.05-21.49.23:197][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.465ms to complete.
+[2022.11.05-21.49.24:669][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.05-21.49.25:811][113]LogSlate: Window 'Save Content' being destroyed
+[2022.11.05-21.49.25:881][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.11.05-21.49.25:892][113]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel62DE218344EBE0D814E7A49FB974899C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2022.11.05-21.49.25:900][113]LogFileHelpers: Saving map 'BaseLevel' took 0.044
+[2022.11.05-21.49.25:947][113]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltDataFE35243643AE95B97D6A1CA742A1EEC5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2022.11.05-21.49.25:996][113]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltDataE98A185C45C890AD280BF9B29B534764.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2022.11.05-21.49.26:005][113]LogPlayLevel: Launcher Device ID: Android_ASTC@1WMHHB6BHU2122
+[2022.11.05-21.49.26:009][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.05-21.49.26:010][113]LogCook: Display: Updating asset registry
+[2022.11.05-21.49.26:027][113]LogCook: Display: Discovering localized assets for cultures: en
+[2022.11.05-21.49.26:041][113]LogCook: Display: Inisetting is different for  Engine /Script/Engine.Engine ConsoleClassName, missmatched num array elements 0 != 1 
+[2022.11.05-21.49.26:041][113]LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Engine:/Script/Engine.Engine
+[2022.11.05-21.49.26:041][113]LogCook: Display: Cook invalidated for platform Android_ASTC ini settings don't match from last cook, clearing all cooked content
+[2022.11.05-21.49.26:056][113]LogCook: Display: Sandbox cleanup took 0.022 seconds for platforms Android_ASTC
+[2022.11.05-21.49.26:713][113]LogShaderLibrary: Display: 
+[2022.11.05-21.49.26:713][113]LogShaderLibrary: Display: Shader Library 'Global' (SF_VULKAN_ES31_ANDROID) Stats:
+[2022.11.05-21.49.26:713][113]LogShaderLibrary: Display: =================
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: Assets: 0, Unique Shadermaps: 70 (0.00%)
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: Total Shaders: 546, Unique Shaders: 536 (98.17%)
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: Total Shader Size: 3.37mb, Unique Shaders Size: 3.36mb (99.75%)
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: === Extended info:
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: Maximum number of shaders in shadermap: 110
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.05-21.49.26:714][113]LogShaderLibrary: Display:     3, 2, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.11.05-21.49.26:715][113]LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-Global-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2022.11.05-21.49.26:715][113]LogShaderLibrary: Display: =================
+[2022.11.05-21.49.26:746][113]LogLauncherProfile: Project requires temp target (OnlineSubsystemGooglePlay plugin is disabled)
+[2022.11.05-21.49.26:746][113]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Binaries/Android/UE4Game.target does not exist.
+[2022.11.05-21.49.26:746][113]LogLauncherProfile: Project requires temp target (OnlineSubsystemGooglePlay plugin is disabled)
+[2022.11.05-21.49.26:746][113]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Binaries/Android/UE4Game.target does not exist.
+[2022.11.05-21.49.26:791][114]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.05-21.49.26:791][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2022.11.05-21.49.26:792][114]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2022.11.05-21.49.26:792][114]LogCook: Display: Cooked packages 0 Packages Remain 20 Total 20
+[2022.11.05-21.49.26:792][114]LogCook: Display: Cook Diagnostics: OpenFileHandles=650, VirtualMemory=5022MiB
+[2022.11.05-21.49.26:805][114]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.05-21.49.27:521][116]LogMaterial: Display: Missing cached shadermap for MarkerGreenMaterial in VULKAN_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 76B7DD79651C76DBB07A01E2E8B435F7CB3EE64D), compiling. 
+[2022.11.05-21.49.27:566][116]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.11.05-21.49.27:575][116]LogShaderCompilers: Display: Started 15 'Local' shader compile jobs with 'Low' priority
+[2022.11.05-21.49.28:016][117]LogUObjectHash: Compacting FUObjectHashTables data took  18.14ms
+[2022.11.05-21.49.28:027][117]LogCook: Display: Cooked packages 140 Packages Remain 522 Total 662
+[2022.11.05-21.49.29:084][122]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (ASTC_RGB, 1024X1024)
+[2022.11.05-21.49.29:084][122]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (ASTC_RGB, 256X256)
+[2022.11.05-21.49.29:084][122]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2022.11.05-21.49.29:128][122]LogTexture: Display: Building textures: HQ_Lightmap1_1 (ASTC_RGBAuto, 1024X1024)
+[2022.11.05-21.49.29:128][122]LogTexture: Display: Building textures: HQ_Lightmap1_2 (ASTC_RGBAuto, 256X256)
+[2022.11.05-21.49.30:119][124]LogCook: Display: Cooked packages 210 Packages Remain 452 Total 662
+[2022.11.05-21.49.30:794][128]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2022.11.05-21.49.32:197][133]LogCook: Display: Cooked packages 397 Packages Remain 265 Total 662
+[2022.11.05-21.49.32:908][135]LogCook: Display: Excluding /MagicLeapPassableWorld/MagicLeapARPinInfoActor -> C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/EditorCooked/Android_ASTC/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset
+[2022.11.05-21.49.34:206][139]LogCook: Display: Cooked packages 613 Packages Remain 49 Total 662
+[2022.11.05-21.49.34:578][140]LogCook: Display: Cooked packages 662 Packages Remain 0 Total 662
+[2022.11.05-21.49.34:578][140]LogCook: Display: Cook Diagnostics: OpenFileHandles=651, VirtualMemory=5087MiB
+[2022.11.05-21.49.34:578][140]LogCook: Display: Finishing up...
+[2022.11.05-21.49.34:656][140]LogCook: Display: Saving BulkData manifest(s)...
+[2022.11.05-21.49.34:657][140]LogCook: Display: Done saving BulkData manifest(s)
+[2022.11.05-21.49.34:657][140]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.11.05-21.49.34:657][140]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.11.05-21.49.34:657][140]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.11.05-21.49.34:674][140]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2022.11.05-21.49.34:674][140]LogAssetRegistryGenerator: Chunk: 0, Started with 650 packages, Final after dependency resolve: 650
+[2022.11.05-21.49.34:675][140]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2022.11.05-21.49.34:675][140]LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.11.05-21.49.34:688][140]LogAssetRegistryGenerator: Display: Generated asset registry num assets 669, size is 202.04kb
+[2022.11.05-21.49.34:688][140]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.11.05-21.49.34:770][140]LogShaderLibrary: Display: 
+[2022.11.05-21.49.34:770][140]LogShaderLibrary: Display: Shader Library 'TemplateProject3' (SF_VULKAN_ES31_ANDROID) Stats:
+[2022.11.05-21.49.34:770][140]LogShaderLibrary: Display: =================
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: Assets: 147, Unique Shadermaps: 109 (74.15%)
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: Total Shaders: 2638, Unique Shaders: 1900 (72.02%)
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: Total Shader Size: 30.38mb, Unique Shaders Size: 24.70mb (81.30%)
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: === Extended info:
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: Median number of shaders in shadermap: 8
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: Maximum number of shaders in shadermap: 287
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.05-21.49.34:772][140]LogShaderLibrary: Display:     54, 38, 9, 9, 9, 9, 9, 8, 8, 7
+[2022.11.05-21.49.34:774][140]LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-TemplateProject3-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2022.11.05-21.49.34:774][140]LogShaderLibrary: Display: =================
+[2022.11.05-21.49.34:776][140]LogCook: Display: Cook by the book total time in tick 3.042919s total time 8.767316
+[2022.11.05-21.49.34:776][140]LogCook: Display: Peak Used virtual 5663 MiB Peak Used physical 2868 MiB
+[2022.11.05-21.49.34:776][140]LogCook: Display: Hierarchy Timer Information:
+[2022.11.05-21.49.34:776][140]LogCook: Display:   Root: 0.000s (0)
+[2022.11.05-21.49.34:776][140]LogCook: Display:     CleanSandbox: 0.022s (1)
+[2022.11.05-21.49.34:776][140]LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.11.05-21.49.34:776][140]LogCook: Display:     CollectFilesToCook: 0.029s (1)
+[2022.11.05-21.49.34:776][140]LogCook: Display:       CookModificationDelegate: 0.026s (1)
+[2022.11.05-21.49.34:776][140]LogCook: Display:       SearchForPackageOnDisk: 0.000s (1)
+[2022.11.05-21.49.34:776][140]LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.11.05-21.49.34:776][140]LogCook: Display:     TickCookOnTheSide: 3.043s (27)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       PostLoadPackageFixup: 0.000s (720)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       LoadPackageForCooking: 0.001s (662)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       SavingPackages: 3.040s (29)
+[2022.11.05-21.49.34:777][140]LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.020s (3)
+[2022.11.05-21.49.34:777][140]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.778s (666)
+[2022.11.05-21.49.34:777][140]LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.777s (665)
+[2022.11.05-21.49.34:777][140]LogCook: Display:         SaveCookedPackage: 2.188s (662)
+[2022.11.05-21.49.34:777][140]LogCook: Display:           GEditorSavePackage: 2.134s (661)
+[2022.11.05-21.49.34:777][140]LogCook: Display:             ConvertingBlueprints: 0.008s (661)
+[2022.11.05-21.49.34:777][140]LogCook: Display:             VerifyCanCookPackage: 0.006s (650)
+[2022.11.05-21.49.34:777][140]LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:     GeneratingBlueprintAssets: 0.000s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:     SavingCurrentIniSettings: 0.007s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:     SavingAssetRegistry: 0.111s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       BuildChunkManifest: 0.009s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       SaveManifests: 0.002s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       SaveRealAssetRegistry: 0.014s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display:       WriteCookerOpenOrder: 0.027s (1)
+[2022.11.05-21.49.34:777][140]LogCook: Display: Done!
+[2022.11.05-21.49.35:038][141]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 7.118054
+[2022.11.05-21.49.35:722][144]LogPlayLevel: Running AutomationTool...
+[2022.11.05-21.49.36:057][145]LogPlayLevel: Parsing command line: -ScriptsForProject="C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/TemplateProject3.uproject" BuildCookRun -project="C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/TemplateProject3.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -utf8output -platform=Android -targetplatform=Android -cookflavor=ASTC -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -build -map=/Game/Maps/BaseLevel -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/Maps/BaseLevel -Messaging" -device=Android_ASTC@1WMHHB6BHU2122 -addcmdline="-SessionId=ED34641048509216317BB5A541D7ABBE -SessionOwner='SLATE 15' -SessionName='Launch On Device'  " -run
+[2022.11.05-21.49.36:393][146]LogPlayLevel: Setting up ProjectParams for C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\TemplateProject3.uproject
+[2022.11.05-21.49.36:761][147]LogPlayLevel: TemplateProject3.uproject requires a temporary target.cs to be generated (OnlineSubsystemGooglePlay plugin is disabled)
+[2022.11.05-21.49.36:762][147]LogPlayLevel: ********** BUILD COMMAND STARTED **********
+[2022.11.05-21.49.36:762][147]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.257032
+[2022.11.05-21.49.37:415][149]LogPlayLevel: Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe TemplateProject3 Android Development -Project="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\TemplateProject3.uproject"  "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\TemplateProject3.uproject" -NoUBTMakefiles  -remoteini="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3" -skipdeploy -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -Manifest="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-TemplateProject3-Android-Development.txt"
+[2022.11.05-21.49.38:413][152]LogPlayLevel:   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room).
+[2022.11.05-21.49.38:413][152]LogPlayLevel:   PLATFORM_ANDROID_NDK_VERSION = 210500
+[2022.11.05-21.49.38:413][152]LogPlayLevel:   NDK toolchain: r21e, NDK version: 21, GccVersion: 4.9, ClangVersion: 9.0.9
+[2022.11.05-21.49.38:748][153]LogPlayLevel:   Compiling Native 32-bit code with NDK API 'android-21'
+[2022.11.05-21.49.38:748][153]LogPlayLevel:   Writing manifest to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Intermediate\Build\Manifest.xml
+[2022.11.05-21.49.39:417][155]LogPlayLevel:   Target is up to date
+[2022.11.05-21.49.39:417][155]LogPlayLevel:   Total execution time: 2.74 seconds
+[2022.11.05-21.49.39:417][155]LogPlayLevel: Took 2.8266264s to run UnrealBuildTool.exe, ExitCode=0
+[2022.11.05-21.49.39:417][155]LogPlayLevel: ********** BUILD COMMAND COMPLETED **********
+[2022.11.05-21.49.39:752][156]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Creating UE4CommandLine.txt
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Creating Staging Manifest...
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditor.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseLightmass.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Category.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Editor.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Engine.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2022.11.05-21.49.39:752][156]LogPlayLevel: Excluding config file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Config\DefaultEditor.ini
+[2022.11.05-21.49.39:753][156]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 2.506437
+[2022.11.05-21.49.40:451][157]LogPlayLevel: Cleaning Stage Directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.49.40:451][157]LogPlayLevel: Copying NonUFSFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
