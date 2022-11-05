@@ -4790,3 +4790,138 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.05-21.49.39:753][156]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 2.506437
 [2022.11.05-21.49.40:451][157]LogPlayLevel: Cleaning Stage Directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
 [2022.11.05-21.49.40:451][157]LogPlayLevel: Copying NonUFSFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.49.49:463][185]LogPlayLevel: Copying UFSFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.49.49:463][185]LogPlayLevel: Copying DebugFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC
+[2022.11.05-21.49.49:463][185]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell "echo $EXTERNAL_STORAGE"
+[2022.11.05-21.49.49:463][185]LogPlayLevel: Took 0.0904407s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.49:463][185]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  pull /sdcard/UE4Game/TemplateProject3/Manifest_UFSFiles_Android.txt "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC\Manifest_UFSFiles_Android_1WMHHB6BHU2122.txt"
+[2022.11.05-21.49.49:463][185]LogPlayLevel: Took 0.0643245s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.49:797][186]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  pull /sdcard/UE4Game/TemplateProject3/Manifest_NonUFSFiles_Android.txt "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC\Manifest_NonUFSFiles_Android_1WMHHB6BHU2122.txt"
+[2022.11.05-21.49.49:797][186]LogPlayLevel: Took 0.061453s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.49:797][186]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2022.11.05-21.49.49:797][186]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2022.11.05-21.49.49:797][186]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2022.11.05-21.49.49:797][186]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2022.11.05-21.49.50:139][187]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  shell getprop ro.product.cpu.abi
+[2022.11.05-21.49.50:139][187]LogPlayLevel: Took 0.0803532s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMessaging_UPL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\OculusMobile_APL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Source\ThirdParty\HWCPipe\HWCPipe_UPL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Source\ThirdParty\heapprofd\heapprofd_UPL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: AndroidPlugin: Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: UPL: Engine\Plugins/Runtime/AndroidPermission/Source/AndroidPermission/AndroidPermission_APL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: UPL: Engine\Plugins/Runtime/GoogleCloudMessaging/Source/GoogleCloudMessaging/GoogleCloudMessaging_UPL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: UPL: Engine\Plugins/Runtime/GooglePAD/Source/GooglePAD/GooglePAD_APL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: UPL: Engine\Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/OculusMobile_APL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: UPL: Engine\Source/Runtime/Online/Voice/AndroidVoiceImpl_UPL.xml
+[2022.11.05-21.49.50:139][187]LogPlayLevel: UPL: Engine\Source/ThirdParty/HWCPipe/HWCPipe_UPL.xml
+[2022.11.05-21.49.50:140][187]LogPlayLevel: UPL: Engine\Source/ThirdParty/heapprofd/heapprofd_UPL.xml
+[2022.11.05-21.49.50:140][187]LogPlayLevel: UPL: Engine\Source/ThirdParty/GoogleGameSDK/GoogleGameSDK_APL.xml
+[2022.11.05-21.49.50:140][187]LogPlayLevel: Using package name: 'com.YourCompany.TemplateProject3'
+[2022.11.05-21.49.50:140][187]LogPlayLevel: GotStoreVersion found v1. (bUseChangeListAsStoreVersion=False IsBuildMachine=False EngineChangeList=0)
+[2022.11.05-21.49.50:140][187]LogPlayLevel: Writing packageInfo pkgName:com.YourCompany.TemplateProject3 storeVersion:1 versionDisplayName:1.0 to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Binaries\Android\packageInfo.txt
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ====05/11/2022 21:49:49====PREPARING TO MAKE APK=================================================================
+[2022.11.05-21.49.50:140][187]LogPlayLevel: bBuildForES31: false
+[2022.11.05-21.49.50:140][187]LogPlayLevel: bSupportsVulkan: true
+[2022.11.05-21.49.50:140][187]LogPlayLevel: Building Java with SDK API level 'android-30'
+[2022.11.05-21.49.50:140][187]LogPlayLevel: Building with Build Tools version '30.0.3'
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Writing to shim file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\epicgames\ue4\DownloadShim.java ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Shim data file up to date so not writing. ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3\AlarmReceiver.java ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3\DownloaderActivity.java ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3\OBBDownloaderService.java ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: 
+[2022.11.05-21.49.50:140][187]LogPlayLevel: ==== Template target file up to date so not writing. ====
+[2022.11.05-21.49.50:140][187]LogPlayLevel: Cleaning up files based on template dir C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Build\Android\src\com\YourCompany\TemplateProject3
+[2022.11.05-21.49.50:140][187]LogPlayLevel: UPL Init: armeabi-v7a
+[2022.11.05-21.49.50:140][187]LogPlayLevel: Android Permission Plugin Init
+[2022.11.05-21.49.50:476][188]LogPlayLevel: Google Cloud Messaging init
+[2022.11.05-21.49.50:476][188]LogPlayLevel: GCMClientSenderID set: false
+[2022.11.05-21.49.50:476][188]LogPlayLevel: GooglePAD Plugin Init
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GooglePAD enabled: false
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Oculus mobile init
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Android Voice init
+[2022.11.05-21.49.50:477][188]LogPlayLevel: HWCPipe init
+[2022.11.05-21.49.50:477][188]LogPlayLevel: heapprofd init
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Unsupported architecture: armeabi-v7a
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GoogleGameSDK Android init
+[2022.11.05-21.49.50:477][188]LogPlayLevel: APK contains data.
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Disabling Show Launch Image for Oculus Mobile enabled application
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Output .apk file(s) are up to date (dependencies and build settings are up to date)
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Using this aapt: C:\Users\SLATE 15\AppData\Local\Android\Sdk\build-tools\30.0.3\aapt.exe
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell "echo $EXTERNAL_STORAGE"
+[2022.11.05-21.49.50:477][188]LogPlayLevel: Took 0.0589651s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.49.50:477][188]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:822][189]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:822][189]LogPlayLevel: GetPackageInfo ReturnValue: 1
+[2022.11.05-21.49.50:822][189]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:822][189]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell pm list packages com.YourCompany.TemplateProject3
+[2022.11.05-21.49.50:822][189]LogPlayLevel: Took 0.1243269s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.50:822][189]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell cat /sdcard/UE4Game/TemplateProject3/APKFileStamp.txt
+[2022.11.05-21.49.50:822][189]LogPlayLevel: cat: /sdcard/UE4Game/TemplateProject3/APKFileStamp.txt: No such file or directory
+[2022.11.05-21.49.50:822][189]LogPlayLevel: Took 0.0930991s to run adb.exe, ExitCode=1
+[2022.11.05-21.49.51:188][190]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 uninstall com.YourCompany.TemplateProject3
+[2022.11.05-21.49.51:188][190]LogPlayLevel:   Success
+[2022.11.05-21.49.51:188][190]LogPlayLevel: Took 0.3219008s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.57:860][586]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 install "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Binaries/Android\TemplateProject3-armv7.apk"
+[2022.11.05-21.49.57:860][586]LogPlayLevel:   Performing Streamed Install
+[2022.11.05-21.49.57:860][586]LogPlayLevel:   Success
+[2022.11.05-21.49.57:860][586]LogPlayLevel: Took 6.8124936s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.58:014][595]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell pm grant com.YourCompany.TemplateProject3 android.permission.READ_EXTERNAL_STORAGE
+[2022.11.05-21.49.58:014][595]LogPlayLevel: Took 0.1443702s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.58:126][602]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell pm grant com.YourCompany.TemplateProject3 android.permission.WRITE_EXTERNAL_STORAGE
+[2022.11.05-21.49.58:126][602]LogPlayLevel: Took 0.1096053s to run adb.exe, ExitCode=0
+[2022.11.05-21.49.58:126][602]LogPlayLevel: Creating UE4CommandLine.txt
+[2022.11.05-21.49.58:329][614]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm -r /sdcard/UE4Game/TemplateProject3
+[2022.11.05-21.49.58:329][614]LogPlayLevel: Took 0.1970354s to run adb.exe, ExitCode=0
+[2022.11.05-21.50.05:340][ 34]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 push "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC" "/sdcard/UE4Game/TemplateProject3"
+[2022.11.05-21.50.05:340][ 34]LogPlayLevel: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Saved\StagedBuilds\Android_ASTC\: 2477 files pushed, 0 skipped. 29.6 MB/s (215271998 bytes in 6.945s)
+[2022.11.05-21.50.05:439][ 40]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/main.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.50.05:439][ 40]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/main.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.50.05:439][ 40]LogPlayLevel: Took 0.097158s to run adb.exe, ExitCode=1
+[2022.11.05-21.50.05:505][ 44]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/patch.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.50.05:505][ 44]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/patch.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.50.05:505][ 44]LogPlayLevel: Took 0.0627668s to run adb.exe, ExitCode=1
+[2022.11.05-21.50.05:570][ 48]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/overflow1.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.50.05:570][ 48]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/overflow1.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.50.05:570][ 48]LogPlayLevel: Took 0.0769227s to run adb.exe, ExitCode=1
+[2022.11.05-21.50.05:636][ 52]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell rm /sdcard/obb/com.YourCompany.TemplateProject3/overflow2.1.com.YourCompany.TemplateProject3.obb
+[2022.11.05-21.50.05:670][ 54]LogPlayLevel:   rm: /sdcard/obb/com.YourCompany.TemplateProject3/overflow2.1.com.YourCompany.TemplateProject3.obb: No such file or directory
+[2022.11.05-21.50.05:670][ 54]LogPlayLevel: Took 0.0780248s to run adb.exe, ExitCode=1
+[2022.11.05-21.50.05:736][ 58]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell "echo 'APK: 04/11/2022 22:56:00' > /sdcard/UE4Game/TemplateProject3/APKFileStamp.txt"
+[2022.11.05-21.50.05:736][ 58]LogPlayLevel: Took 0.0780539s to run adb.exe, ExitCode=0
+[2022.11.05-21.50.05:736][ 58]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2022.11.05-21.50.05:736][ 58]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2022.11.05-21.50.05:837][ 64]LogPlayLevel: Starting Client....
+[2022.11.05-21.50.05:886][ 67]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122  shell getprop ro.product.cpu.abi
+[2022.11.05-21.50.05:904][ 68]LogPlayLevel: Took 0.0606859s to run adb.exe, ExitCode=0
+[2022.11.05-21.50.05:904][ 68]LogPlayLevel: GetPackageInfo ReturnValue: com.YourCompany.TemplateProject3
+[2022.11.05-21.50.05:904][ 68]LogPlayLevel: Running Package@Device:com.YourCompany.TemplateProject3@1WMHHB6BHU2122
+[2022.11.05-21.50.05:952][ 71]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 25.807974
+[2022.11.05-21.50.05:986][ 73]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 logcat -c
+[2022.11.05-21.50.05:987][ 73]LogPlayLevel: Took 0.0751262s to run adb.exe, ExitCode=0
+[2022.11.05-21.50.06:054][ 77]LogPlayLevel: Running: C:\Users\SLATE 15\AppData\Local\Android\Sdk\platform-tools\adb.exe -s 1WMHHB6BHU2122 shell am start -n com.YourCompany.TemplateProject3/com.epicgames.ue4.GameActivity
+[2022.11.05-21.50.06:070][ 78]LogPlayLevel:   Starting: Intent { cmp=com.YourCompany.TemplateProject3/com.epicgames.ue4.GameActivity }
+[2022.11.05-21.50.13:630][147]LogTcpMessaging: Discovered node '497D4072B7594B25B17756A2B263E583' on connection '127.0.0.1:6666'...

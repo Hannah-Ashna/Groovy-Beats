@@ -1,1 +1,2 @@
+ntent/Whiteboard/Markers/Geometry/MarkerBaseMaterial.uasset
 TemplateProject3/Saved/Logs/TemplateProject3.log
