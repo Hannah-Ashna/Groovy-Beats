@@ -1,4 +1,1 @@
-Engine/GlobalShaderCache-GLSL_ES3_1_ANDROID.bin
-TemplateProject3/Content/ShaderArchive-Global-GLSL_ES3_1_ANDROID.ushaderbytecode
-TemplateProject3/Content/ShaderArchive-TemplateProject3-GLSL_ES3_1_ANDROID.ushaderbytecode
 TemplateProject3/Saved/Logs/TemplateProject3.log

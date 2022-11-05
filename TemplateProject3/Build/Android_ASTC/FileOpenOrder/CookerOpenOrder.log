@@ -102,29 +102,29 @@
 "../../../Engine/Content/EditorMaterials/Cross.uexp" 101
 "../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 102
 "../../../Engine/Content/EditorMaterials/Cross_Mat.uexp" 103
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 104
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 105
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 106
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 107
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 108
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 109
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uexp" 110
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 111
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uexp" 112
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 113
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 114
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 115
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uexp" 116
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 117
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uexp" 118
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 119
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uexp" 120
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.ubulk" 121
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 122
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uexp" 123
-"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 124
-"../../../Engine/Content/EditorResources/T_EditorHelp.uexp" 125
-"../../../Engine/Content/EditorResources/T_EditorHelp.ubulk" 126
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 104
+"../../../Engine/Content/EditorResources/T_EditorHelp.uexp" 105
+"../../../Engine/Content/EditorResources/T_EditorHelp.ubulk" 106
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 107
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uexp" 108
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 110
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 112
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 115
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 116
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uexp" 117
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 118
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uexp" 119
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 120
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uexp" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 122
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uexp" 123
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.ubulk" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uexp" 126
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 127
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uexp" 128
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 129
@@ -569,10 +569,10 @@
 "../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 568
 "../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 569
 "../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 570
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 571
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 572
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 573
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uexp" 574
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 571
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uexp" 572
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 573
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 574
 "../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uasset" 575
 "../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uexp" 576
 "../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 577
@@ -716,25 +716,25 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 715
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 716
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 717
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 718
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 719
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 720
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 721
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 722
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 723
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 724
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 725
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 726
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 727
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 728
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 729
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 730
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 731
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 732
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 733
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 734
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 735
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 736
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 718
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 719
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 720
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 721
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 722
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 723
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 724
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 725
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 726
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 727
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 728
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 729
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 730
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 731
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 732
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 733
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 734
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 735
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 736
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 737
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 738
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 739
@@ -756,14 +756,14 @@
 "../../../Engine/Content/BasicShapes/Cylinder.uexp" 755
 "../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 756
 "../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 757
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 758
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 759
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 760
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 761
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 762
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 763
-"../../../Engine/Content/EngineResources/Black.uasset" 764
-"../../../Engine/Content/EngineResources/Black.uexp" 765
+"../../../Engine/Content/EngineResources/Black.uasset" 758
+"../../../Engine/Content/EngineResources/Black.uexp" 759
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 760
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 761
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 762
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 763
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 764
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 765
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 766
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 767
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 768
@@ -875,254 +875,254 @@
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 874
 "../../../Engine/Content/Maps/Entry.uexp" 875
 "../../../Engine/Content/Maps/Entry.umap" 876
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset" 877
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uexp" 878
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.ubulk" 879
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BaseMarkerMaterial.uasset" 880
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BaseMarkerMaterial.uexp" 881
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/MarkerColours.uasset" 882
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/MarkerColours.uexp" 883
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/RTWhiteboard.uasset" 884
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/RTWhiteboard.uexp" 885
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardMaterial.uasset" 886
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardMaterial.uexp" 887
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardBorderMaterial.uasset" 888
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardBorderMaterial.uexp" 889
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Whiteboard.uasset" 890
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Whiteboard.uexp" 891
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardActor.uasset" 892
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardActor.uexp" 893
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabType.uasset" 894
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabType.uexp" 895
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 896
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 897
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 898
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 899
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabComponent.uasset" 900
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabComponent.uexp" 901
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerRedMaterial.uasset" 902
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerRedMaterial.uexp" 903
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBaseMaterial.uasset" 904
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBaseMaterial.uexp" 905
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/Marker.uasset" 906
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/Marker.uexp" 907
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/RedMarkerMaterial.uasset" 908
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/RedMarkerMaterial.uexp" 909
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/RedMarker.uasset" 910
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/RedMarker.uexp" 911
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uasset" 912
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uexp" 913
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlueMarkerMaterial.uasset" 914
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlueMarkerMaterial.uexp" 915
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlueMarker.uasset" 916
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlueMarker.uexp" 917
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uasset" 918
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uexp" 919
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlackMarkerMaterial.uasset" 920
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlackMarkerMaterial.uexp" 921
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlackMarker.uasset" 922
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlackMarker.uexp" 923
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 924
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 925
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 926
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 927
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 928
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 929
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 930
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 931
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 932
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 933
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 934
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 935
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 936
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 937
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 938
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 939
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 940
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 941
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 942
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 943
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 944
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 945
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 946
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 947
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 948
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 949
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 950
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 951
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 952
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 953
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 954
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 955
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 956
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 957
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 958
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 959
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 960
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 961
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 962
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 963
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 964
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 965
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 966
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 967
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 968
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 969
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 970
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 971
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 972
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 973
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 974
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 975
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 976
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 977
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 978
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 979
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 980
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 981
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 982
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 983
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 984
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 985
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 986
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 987
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 988
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 989
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 990
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 991
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 992
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 993
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 994
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 995
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 996
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 997
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 998
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 999
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 1000
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 1001
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 1002
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 1003
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 1004
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 1005
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 1006
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 1007
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 1008
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 1009
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NPC_VRTemplate.uasset" 1010
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NPC_VRTemplate.uexp" 1011
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 1012
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 1013
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 1014
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 1015
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 1016
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 1017
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1018
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 1019
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportCylinder.uasset" 1020
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportCylinder.uexp" 1021
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uasset" 1022
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uexp" 1023
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 1024
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uexp" 1025
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 1026
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 1027
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 1028
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 1029
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 1030
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 1031
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 1032
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 1033
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 1034
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 1035
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 1036
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 1037
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 1038
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 1039
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 1040
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 1041
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uasset" 1042
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uexp" 1043
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 1044
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 1045
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 1046
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 1047
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 1048
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 1049
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1050
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 1051
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 1052
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 1053
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 1054
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 1055
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 1056
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 1057
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 1058
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 1059
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 1060
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uexp" 1061
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 1062
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 1063
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 1064
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 1065
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 1066
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 1067
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 1068
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 1069
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 1070
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 1071
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 1072
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 1073
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 1074
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 1075
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 1076
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 1077
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportNoise.uasset" 1078
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportNoise.uexp" 1079
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportRing.uasset" 1080
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportRing.uexp" 1081
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 1082
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 1083
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 1084
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 1085
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uasset" 1086
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uexp" 1087
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uasset" 1088
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uexp" 1089
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uasset" 1090
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uexp" 1091
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_PlayAreaBounds.uasset" 1092
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_PlayAreaBounds.uexp" 1093
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 1094
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 1095
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_Projectile.uasset" 1096
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_Projectile.uexp" 1097
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/MI_Projectile.uasset" 1098
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/MI_Projectile.uexp" 1099
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1100
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 1101
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Projectile.uasset" 1102
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Projectile.uexp" 1103
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 1104
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 1105
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 1106
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 1107
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_VRCursor.uasset" 1108
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_VRCursor.uexp" 1109
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Menu.uasset" 1110
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Menu.uexp" 1111
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset" 1112
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uexp" 1113
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRGameMode.uasset" 1114
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRGameMode.uexp" 1115
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/CubeMaterial.uasset" 1116
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/CubeMaterial.uexp" 1117
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/TemplateFloor.uasset" 1118
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/TemplateFloor.uexp" 1119
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 1120
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 1121
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1122
-"../../../Engine/Content/BasicShapes/Cube.uexp" 1123
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1124
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1125
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 877
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 878
+"../../../Engine/Content/BasicShapes/Cube.uasset" 879
+"../../../Engine/Content/BasicShapes/Cube.uexp" 880
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 881
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 882
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset" 883
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uexp" 884
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.ubulk" 885
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/MarkerColours.uasset" 886
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/MarkerColours.uexp" 887
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uasset" 888
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uexp" 889
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerRedMaterial.uasset" 890
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerRedMaterial.uexp" 891
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBaseMaterial.uasset" 892
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBaseMaterial.uexp" 893
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/Marker.uasset" 894
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/Marker.uexp" 895
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlueMarkerMaterial.uasset" 896
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlueMarkerMaterial.uexp" 897
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BaseMarkerMaterial.uasset" 898
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BaseMarkerMaterial.uexp" 899
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 900
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 901
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabType.uasset" 902
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabType.uexp" 903
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 904
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 905
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabComponent.uasset" 906
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/GrabComponent.uexp" 907
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/RTWhiteboard.uasset" 908
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/RTWhiteboard.uexp" 909
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardMaterial.uasset" 910
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardMaterial.uexp" 911
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardBorderMaterial.uasset" 912
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardBorderMaterial.uexp" 913
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Whiteboard.uasset" 914
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Whiteboard.uexp" 915
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardActor.uasset" 916
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/WhiteboardActor.uexp" 917
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlueMarker.uasset" 918
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlueMarker.uexp" 919
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uasset" 920
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uexp" 921
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlackMarkerMaterial.uasset" 922
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/BlackMarkerMaterial.uexp" 923
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlackMarker.uasset" 924
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/BlackMarker.uexp" 925
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/RedMarkerMaterial.uasset" 926
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/RedMarkerMaterial.uexp" 927
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/RedMarker.uasset" 928
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Whiteboard/Markers/Actors/RedMarker.uexp" 929
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/CubeMaterial.uasset" 930
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/CubeMaterial.uexp" 931
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/TemplateFloor.uasset" 932
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Geometry/Meshes/TemplateFloor.uexp" 933
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 934
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 935
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 936
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 937
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 938
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 939
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 940
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 941
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 942
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 943
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 944
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 945
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 946
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 947
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 948
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 949
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 950
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 951
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 952
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 953
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 954
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 955
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 956
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 957
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 958
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 959
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 960
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 961
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 962
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 963
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 964
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 965
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 966
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 967
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 968
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 969
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 970
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 971
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 972
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 973
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 974
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 975
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 976
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 977
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 978
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 979
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 980
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 981
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 982
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 983
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 984
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 985
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 986
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 987
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 988
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 989
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 990
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 991
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 992
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 993
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 994
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 995
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 996
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 997
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 998
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 999
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 1000
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 1001
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 1002
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 1003
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 1004
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 1005
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 1006
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 1007
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 1008
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 1009
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 1010
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 1011
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 1012
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 1013
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 1014
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 1015
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 1016
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 1017
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NPC_VRTemplate.uasset" 1018
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NPC_VRTemplate.uexp" 1019
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 1020
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 1021
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 1022
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 1023
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uasset" 1024
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uexp" 1025
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 1026
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 1027
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 1028
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 1029
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 1030
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 1031
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 1032
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uexp" 1033
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 1034
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 1035
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 1036
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 1037
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 1038
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 1039
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 1040
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 1041
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 1042
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 1043
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uasset" 1044
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uexp" 1045
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 1046
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 1047
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 1048
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 1049
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 1050
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 1051
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1052
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 1053
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 1054
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 1055
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 1056
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 1057
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 1058
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 1059
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 1060
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 1061
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 1062
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uexp" 1063
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 1064
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 1065
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 1066
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 1067
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 1068
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 1069
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 1070
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 1071
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 1072
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 1073
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 1074
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 1075
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 1076
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 1077
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 1078
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 1079
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 1080
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 1081
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1082
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 1083
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 1084
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 1085
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportNoise.uasset" 1086
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportNoise.uexp" 1087
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportCylinder.uasset" 1088
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_TeleportCylinder.uexp" 1089
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportRing.uasset" 1090
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_TeleportRing.uexp" 1091
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 1092
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 1093
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 1094
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 1095
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uasset" 1096
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uexp" 1097
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uasset" 1098
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uexp" 1099
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uasset" 1100
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uexp" 1101
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_PlayAreaBounds.uasset" 1102
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_PlayAreaBounds.uexp" 1103
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 1104
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 1105
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1106
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1107
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_Projectile.uasset" 1108
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_Projectile.uexp" 1109
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/MI_Projectile.uasset" 1110
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/MI_Projectile.uexp" 1111
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Projectile.uasset" 1112
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Projectile.uexp" 1113
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 1114
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 1115
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 1116
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 1117
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_VRCursor.uasset" 1118
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Materials/M_VRCursor.uexp" 1119
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Menu.uasset" 1120
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/Menu.uexp" 1121
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset" 1122
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uexp" 1123
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRGameMode.uasset" 1124
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRGameMode.uexp" 1125
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.uexp" 1126
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap" 1127
