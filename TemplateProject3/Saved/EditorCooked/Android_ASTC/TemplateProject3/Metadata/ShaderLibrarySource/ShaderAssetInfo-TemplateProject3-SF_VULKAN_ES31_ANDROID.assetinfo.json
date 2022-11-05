@@ -14,6 +14,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "98C7944D6D06645271CB05D1D8C39C3E30E321AA",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F76858CD469781F7B4E57A52BA11AD3A69B696EF",
 			"Assets": [
 				"/Engine/EditorMaterials/GridMaterial"
@@ -679,12 +685,6 @@
 			"ShaderMapHash": "193A55CE4A9F8E89DAC12E1E2FC78F12F2387C9B",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "98C7944D6D06645271CB05D1D8C39C3E30E321AA",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
 			]
 		},
 		{
