@@ -2,21 +2,9 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
-			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "7C67D6C9082AA01D419DEB5AA9CBC5DCBDB0093E",
 			"Assets": [
 				"/Engine/EditorMaterials/PersonaFloorMat"
-			]
-		},
-		{
-			"ShaderMapHash": "98C7944D6D06645271CB05D1D8C39C3E30E321AA",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
 			]
 		},
 		{
@@ -29,24 +17,6 @@
 			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
 			"Assets": [
 				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
-			]
-		},
-		{
-			"ShaderMapHash": "63016A887853CCC88161D09E1481C84106629BBB",
-			"Assets": [
-				"/Game/Whiteboard/Markers/GreenMarkerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
@@ -77,6 +47,12 @@
 			"ShaderMapHash": "C6142D58EA95E4D9DE40FBE2184B552D764A95E1",
 			"Assets": [
 				"/Game/Whiteboard/Markers/RedMarkerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "63016A887853CCC88161D09E1481C84106629BBB",
+			"Assets": [
+				"/Game/Whiteboard/Markers/GreenMarkerMaterial"
 			]
 		},
 		{
@@ -273,20 +249,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
-			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
-				"/Engine/BufferVisualization/PostTonemapHDRColor",
-				"/Engine/BufferVisualization/PreTonemapHDRColor",
-				"/Engine/BufferVisualization/Velocity",
-				"/Engine/BufferVisualization/WorldTangent",
-				"/Engine/BufferVisualization/Anisotropy",
-				"/Engine/BufferVisualization/CustomStencil"
-			]
-		},
-		{
 			"ShaderMapHash": "6CA2551EAE7DBA04F30BA319DA7163D4E1749BA1",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/PhysicalMaterialMaskMaterial"
@@ -352,6 +314,20 @@
 			"ShaderMapHash": "C11725D7E917ABA42C4A629E3B3CE3972D16752A",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
+				"/Engine/BufferVisualization/PostTonemapHDRColor",
+				"/Engine/BufferVisualization/PreTonemapHDRColor",
+				"/Engine/BufferVisualization/Velocity",
+				"/Engine/BufferVisualization/WorldTangent",
+				"/Engine/BufferVisualization/Anisotropy",
+				"/Engine/BufferVisualization/CustomStencil",
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{
@@ -469,12 +445,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A02220F3B0D00492ED8F5A729721C27219473B12",
-			"Assets": [
-				"/OpenXR/Devices/M_XRController"
-			]
-		},
-		{
 			"ShaderMapHash": "66839067C2EAAD1307ECCBAFE1FC4AA66B173672",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
@@ -545,12 +515,6 @@
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeGizmo_Mat_Copied",
 				"/Engine/EditorLandscapeResources/LandscapeGizmo_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
-			"Assets": [
-				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
 			]
 		},
 		{
@@ -688,9 +652,77 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1928A34AF333EAE10B170711D54FBE04EE4ED4DC",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/MonitorMaterialScreen"
+			]
+		},
+		{
+			"ShaderMapHash": "A02220F3B0D00492ED8F5A729721C27219473B12",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "E356742301BF1527D4033A086C509AF3BC8F3DC2",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "C8520A0E33D87D598DF8BC284B4BF6D33A71D315",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5FF7959F9B0BE073272BF3C7D9CE02EA771B1386",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7A368CD6FFF0921A41E94CA8DAF1EFDBCFAE731D",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C5FE77F55B8038A68BAE5FA3C1E9CF971281C2A0",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/ChairMaterialCushion"
+			]
+		},
+		{
+			"ShaderMapHash": "554F659696F90CB00E51745B0721FB6C4098F5A7",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/ChairMaterialMetal",
+				"/Game/RoomAssets/DeskSetup/DeskMaterialMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "A67F9261D491259D5CD50C30B6BF7C808E61BBD7",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/ChairMaterialPlastic",
+				"/Game/RoomAssets/DeskSetup/MonitorMaterialOuter"
+			]
+		},
+		{
+			"ShaderMapHash": "80A13AFA798C38FF95E80E4E076A28B8065EF580",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/DeskMaterialWood"
 			]
 		}
 	]

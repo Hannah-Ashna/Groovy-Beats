@@ -1,2 +1,0 @@
-ight/right_ValveIndexController.uexp
-TemplateProject/Saved/Logs/TemplateProject.log
