@@ -1231,3 +1231,267 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.08-22.20.09:877][792]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/Radio/RadioActor.RadioActor
 [2023.02.08-22.20.11:065][856]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2023.02.08-22.20.11:065][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-22.20.34:473][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.02.08-22.20.34:495][241]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel20E1F074401D65B4ED43929422227DA8.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2023.02.08-22.20.34:575][241]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltDataF841C30E400BD51E4D2AA4BE4D870FC7.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2023.02.08-22.20.34:591][241]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-22.20.34:591][241]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2023.02.08-22.20.34:591][241]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2023.02.08-22.20.37:950][428]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.08-22.20.37:950][428]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-22.20.37:950][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-22.20.40:073][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.08-22.20.40:073][549]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-22.20.40:073][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-22.21.19:814][869]LogContentBrowser: Attempting asset rename: Paylist_Kiss -> Paylist_Kiss
+[2023.02.08-22.21.21:527][971]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2023.02.08-22.21.35:344][647]LogContentBrowser: Attempting asset rename: Paylist_Kiss -> KISS_FM
+[2023.02.08-22.21.35:403][647]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/KISS_FME00AAEC44D3125DDAB9C31A5A0CF82E0.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Radio/LiveRadio/KISS_FM.uasset'
+[2023.02.08-22.21.35:502][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.02.08-22.21.35:544][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.02.08-22.21.35:569][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.02.08-22.21.35:739][647]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRPawn89761AED458DF9291C5E74A833B6FCCB.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.02.08-22.21.35:807][647]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-22.21.35:807][647]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.08-22.21.35:807][647]LogContentValidation: Display: Validating MediaPlaylist /Game/RoomAssets/Radio/LiveRadio/KISS_FM.KISS_FM
+[2023.02.08-22.21.45:644][231]LogContentBrowser: Attempting asset rename: Playlist_80s -> 80s_FM
+[2023.02.08-22.21.45:703][231]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/80s_FMED5944A0460D3A663BBEB8880D8970F0.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Radio/LiveRadio/80s_FM.uasset'
+[2023.02.08-22.21.45:792][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.08-22.21.45:828][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.08-22.21.45:853][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.08-22.21.46:002][231]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRPawn6D949D854269841B479975AA21710D97.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.02.08-22.21.46:072][231]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-22.21.46:072][231]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.08-22.21.46:072][231]LogContentValidation: Display: Validating MediaPlaylist /Game/RoomAssets/Radio/LiveRadio/80s_FM.80s_FM
+[2023.02.08-22.21.49:645][441]LogContentBrowser: Attempting asset rename: Playlist_Jazz -> Jazz_FM
+[2023.02.08-22.21.49:704][441]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Jazz_FM01ED9AE24DE1F22C5EF1FE9A25801C24.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Radio/LiveRadio/Jazz_FM.uasset'
+[2023.02.08-22.21.49:793][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.08-22.21.49:827][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.08-22.21.49:852][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.08-22.21.50:007][441]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRPawnBEC90BE94EEB7295A3ED7E8D8ECBA3A5.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.02.08-22.21.50:074][441]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-22.21.50:074][441]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.08-22.21.50:074][441]LogContentValidation: Display: Validating MediaPlaylist /Game/RoomAssets/Radio/LiveRadio/Jazz_FM.Jazz_FM
+[2023.02.08-22.21.55:104][739]LogContentBrowser: Attempting asset rename: Playlist_VirginUK -> VirginUK_FM
+[2023.02.08-22.21.55:170][739]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VirginUK_FMED685B37470C040E93695EB187E7B74D.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Radio/LiveRadio/VirginUK_FM.uasset'
+[2023.02.08-22.21.55:259][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.08-22.21.55:301][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.08-22.21.55:328][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.08-22.21.55:489][739]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRPawnEC12F2A04D82EF47E60E90AF05BB56A1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.02.08-22.21.55:558][739]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-22.21.55:558][739]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.08-22.21.55:558][739]LogContentValidation: Display: Validating MediaPlaylist /Game/RoomAssets/Radio/LiveRadio/VirginUK_FM.VirginUK_FM
+[2023.02.08-22.22.06:185][360]BlueprintLog: New page: Compile VRPawn
+[2023.02.08-22.22.06:271][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.02.08-22.22.07:035][384]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRPawnC6C0B5B044143E95FADB5593672AA917.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.02.08-22.22.07:052][384]AssetCheck: New page: Asset Save: VRPawn
+[2023.02.08-22.22.07:052][384]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.08-22.23.21:396][597]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.08-22.24.08:749][132]BlueprintLog: New page: Compile ControllerWidget
+[2023.02.08-22.24.08:809][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.02.08-22.24.09:384][162]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/ControllerWidgetA7760CBA4E78E430F2B784A6267C3B6E.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Widgets/ControllerWidget.uasset'
+[2023.02.08-22.24.09:399][162]AssetCheck: New page: Asset Save: ControllerWidget
+[2023.02.08-22.24.09:400][162]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/ControllerWidget.ControllerWidget
+[2023.02.08-22.24.12:220][327]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/ControllerWidget7BEFF91C4CD4730CFD531ABD47B01C5E.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Widgets/ControllerWidget.uasset'
+[2023.02.08-22.24.12:233][327]AssetCheck: New page: Asset Save: ControllerWidget
+[2023.02.08-22.24.12:233][327]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/ControllerWidget.ControllerWidget
+[2023.02.08-22.24.13:612][410]LogTemp: Repeating last play command: VR Preview
+[2023.02.08-22.24.13:620][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-22.24.13:620][410]LogHMD: Initializing OVRPlugin session
+[2023.02.08-22.24.13:814][410]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.02.08-22.24.13:814][410]PIE: New page: PIE session: BaseLevel (8 Feb 2023, 22:24:13)
+[2023.02.08-22.24.13:814][410]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.02.08-22.24.13:821][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007249s)
+[2023.02.08-22.24.13:822][410]LogAIModule: Creating AISystem for world BaseLevel
+[2023.02.08-22.24.13:822][410]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.02.08-22.24.13:822][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.008259s)
+[2023.02.08-22.24.13:854][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.02.08-22.24.13:855][410]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.08-22.24.13:855][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-22.24.13:855][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-22.24.13:855][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-22.24.13:856][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-22.24.13:856][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-22.24.13:856][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.08-22.24.13:856][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-22.24.13:856][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-22.24.13:856][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-22.24.13:856][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-22.24.13:856][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-22.24.13:856][410]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.08-22.24.13:860][410]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.24.13:860][410]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.24.13:862][410]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.24.13:862][410]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.24.13:864][410]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.24.13:864][410]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.24.13:867][410]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.24.13:867][410]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.24.13:877][410]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.02.08-22.24.13:877][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-22.24.13:877][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-22.24.13:877][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-22.24.13:878][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.08-22.24.13:878][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.08-22.24.13:878][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.08-22.24.13:879][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.08-22.24.13:879][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.08-22.24.13:879][410]LogInit: FAudioDevice initialized.
+[2023.02.08-22.24.13:879][410]LogAudio: Display: Audio Device (ID: 3) registered with world 'BaseLevel'.
+[2023.02.08-22.24.13:889][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-22.24.13:896][410]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.02.08-22.24.13:946][410]LogLoad: Game class is 'VRGameMode_C'
+[2023.02.08-22.24.13:950][410]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.02.08-22.24.13
+[2023.02.08-22.24.13:950][410]LogWorld: Bringing up level for play took: 0.003038
+[2023.02.08-22.24.13:950][410]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.08-22.24.13:952][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.02.08-22.24.13:954][410]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/VRTemplate/Blueprints/VRPawn.VRPawn_C:ExecuteUbergraph_VRPawn'!
+[2023.02.08-22.24.13:957][410]PIE: Server logged in
+[2023.02.08-22.24.13:958][410]PIE: Play in editor total start time 0.34 seconds.
+[2023.02.08-22.24.13:958][410]LogEngine: Changing dynamic resolution state.
+[2023.02.08-22.24.13:964][410]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.02.08-22.24.25:802][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.25:802][280]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.36:968][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.36:968][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.43:372][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.43:372][541]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.46:965][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.46:965][799]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.52:060][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.52:060][165]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.54:343][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.54:344][329]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.56:460][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.56:460][481]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.57:768][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.57:768][575]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.58:852][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.58:852][651]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.59:702][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.24.59:702][712]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.00:454][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.00:454][766]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.01:206][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.01:206][820]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.02:168][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.02:168][889]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.02:822][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.02:822][936]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.03:518][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.03:518][986]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.04:131][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.04:131][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.04:813][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.04:813][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.05:871][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Radio Controller". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.05:871][155]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  VRPawn Function:  Execute Ubergraph VRPawn Graph:  EventGraph Node:  Play Sound at Location
+[2023.02.08-22.25.28:725][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-22.25.28:725][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.02.08-22.25.28:758][792]LogSlate: Window 'TemplateProject3 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.02.08-22.25.28:799][792]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-22.25.28:800][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-22.25.28:806][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-22.25.28:817][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-22.25.28:844][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-22.25.28:845][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.08-22.25.28:846][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.08-22.25.28:854][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.02.08-22.25.29:007][793]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.08-22.25.29:015][793]LogEngine: Changing dynamic resolution state.
+[2023.02.08-22.25.51:121][ 19]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-22.25.51:127][ 19]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-22.25.59:573][523]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.08-22.26.14:505][319]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.02.08-22.26.16:878][440]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.02.08-22.26.16:884][440]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.02.08-22.26.37:252][552]BlueprintLog: New page: Compile VRPawn
+[2023.02.08-22.26.37:268][552]LogBlueprint: Error: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Content\VRTemplate\Blueprints\VRPawn.uasset: [Compiler] In use pin  Radio Controller  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.02.08-22.26.37:268][552]LogBlueprint: Error: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\TemplateProject3\Content\VRTemplate\Blueprints\VRPawn.uasset: [Compiler] In use pin  Radio Controller  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.02.08-22.26.37:337][552]LogSlate: Slate User Unregistered.  User Index 8
+[2023.02.08-22.26.37:337][552]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.02.08-22.26.37:343][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.02.08-22.26.38:003][572]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRPawn63495A7547356AD1EC8807A478DFC41B.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.02.08-22.26.38:024][572]AssetCheck: New page: Asset Save: VRPawn
+[2023.02.08-22.26.38:024][572]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.08-22.27.06:286][ 64]LogEditorTransaction: Undo Add Node
+[2023.02.08-22.27.06:294][ 64]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.02.08-22.27.06:295][ 64]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.02.08-22.27.16:852][604]BlueprintLog: New page: Compile VRPawn
+[2023.02.08-22.27.16:941][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.02.08-22.27.17:706][627]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRPawn7C364B4946631CE8332024A52CE03960.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.02.08-22.27.17:726][627]AssetCheck: New page: Asset Save: VRPawn
+[2023.02.08-22.27.17:726][627]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.02.08-22.27.20:403][784]LogTemp: Repeating last play command: VR Preview
+[2023.02.08-22.27.20:409][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-22.27.20:409][784]LogHMD: Initializing OVRPlugin session
+[2023.02.08-22.27.20:610][784]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.02.08-22.27.20:610][784]PIE: New page: PIE session: BaseLevel (8 Feb 2023, 22:27:20)
+[2023.02.08-22.27.20:610][784]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.02.08-22.27.20:618][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008121s)
+[2023.02.08-22.27.20:619][784]LogAIModule: Creating AISystem for world BaseLevel
+[2023.02.08-22.27.20:619][784]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2023.02.08-22.27.20:619][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.009147s)
+[2023.02.08-22.27.20:650][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.02.08-22.27.20:651][784]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-22.27.20:651][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-22.27.20:651][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-22.27.20:651][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-22.27.20:651][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-22.27.20:651][784]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.08-22.27.20:656][784]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.27.20:656][784]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.27.20:657][784]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.27.20:657][784]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.27.20:659][784]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.27.20:659][784]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.27.20:662][784]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-22.27.20:663][784]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-22.27.20:668][784]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.02.08-22.27.20:669][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-22.27.20:669][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-22.27.20:669][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-22.27.20:669][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.08-22.27.20:669][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.08-22.27.20:669][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.08-22.27.20:670][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.08-22.27.20:670][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.08-22.27.20:670][784]LogInit: FAudioDevice initialized.
+[2023.02.08-22.27.20:670][784]LogAudio: Display: Audio Device (ID: 4) registered with world 'BaseLevel'.
+[2023.02.08-22.27.20:680][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-22.27.20:687][784]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.02.08-22.27.20:731][784]LogLoad: Game class is 'VRGameMode_C'
+[2023.02.08-22.27.20:735][784]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.02.08-22.27.20
+[2023.02.08-22.27.20:736][784]LogWorld: Bringing up level for play took: 0.003004
+[2023.02.08-22.27.20:736][784]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.02.08-22.27.20:737][784]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.02.08-22.27.20:742][784]PIE: Server logged in
+[2023.02.08-22.27.20:743][784]PIE: Play in editor total start time 0.334 seconds.
+[2023.02.08-22.27.20:743][784]LogEngine: Changing dynamic resolution state.
+[2023.02.08-22.27.20:750][784]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.02.08-22.27.38:371][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-22.27.38:371][133]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.02.08-22.27.38:410][133]LogSlate: Window 'TemplateProject3 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.02.08-22.27.38:450][133]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-22.27.38:450][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-22.27.38:457][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-22.27.38:467][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-22.27.38:495][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-22.27.38:495][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.08-22.27.38:497][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.08-22.27.38:505][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.02.08-22.27.38:533][134]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.08-22.27.38:543][134]LogEngine: Changing dynamic resolution state.
+[2023.02.08-22.27.40:381][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.08-22.27.40:401][233]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevelAFE405DB495DC4D9C86831A94A2FAA94.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2023.02.08-22.27.40:449][233]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltData7FB395984A641CDF83C7A6A3A1294932.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2023.02.08-22.27.40:465][233]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-22.27.40:465][233]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2023.02.08-22.27.40:466][233]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
