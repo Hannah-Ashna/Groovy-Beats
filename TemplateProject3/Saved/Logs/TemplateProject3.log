@@ -1860,3 +1860,919 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.08-18.42.23:230][ 56]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
 [2023.02.08-18.42.23:230][ 56]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
 [2023.02.08-18.42.24:004][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.08-18.46.04:409][734]LogContentBrowser: Deferred new asset file creation: Whiteboard1
+[2023.02.08-18.46.04:458][734]LogContentBrowser: Creating deferred item: Whiteboard1
+[2023.02.08-18.46.07:364][909]LogContentBrowser: Attempting asset rename: Whiteboard1 -> Corkboard
+[2023.02.08-18.46.07:367][909]LogStaticMesh: Building static mesh Corkboard...
+[2023.02.08-18.46.07:390][909]LogStaticMesh: Built static mesh [0.02s] /Game/Whiteboard/Corkboard.Corkboard
+[2023.02.08-18.46.07:397][909]LogContentBrowser: End creating deferred item Whiteboard1
+[2023.02.08-18.46.08:454][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.02.08-18.46.08:476][969]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel2C3393714C3B20B2FDEE35B2E9C58B9B.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2023.02.08-18.46.08:520][969]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltData6324E75B4B61DA1413DA08B2D7A6D1D1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2023.02.08-18.46.08:533][969]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-18.46.08:534][969]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2023.02.08-18.46.08:534][969]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2023.02.08-18.46.12:699][156]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardF482CEFD4C70BF17F2A070AF7845992B.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard.uasset'
+[2023.02.08-18.46.12:781][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.08-18.46.12:822][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.08-18.46.12:851][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.02.08-18.46.12:915][156]AssetCheck: New page: Asset Save: Corkboard
+[2023.02.08-18.46.12:915][156]LogContentValidation: Display: Validating StaticMesh /Game/RoomAssets/Corkboard.Corkboard
+[2023.02.08-18.46.15:041][273]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.08-18.46.15:090][273]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.08-18.46.17:130][396]LogContentBrowser: Attempting asset rename: NewFolder -> Corkboard
+[2023.02.08-18.46.17:130][396]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.08-18.46.19:631][523]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Corkboard64A673BB411B547A18B21DB3571FAE12.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/Corkboard.uasset'
+[2023.02.08-18.46.19:716][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.08-18.46.19:754][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.02.08-18.46.19:783][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.08-18.46.19:847][523]AssetCheck: New page: Asset Save: Corkboard
+[2023.02.08-18.46.19:847][523]LogContentValidation: Display: Validating StaticMesh /Game/RoomAssets/Corkboard/Corkboard.Corkboard
+[2023.02.08-18.46.23:075][693]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.02.08-18.46.23:113][693]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.02.08-18.46.26:598][898]LogContentBrowser: Attempting asset rename: NewMaterial -> CorkboardBorderMaterial
+[2023.02.08-18.46.26:598][898]LogContentBrowser: End creating deferred item NewMaterial
+[2023.02.08-18.46.28:524][  5]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.02.08-18.46.28:540][  5]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.02.08-18.46.31:381][173]LogContentBrowser: Attempting asset rename: NewMaterial -> CorkboardMainMaterial
+[2023.02.08-18.46.31:381][173]LogContentBrowser: End creating deferred item NewMaterial
+[2023.02.08-18.46.32:098][214]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterial1D264D3040AD96142E11B38CA65273D6.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.46.32:113][214]AssetCheck: New page: Asset Save: CorkboardMainMaterial
+[2023.02.08-18.46.32:113][214]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.46.33:173][275]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RoomAssets/Corkboard/CorkboardBorderMaterial.CorkboardBorderMaterial
+[2023.02.08-18.46.33:174][275]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3CCC43697CA53A505BFA35FF19E085539099A832), compiling. 
+[2023.02.08-18.46.33:195][275]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.02.08-18.46.33:236][275]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 80D9036877195963CCD2C3EC311CDCDF5BBAB2A2), compiling. 
+[2023.02.08-18.46.33:239][275]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 797C4A2D1133062922999E1CBD6649134958E7C2), compiling. 
+[2023.02.08-18.46.33:250][275]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.46.33:288][276]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.33:288][276]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.46.33:288][276]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.46.33:288][276]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.33:288][276]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.46.33:316][277]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.46.33:316][277]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.46.33:316][277]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.46.33:316][277]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.46.33:316][277]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.46.34:305][336]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-18.46.34:305][336]LogShaderCompilers: Display: Total job queries 367, among them cache hits 18 (4.90%)
+[2023.02.08-18.46.34:305][336]LogShaderCompilers: Display: Tracking 300 distinct input hashes that result in 88 distinct outputs (29.33%)
+[2023.02.08-18.46.34:305][336]LogShaderCompilers: Display: RAM used: 2.44 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.30%
+[2023.02.08-18.46.34:305][336]LogShaderCompilers: Display: ================================================
+[2023.02.08-18.46.34:317][337]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.46.42:646][817]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C691D1352F885B759BC860EB98EBAEF8D6B53B8C), compiling. 
+[2023.02.08-18.46.42:649][817]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 52699845FBA0A2A094FD1B0D22D4A69CFCFC8081), compiling. 
+[2023.02.08-18.46.42:653][817]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.46.42:692][819]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.42:692][819]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.46.42:692][819]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.46.42:692][819]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.42:694][819]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.46.42:710][820]MaterialEditorStats: Base pass shader: 790 instructions
+[2023.02.08-18.46.42:710][820]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2023.02.08-18.46.42:710][820]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.46.42:710][820]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.46.44:116][895]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 46FD2490A1016359E4202E36709D27941F791D50), compiling. 
+[2023.02.08-18.46.44:117][895]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 72C4D78249F6D330D81A9184D31593CECC0CEBCF), compiling. 
+[2023.02.08-18.46.44:121][895]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.46.44:151][897]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.46.44:204][898]MaterialEditorStats: Base pass shader: 790 instructions
+[2023.02.08-18.46.44:204][898]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2023.02.08-18.46.44:204][898]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.46.44:204][898]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.46.53:640][455]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9D97F6B827F99CEAA1C1127E89B6D1744E8048D8), compiling. 
+[2023.02.08-18.46.53:642][455]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5917AD24DC796BF942AF47B46FA9CAFEC874CC64), compiling. 
+[2023.02.08-18.46.53:663][456]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.53:663][456]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.46.53:663][456]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.46.53:663][456]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.53:663][456]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.46.53:663][456]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.46.53:664][456]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.46.53:664][456]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.46.53:664][456]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.46.53:664][456]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.46.53:668][457]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.53:670][457]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-18.46.53:670][457]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.08-18.46.53:670][457]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.54:632][511]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.46.56:193][600]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 306E50A8F420D9CB594A83DE2A21FEB37D200440), compiling. 
+[2023.02.08-18.46.56:196][600]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C808621B7511B3F0D14C5230F92A5DBAEF75998), compiling. 
+[2023.02.08-18.46.56:198][600]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.08-18.46.56:216][600]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.46.56:262][602]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.46.58:497][720]LogMaterialEditor: Saving and Compiling material CorkboardBorderMaterial
+[2023.02.08-18.46.58:909][720]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2950AFA915EA5872027A42FB1F9C78AC4BFBB90E), compiling. 
+[2023.02.08-18.46.58:951][720]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3B2B7560A16B2C22F10C2973F4AF3465A8A4CE12), compiling. 
+[2023.02.08-18.46.59:045][720]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.59:046][720]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-18.46.59:046][720]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.46.59:046][720]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.46.59:046][720]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.46.59:046][720]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2023.02.08-18.46.59:046][720]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.46.59:060][720]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2023.02.08-18.46.59:076][720]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.08-18.47.08:318][720]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:318][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.08-18.47.08:394][720]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:394][720]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.08-18.47.08:394][720]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.08-18.47.08:394][720]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.02.08-18.47.08:394][720]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.08:418][720]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardBorderMaterial87B4386D42509FB908E7D7B6AE93354F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardBorderMaterial.uasset'
+[2023.02.08-18.47.08:464][720]AssetCheck: New page: Asset Save: CorkboardBorderMaterial
+[2023.02.08-18.47.08:464][720]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardBorderMaterial.CorkboardBorderMaterial
+[2023.02.08-18.47.08:476][720]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.47.08:781][736]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-18.47.08:781][736]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.09:372][770]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.08-18.47.09:372][770]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.10:729][818]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.47.10:731][818]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E32F632FD28523355ADC1F673D1ACCADFB674433), compiling. 
+[2023.02.08-18.47.10:749][818]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.10:753][818]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2023.02.08-18.47.10:753][818]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2023.02.08-18.47.10:753][818]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.10:862][818]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FD1158C5F842BA090593327DB745183A0F955F07), compiling. 
+[2023.02.08-18.47.10:867][818]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 101488893F79C5BDCA23724BBAB5B6E5DB9D37CF), compiling. 
+[2023.02.08-18.47.10:895][818]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.47.11:054][820]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.11:443][841]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2023.02.08-18.47.11:443][841]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.11:751][859]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.08-18.47.11:751][859]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.12:257][888]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.47.12:257][888]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.12:437][897]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.02.08-18.47.12:437][897]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.12:444][897]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.47.12:568][904]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.08-18.47.12:569][904]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.13:581][953]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.08-18.47.13:581][953]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.47.20:258][ 73]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-18.47.20:475][ 81]MaterialEditorStats: Base pass shader: 791 instructions
+[2023.02.08-18.47.20:475][ 81]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2023.02.08-18.47.20:475][ 81]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.47.20:475][ 81]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-18.47.22:746][155]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-18.47.22:769][156]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.47.25:973][316]MaterialEditorStats: Base pass shader: 790 instructions
+[2023.02.08-18.47.25:973][316]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2023.02.08-18.47.25:973][316]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.47.25:973][316]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.47.51:849][782]LogSlate: Window 'Message' being destroyed
+[2023.02.08-18.47.51:858][782]Message dialog closed, result: No, title: Message, text: Do you want to replace the existing asset?
+
+An asset already exists at the import location: /Game/RoomAssets/Corkboard/Corkboard
+[2023.02.08-18.47.58:159][871]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\SLATE 15\Downloads\CorkboardTexture.jpg)
+[2023.02.08-18.47.58:186][871]LogTexture: Display: Building textures: CorkboardTexture (OODLE_AutoDXT, 1920X1280)
+[2023.02.08-18.47.58:341][871]LogTextureFormatOodle: Display: non-RDO encode 1920 x 1280 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-18.48.03:181][ 88]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F4D6644CDFB4E035FBBF648D3142A32328DE459E), compiling. 
+[2023.02.08-18.48.03:183][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 54911D13B8CD9C4A505C2F110508C4F4A1F7C1C0), compiling. 
+[2023.02.08-18.48.03:184][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 55D598BB7E5B8A48CE240583F8607FBBC31C32EC), compiling. 
+[2023.02.08-18.48.03:188][ 88]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.48.03:227][ 89]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.03:227][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.48.03:227][ 89]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.48.03:227][ 89]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.03:227][ 89]MaterialEditorStats: Base pass shader: 790 instructions
+[2023.02.08-18.48.03:227][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 858 instructions
+[2023.02.08-18.48.03:227][ 89]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.48.03:227][ 89]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.48.04:715][149]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A8348DA45D4366577A83DE9D9143D855E9E0C2EA), compiling. 
+[2023.02.08-18.48.04:717][149]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 00C90C605DB3976ACA45A7DFF3AC8B63413E2BEE), compiling. 
+[2023.02.08-18.48.04:721][149]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.48.04:721][149]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.04:721][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.04:725][150]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.48.04:740][151]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.05:500][190]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.48.05:500][190]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.05:500][190]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.07:287][287]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9FA04D1F27CCDE9DA7B6BFF0644056BFDA45CB99), compiling. 
+[2023.02.08-18.48.07:297][287]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.48.07:298][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.07:298][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.07:335][289]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.48.07:335][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.07:335][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.08:972][369]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7D6C9AB024D31874E21BC3B27B97DC89FD2AF5C1), compiling. 
+[2023.02.08-18.48.08:979][369]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.48.08:979][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.08:979][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.08:991][370]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.08:991][370]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-18.48.08:991][370]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.48.08:991][370]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.09:002][371]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.09:006][371]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2023.02.08-18.48.09:006][371]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.10:220][438]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.08-18.48.10:220][438]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.10:244][439]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.48.10:244][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.10:244][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.10:578][458]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ADA55D7B91F9A5B1D1D20BC456744E329D3ADD16), compiling. 
+[2023.02.08-18.48.10:585][458]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 05837DB6DDA36B3A8F1D9463195B8D8F217AB437), compiling. 
+[2023.02.08-18.48.10:592][458]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.48.10:592][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.10:592][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.10:607][459]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.10:622][460]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.11:221][495]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-18.48.11:221][495]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.12:070][536]LogMaterialEditor: Saving and Compiling material CorkboardMainMaterial
+[2023.02.08-18.48.12:540][536]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CF4CACE0168245DC81F207AD2D6A5BC445E4CB0A), compiling. 
+[2023.02.08-18.48.12:599][536]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7AF3B5F6F1808D920787D858A465E4B9C2DFF776), compiling. 
+[2023.02.08-18.48.12:742][536]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.12:742][536]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.12:757][536]LogUObjectHash: Compacting FUObjectHashTables data took  13.02ms
+[2023.02.08-18.48.12:774][536]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.21:540][536]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.08-18.48.21:541][536]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:604][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.02.08-18.48.21:668][536]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:668][536]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.02.08-18.48.21:668][536]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.08-18.48.21:668][536]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.02.08-18.48.21:668][536]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.08-18.48.21:668][536]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.48.21:668][536]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.21:688][536]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterial8667642F4D4025F4C38AAB801A0F1EE2.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.48.21:720][536]AssetCheck: New page: Asset Save: CorkboardMainMaterial
+[2023.02.08-18.48.21:720][536]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.48.21:736][536]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-18.48.21:736][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.21:736][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.24:395][683]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.48.24:395][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.24:395][683]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.24:461][687]MaterialEditorStats: Base pass shader: 519 instructions
+[2023.02.08-18.48.24:461][687]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 598 instructions
+[2023.02.08-18.48.24:461][687]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.48.24:461][687]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.48.24:461][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.48.24:461][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.48.25:316][738]LogMaterialEditor: Saving and Compiling material CorkboardMainMaterial
+[2023.02.08-18.48.25:341][738]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterial66E8BD3D408359BD516888878DECDB11.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.48.25:352][738]AssetCheck: New page: Asset Save: CorkboardMainMaterial
+[2023.02.08-18.48.25:352][738]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.48.27:939][882]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/RoomAssets/Corkboard/Corkboard.Corkboard
+[2023.02.08-18.48.32:475][116]LogStaticMesh: Building static mesh Corkboard...
+[2023.02.08-18.48.32:528][116]LogStaticMesh: Built static mesh [0.05s] /Game/RoomAssets/Corkboard/Corkboard.Corkboard
+[2023.02.08-18.48.36:636][352]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Corkboard53A530A8486DCC6E60A9DCA7F6E671FE.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/Corkboard.uasset'
+[2023.02.08-18.48.36:650][352]AssetCheck: New page: Asset Save: Corkboard
+[2023.02.08-18.48.36:650][352]LogContentValidation: Display: Validating StaticMesh /Game/RoomAssets/Corkboard/Corkboard.Corkboard
+[2023.02.08-18.48.42:216][657]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0327DCC6DA35EAD9D35571CAAAEFF0CD1902F468), compiling. 
+[2023.02.08-18.48.42:218][657]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2653C2CE42BD7E8E25CB29D58C8E77368C33A654), compiling. 
+[2023.02.08-18.48.42:220][657]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.48.42:224][658]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.42:231][659]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.42:233][659]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.42:244][659]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.42:259][660]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-18.48.42:259][660]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.08-18.48.42:259][660]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.42:858][692]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F9CDAC49717ACF1192FF9B52D69D25A5B87F002C), compiling. 
+[2023.02.08-18.48.42:863][692]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FE4878BC1039736ECF6FA1D30BEC2DD65D378AC8), compiling. 
+[2023.02.08-18.48.42:868][692]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.08-18.48.43:532][719]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.48.43:933][737]LogMaterialEditor: Saving and Compiling material CorkboardBorderMaterial
+[2023.02.08-18.48.44:342][737]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DD214522B9F88A43A7325BE82A8603F682D1C6D4), compiling. 
+[2023.02.08-18.48.44:399][737]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EDB2FD640124F3DBAB4AA3901039D131863A22A7), compiling. 
+[2023.02.08-18.48.44:560][737]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.44:560][737]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.08-18.48.44:560][737]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.02.08-18.48.44:560][737]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.08-18.48.44:560][737]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.44:644][737]LogUObjectHash: Compacting FUObjectHashTables data took  18.32ms
+[2023.02.08-18.48.51:602][737]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.48.51:602][737]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.48.51:602][737]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-18.48.51:602][737]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.51:602][737]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.48.51:602][737]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.48.51:602][737]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2023.02.08-18.48.53:089][737]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardBorderMaterial5F29A4984987239F8B095F897EDD5580.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardBorderMaterial.uasset'
+[2023.02.08-18.48.53:110][737]AssetCheck: New page: Asset Save: CorkboardBorderMaterial
+[2023.02.08-18.48.53:111][737]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardBorderMaterial.CorkboardBorderMaterial
+[2023.02.08-18.48.53:114][737]MaterialEditorStats: Base pass shader: 791 instructions
+[2023.02.08-18.48.53:114][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2023.02.08-18.48.53:114][737]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.48.53:114][737]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-18.48.55:250][861]LogActorFactory: Actor Factory created Corkboard
+[2023.02.08-18.48.56:928][959]LogActorFactory: Actor Factory created Corkboard
+[2023.02.08-18.49.03:155][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corkboard)
+[2023.02.08-18.49.06:592][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.08-18.49.16:640][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corkboard)
+[2023.02.08-18.49.43:603][670]Cmd: EDIT COPY
+[2023.02.08-18.49.43:837][684]Cmd: EDIT PASTE
+[2023.02.08-18.49.46:464][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-18.49.52:700][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corkboard2)
+[2023.02.08-18.49.53:606][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corkboard)
+[2023.02.08-18.50.03:458][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corkboard2)
+[2023.02.08-18.50.04:167][883]Cmd: DELETE
+[2023.02.08-18.50.04:167][883]Cmd: ACTOR DELETE
+[2023.02.08-18.50.04:169][883]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.08-18.50.04:205][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.02.08-18.50.04:207][883]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2023.02.08-18.50.05:198][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corkboard)
+[2023.02.08-18.50.07:636][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.08-18.50.17:439][655]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-18.50.17:439][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-18.50.19:591][777]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E7EBE961F78F7E18B2B3F80AC494A5CD473ABA4B), compiling. 
+[2023.02.08-18.50.19:594][777]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.50.19:594][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.19:594][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.19:620][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-18.50.19:620][778]LogShaderCompilers: Display: Total job queries 609, among them cache hits 89 (14.61%)
+[2023.02.08-18.50.19:620][778]LogShaderCompilers: Display: Tracking 400 distinct input hashes that result in 136 distinct outputs (34.00%)
+[2023.02.08-18.50.19:620][778]LogShaderCompilers: Display: RAM used: 3.39 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.41%
+[2023.02.08-18.50.19:620][778]LogShaderCompilers: Display: ================================================
+[2023.02.08-18.50.19:628][779]MaterialEditorStats: Base pass shader: 519 instructions
+[2023.02.08-18.50.19:628][779]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 598 instructions
+[2023.02.08-18.50.19:628][779]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.50.19:628][779]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-18.50.19:628][779]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.19:628][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.22:835][941]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E77B5B8C81BB3CB99A580957E9292BCED04BF16E), compiling. 
+[2023.02.08-18.50.22:836][941]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D40E43ED94542764172309D0B81643A78EAE49BE), compiling. 
+[2023.02.08-18.50.22:841][941]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.50.22:841][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.22:841][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.22:869][943]MaterialEditorStats: Base pass shader: 519 instructions
+[2023.02.08-18.50.22:869][943]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 598 instructions
+[2023.02.08-18.50.22:869][943]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.50.22:869][943]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-18.50.22:869][943]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.22:869][943]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.26:317][149]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BE6C6729D5C59C2FE81297BE3C731EB8EFD37C3E), compiling. 
+[2023.02.08-18.50.26:319][149]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6D642301D780D680C8F50E18539360618EDB0AAD), compiling. 
+[2023.02.08-18.50.26:320][149]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.50.26:320][149]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.26:320][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.26:334][150]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.50.26:334][150]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.50.26:334][150]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.50.26:334][150]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.50.26:334][150]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.26:357][152]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.50.26:357][152]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.50.26:357][152]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.50.26:358][152]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.50.26:358][152]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.27:303][205]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.50.27:303][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.27:303][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.29:774][345]LogMaterialEditor: Saving and Compiling material CorkboardMainMaterial
+[2023.02.08-18.50.30:184][345]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2C9D87DB8E018795C8E5B16BE5085A5040968877), compiling. 
+[2023.02.08-18.50.30:224][345]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F2B3CA4A0695DE5984ED80BD0F00B0677441D6F5), compiling. 
+[2023.02.08-18.50.30:296][345]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.08-18.50.30:296][345]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.30:296][345]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.08-18.50.30:296][345]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.02.08-18.50.30:296][345]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.02.08-18.50.30:296][345]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.30:330][345]LogUObjectHash: Compacting FUObjectHashTables data took  13.42ms
+[2023.02.08-18.50.31:274][345]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.08-18.50.31:274][345]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.50.31:274][345]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.08-18.50.31:274][345]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.31:368][345]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2023.02.08-18.50.33:152][345]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterial08488C74432049EC40925FBFBFEC9344.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.50.33:179][345]AssetCheck: New page: Asset Save: CorkboardMainMaterial
+[2023.02.08-18.50.33:179][345]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.50.33:181][345]MaterialEditorStats: Base pass shader: 520 instructions
+[2023.02.08-18.50.33:181][345]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 599 instructions
+[2023.02.08-18.50.33:181][345]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.50.33:181][345]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.50.33:181][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.33:181][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.37:155][584]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2D2ABDC1F076F3385BA0B03F03CEE9C98EC3AAA8), compiling. 
+[2023.02.08-18.50.37:157][584]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 225A925B51A5D35E361AFBA61A5135E2BAAA7485), compiling. 
+[2023.02.08-18.50.37:158][584]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.50.37:158][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.37:158][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.37:173][586]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.50.38:008][633]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.50.38:008][633]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.38:008][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.40:943][809]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-18.50.40:943][809]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.40:943][809]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.42:099][868]LogMaterialEditor: Saving and Compiling material CorkboardMainMaterial
+[2023.02.08-18.50.42:464][868]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B88B042F1EFF5443CA91A411E6522711E8EB54E4), compiling. 
+[2023.02.08-18.50.42:511][868]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EC3947DE907BFF0B32319CFE0415193BC1F724DC), compiling. 
+[2023.02.08-18.50.42:560][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.50.42:991][868]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.50.43:071][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.08-18.50.44:404][868]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterial651D9DEA461026C284F5A6A0F212A05C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.50.44:445][868]AssetCheck: New page: Asset Save: CorkboardMainMaterial
+[2023.02.08-18.50.44:445][868]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.50.44:447][868]MaterialEditorStats: Base pass shader: 520 instructions
+[2023.02.08-18.50.44:447][868]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 599 instructions
+[2023.02.08-18.50.44:447][868]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.50.44:447][868]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.50.44:447][868]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.50.44:447][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.50.52:521][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-18.51.03:352][992]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AD70F3BA1BA425C022B5AC6360FC7570425B5918), compiling. 
+[2023.02.08-18.51.03:354][992]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CD0C4BCEDE5903C2D9AB55F30DB0266A0EB936D9), compiling. 
+[2023.02.08-18.51.03:356][992]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.51.03:356][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.03:356][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.03:358][993]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.03:372][994]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.03:372][994]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.51.03:372][994]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.51.03:372][994]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.51.03:372][994]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.51.03:372][994]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.51.03:373][994]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.51.03:373][994]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.03:373][994]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.04:320][ 50]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.08-18.51.04:320][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.04:320][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.05:192][ 98]LogMaterialEditor: Saving and Compiling material CorkboardMainMaterial
+[2023.02.08-18.51.05:641][ 98]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 33207FA7C05EE73631F5455333E19CE08E2294B5), compiling. 
+[2023.02.08-18.51.05:697][ 98]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B2F00FB5A6E60EBB9C0159DD7C7395FA7661CD6D), compiling. 
+[2023.02.08-18.51.05:830][ 98]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.08-18.51.05:830][ 98]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.05:830][ 98]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.02.08-18.51.05:830][ 98]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.08-18.51.05:830][ 98]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.05:830][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.02.08-18.51.07:971][ 98]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.51.07:971][ 98]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.07:971][ 98]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-18.51.07:971][ 98]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.07:971][ 98]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.51.07:971][ 98]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.08:076][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.02.08-18.51.09:460][ 98]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterialD12AA0744755DC4EDE8008944BB62E40.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.51.09:480][ 98]AssetCheck: New page: Asset Save: CorkboardMainMaterial
+[2023.02.08-18.51.09:480][ 98]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.51.09:481][ 98]MaterialEditorStats: Base pass shader: 520 instructions
+[2023.02.08-18.51.09:481][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 599 instructions
+[2023.02.08-18.51.09:481][ 98]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.51.09:481][ 98]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.51.09:481][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.09:481][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.19:853][717]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DCF9AEADDA2C28EB425B754EA806A97FA43B0631), compiling. 
+[2023.02.08-18.51.19:855][717]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 63E2DBA13DDF34FE4193881C175B4EB534FE14D6), compiling. 
+[2023.02.08-18.51.19:861][718]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.19:873][719]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.19:973][722]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.51.19:973][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.19:973][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.20:754][768]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 853EC7434077E029CD975E1BCCAACA8D00EB371D), compiling. 
+[2023.02.08-18.51.20:758][768]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 74143BBEC049708169A2082611194AA23A352F5A), compiling. 
+[2023.02.08-18.51.20:771][769]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.20:771][769]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-18.51.20:771][769]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2023.02.08-18.51.20:771][769]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.20:782][770]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.20:782][770]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2023.02.08-18.51.20:783][770]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.21:893][822]LogMaterialEditor: Saving and Compiling material CorkboardMainMaterial
+[2023.02.08-18.51.22:390][822]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.08-18.51.22:390][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.22:412][822]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 692FA08EBC743D68730893D0E5AE5B024FED4B87), compiling. 
+[2023.02.08-18.51.22:470][822]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BBCE19F462584A8759B0456A71945AF571C2C901), compiling. 
+[2023.02.08-18.51.22:691][822]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.22:691][822]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.22:691][822]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.51.26:357][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.26:358][822]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.08-18.51.26:358][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.51.26:539][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2023.02.08-18.51.29:886][822]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterialD102C4CA49F151562BDA4084C6EA7108.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.51.29:930][822]AssetCheck: New page: Asset Save: CorkboardMainMaterial
+[2023.02.08-18.51.29:930][822]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+[2023.02.08-18.51.29:932][822]MaterialEditorStats: Base pass shader: 520 instructions
+[2023.02.08-18.51.29:932][822]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 599 instructions
+[2023.02.08-18.51.29:932][822]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.51.29:932][822]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.51.29:932][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.29:932][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.31:204][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-18.51.47:038][849]Cmd: TRANSACTION UNDO
+[2023.02.08-18.51.47:038][849]LogEditorTransaction: Undo Move Actors
+[2023.02.08-18.51.47:046][849]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6ECC84430415BC4462B4987F6EF8884906150761), compiling. 
+[2023.02.08-18.51.47:052][849]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1436C6ABE16CAB9EE1CCC83D332573739D5D449A), compiling. 
+[2023.02.08-18.51.47:062][849]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.51.47:062][849]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-18.51.47:062][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.47:062][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.47:187][852]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.51.47:237][853]MaterialEditorStats: Base pass shader: 791 instructions
+[2023.02.08-18.51.47:238][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2023.02.08-18.51.47:238][853]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.51.47:238][853]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-18.51.47:238][853]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-18.51.47:238][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.47:238][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.47:273][854]MaterialEditorStats: Base pass shader: 520 instructions
+[2023.02.08-18.51.47:273][854]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 599 instructions
+[2023.02.08-18.51.47:273][854]MaterialEditorStats: Base pass vertex shader: 202 instructions
+[2023.02.08-18.51.47:273][854]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-18.51.47:273][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-18.51.47:273][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-18.51.47:667][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corkboard)
+[2023.02.08-18.51.52:126][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.02.08-18.51.57:910][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.08-18.51.58:311][499]Cmd: SELECT NONE
+[2023.02.08-18.51.59:972][597]MapCheck: New page: Map Check
+[2023.02.08-18.51.59:991][597]Cmd: MAP REBUILD ALLVISIBLE
+[2023.02.08-18.51.59:992][597]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.02.08-18.52.00:138][597]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=false
+[2023.02.08-18.52.00:159][597]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.02.08-18.52.00:159][597]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.02.08-18.52.00:159][597]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.02.08-18.52.00:160][597]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.08-18.52.00:163][597]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2023.02.08-18.52.00:205][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.08-18.52.00:211][597]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2023.02.08-18.52.00:215][597]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2023.02.08-18.52.00:248][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.08-18.52.00:250][597]LightingResults: New page: Lighting Build - 8 Feb 2023, 18:52:00
+[2023.02.08-18.52.00:309][597]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.08-18.52.00:341][597]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.08-18.52.00:351][597]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.08-18.52.00:870][597]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.08-18.52.00:870][597]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17320
+[2023.02.08-18.52.07:764][597]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.02.08-18.52.07:764][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.08-18.52.07:764][597]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.08-18.52.07:764][597]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.08-18.52.07:764][597]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.08-18.52.07:764][597]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.08-18.52.07:892][597]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.02.08-18.52.07:892][597]MapCheck: New page: BaseLevel - 8 Feb 2023, 18:52:07
+[2023.02.08-18.52.07:892][597]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2023.02.08-18.52.07:892][597]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.532ms to complete.
+[2023.02.08-18.52.07:895][597]LogEditorBuildUtils: Build time 0:07
+[2023.02.08-18.52.07:986][597]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MonitorMaterialScreen in PCD3D_SM5, Default, SM5 (DDC key hash: BB32F7B5719E3E567C2FA07CDDFCD0B005F5B2ED), compiling. 
+[2023.02.08-18.52.07:988][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.07:989][597]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MonitorMaterialScreen in PCD3D_SM5, Default, SM5 (DDC key hash: FDFA3832784CD77EA5D778FE591CC901158DE426), compiling. 
+[2023.02.08-18.52.07:992][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.07:993][597]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3188A92CE9D5518BDBE02CB77CA9F96FA83A3AB6), compiling. 
+[2023.02.08-18.52.07:996][597]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.08-18.52.07:996][597]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.08-18.52.07:996][597]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.08-18.52.07:996][597]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.08-18.52.07:997][597]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.08-18.52.07:997][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.07:997][597]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CF1874FC7076AEDD1C142ADB880BF38F1725DFA7), compiling. 
+[2023.02.08-18.52.08:001][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.08:096][597]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-18.52.08:096][597]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.02.08-18.52.08:096][597]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-18.52.08:096][597]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.08-18.52.08:096][597]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.08-18.52.08:117][598]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 755E196628C9A17CA3A01FDCDFBCF3C825D540AC), compiling. 
+[2023.02.08-18.52.08:124][598]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.08:126][598]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E7247FE778B9B27C2BD690A915D364894C2B425B), compiling. 
+[2023.02.08-18.52.08:132][598]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.08-18.52.09:800][599]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.08-18.52.10:025][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.08-18.52.10:455][606]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-18.52.10:470][606]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-18.52.12:884][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.02.08-18.52.12:958][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.08-18.52.12:997][731]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel3530A2D742B5C6BFC58A96AFAB89FBC3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2023.02.08-18.52.13:011][731]LogFileHelpers: Saving map 'BaseLevel' took 0.101
+[2023.02.08-18.52.13:469][731]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardTextureB82A61E1487546D8D1A6DF9E9A51029A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardTexture.uasset'
+[2023.02.08-18.52.13:498][731]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-18.52.13:498][731]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2023.02.08-18.52.13:498][731]LogContentValidation: Display: Validating Texture2D /Game/RoomAssets/Corkboard/CorkboardTexture.CorkboardTexture
+[2023.02.08-18.52.15:852][785]LogSlate: Window 'Message' being destroyed
+[2023.02.08-18.52.15:862][785]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2023.02.08-18.52.16:248][785]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2F30A90511B7570871CC5CBCB5A6D5FD1119DFBD), compiling. 
+[2023.02.08-18.52.16:284][785]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B49CF5B56B999B1FF2C4430FD16CF1DABEFAF3EB), compiling. 
+[2023.02.08-18.52.16:326][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.08-18.52.16:452][785]Job is a success!
+[2023.02.08-18.52.16:488][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.08-18.52.16:508][785]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-18.52.16:508][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.08-18.52.16:701][786]LogVolumetricLightmapImport:          BaseLevel 			 20 bricks 	 100.0% (Persistent Level)
+[2023.02.08-18.52.16:864][786]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.08-18.52.16:864][786]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.02.08-18.52.16:864][786]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.08-18.52.16:864][786]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2023.02.08-18.52.16:864][786]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-18.52.16:864][786]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2023.02.08-18.52.16:883][786]Lightmass on NOTAHACKER: 6.20 sec total, 165 ms importing, 15 ms setup, 1.26 sec photons, 4.70 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 51.7 sec total, 8.29 sec processing.
+[2023.02.08-18.52.16:885][786]LogStaticLightingSystem: BaseLevel_BuiltData storing lightmap data for 19 meshes in 2 LightmapResourceClusters (9.5 Meshes per cluster).
+[2023.02.08-18.52.16:887][786]LogMaterial: Display: Material /Game/RoomAssets/Corkboard/CorkboardBorderMaterial.CorkboardBorderMaterial needed to have new flag set bUsedWithStaticLighting !
+[2023.02.08-18.52.16:888][786]LogMaterial: Display: Material /Engine/Transient.CorkboardBorderMaterial needed to have new flag set bUsedWithStaticLighting !
+[2023.02.08-18.52.16:889][786]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 79118913E1992E8FF7F7CF724DE1441BD7820510), compiling. 
+[2023.02.08-18.52.16:902][786]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.16:903][786]LogMaterial: Display: Missing cached shadermap for CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3C0EDB0D7430FAEF5016E046AC98F692578BEC28), compiling. 
+[2023.02.08-18.52.16:945][786]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-18.52.16:945][786]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-18.52.16:945][786]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.16:945][786]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.08-18.52.16:945][786]LogShaderCompilers: Display: Submitted 7 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.16:946][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-18.52.16:946][786]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.08-18.52.16:946][786]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.08-18.52.16:946][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.08-18.52.16:946][786]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.08-18.52.16:946][786]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.08-18.52.16:946][786]LogMaterial: Display: Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial needed to have new flag set bUsedWithStaticLighting !
+[2023.02.08-18.52.16:948][786]LogMaterial: Display: Missing cached shadermap for CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 93AE8686330E039DA9336C41A5A9D568BEE5B8E4), compiling. 
+[2023.02.08-18.52.16:981][786]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2023.02.08-18.52.17:050][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2023.02.08-18.52.17:093][786]LogStaticLightingSystem: Illumination: 16.7 sec (97 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2023.02.08-18.52.17:093][786]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.02.08-18.52.17:093][786]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.08-18.52.21:784][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.21:785][786]DumpUnbuiltLightIteractions
+[2023.02.08-18.52.21:785][786]Lights with unbuilt interactions: 0
+[2023.02.08-18.52.21:785][786]
+[2023.02.08-18.52.21:785][786]Primitives with unbuilt interactions: 0
+[2023.02.08-18.52.23:051][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2023.02.08-18.52.23:051][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.23:869][786]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2023.02.08-18.52.23:869][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.23:869][786]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.02.08-18.52.23:869][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.24:073][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-18.52.24:073][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.26:937][786]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.08-18.52.26:937][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-18.52.29:145][787]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.08-18.52.29:145][787]MapCheck: New page: BaseLevel - 8 Feb 2023, 18:52:29
+[2023.02.08-18.52.29:145][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.447ms to complete.
+[2023.02.08-18.52.29:146][787]MaterialEditorStats: Base pass shader: 791 instructions
+[2023.02.08-18.52.29:146][787]MaterialEditorStats: Base pass shader with Surface Lightmap: 812 instructions
+[2023.02.08-18.52.29:146][787]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 859 instructions
+[2023.02.08-18.52.29:146][787]MaterialEditorStats: Base pass vertex shader: 198 instructions
+[2023.02.08-18.52.29:146][787]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-18.52.35:501][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2023.02.08-18.52.35:920][192]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2023.02.08-18.52.39:191][384]MapCheck: New page: Map Check
+[2023.02.08-18.52.39:208][384]Cmd: MAP REBUILD ALLVISIBLE
+[2023.02.08-18.52.39:208][384]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.02.08-18.52.39:340][384]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=false
+[2023.02.08-18.52.39:359][384]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.02.08-18.52.39:359][384]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.02.08-18.52.39:359][384]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.02.08-18.52.39:359][384]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.08-18.52.39:363][384]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2023.02.08-18.52.39:408][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.02.08-18.52.39:413][384]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2023.02.08-18.52.39:418][384]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2023.02.08-18.52.39:451][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.08-18.52.39:453][384]LightingResults: New page: Lighting Build - 8 Feb 2023, 18:52:39
+[2023.02.08-18.52.39:483][384]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.08-18.52.39:487][384]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.08-18.52.39:487][384]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.08-18.52.39:488][384]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.08-18.52.39:488][384]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17320
+[2023.02.08-18.52.44:064][384]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.02.08-18.52.44:064][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.08-18.52.44:064][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.08-18.52.44:064][384]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.08-18.52.44:064][384]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.08-18.52.44:064][384]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.08-18.52.44:109][384]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.02.08-18.52.44:109][384]MapCheck: New page: BaseLevel - 8 Feb 2023, 18:52:44
+[2023.02.08-18.52.44:110][384]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2023.02.08-18.52.44:110][384]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.569ms to complete.
+[2023.02.08-18.52.44:112][384]LogEditorBuildUtils: Build time 0:04
+[2023.02.08-18.52.44:193][384]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6A5507EECF136B6FC099B21CF0492BBF9DAAA709), compiling. 
+[2023.02.08-18.52.44:198][384]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardBorderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2EA6043F9BFDD7D641134FF1A2E01C0C8BEC0905), compiling. 
+[2023.02.08-18.52.44:203][384]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9CB327741D4E5191F9A7F5C7D2094073928B0708), compiling. 
+[2023.02.08-18.52.44:206][384]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CorkboardMainMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CFDE3960061BC62708A8C1C641A315E9BF7C8F00), compiling. 
+[2023.02.08-18.52.44:596][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.02.08-18.52.45:699][425]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-18.52.45:707][425]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-18.52.50:754][705]Job is a success!
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.08-18.52.50:898][706]LogVolumetricLightmapImport:          BaseLevel 			 20 bricks 	 100.0% (Persistent Level)
+[2023.02.08-18.52.51:026][706]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.02.08-18.52.51:026][706]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.02.08-18.52.51:026][706]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2023.02.08-18.52.51:026][706]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.08-18.52.51:026][706]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2023.02.08-18.52.51:026][706]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-18.52.51:026][706]LogStaticLightingSystem: BaseLevel_BuiltData storing lightmap data for 19 meshes in 2 LightmapResourceClusters (9.5 Meshes per cluster).
+[2023.02.08-18.52.51:067][706]Lightmass on NOTAHACKER: 5.94 sec total, 163 ms importing, 15 ms setup, 1.28 sec photons, 4.42 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 48.6 sec total, 8.25 sec processing.
+[2023.02.08-18.52.51:069][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.08-18.52.51:174][706]LogStaticLightingSystem: Illumination: 11.6 sec (87 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2023.02.08-18.52.51:174][706]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.02.08-18.52.51:174][706]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.02.08-18.52.52:069][706]DumpUnbuiltLightIteractions
+[2023.02.08-18.52.52:069][706]Lights with unbuilt interactions: 0
+[2023.02.08-18.52.52:069][706]
+[2023.02.08-18.52.52:069][706]Primitives with unbuilt interactions: 0
+[2023.02.08-18.52.52:137][707]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.08-18.52.52:137][707]MapCheck: New page: BaseLevel - 8 Feb 2023, 18:52:52
+[2023.02.08-18.52.52:137][707]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.485ms to complete.
+[2023.02.08-18.53.11:989][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk6)
+[2023.02.08-18.53.22:569][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.08-18.53.36:413][350]LogEditorViewport: Clicking on Actor (CTRL LMB): GroovyMonitor_actor_C (GroovyMonitor_actor)
+[2023.02.08-18.53.41:238][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.08-18.53.59:473][727]LogTemp: Repeating last play command: VR Preview
+[2023.02.08-18.53.59:482][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-18.53.59:482][727]LogHMD: Initializing OVRPlugin session
+[2023.02.08-18.53.59:685][727]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.02.08-18.53.59:685][727]PIE: New page: PIE session: BaseLevel (8 Feb 2023, 18:53:59)
+[2023.02.08-18.53.59:686][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.02.08-18.53.59:691][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004721s)
+[2023.02.08-18.53.59:692][727]LogAIModule: Creating AISystem for world BaseLevel
+[2023.02.08-18.53.59:692][727]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2023.02.08-18.53.59:692][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.005810s)
+[2023.02.08-18.53.59:726][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.02.08-18.53.59:730][727]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-18.53.59:730][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-18.53.59:730][727]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-18.53.59:730][727]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-18.53.59:730][727]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-18.53.59:730][727]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.08-18.53.59:734][727]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-18.53.59:734][727]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-18.53.59:737][727]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-18.53.59:737][727]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-18.53.59:738][727]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-18.53.59:738][727]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-18.53.59:741][727]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.08-18.53.59:741][727]LogAudioMixer: Display: 1: FrontRight
+[2023.02.08-18.53.59:750][727]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.02.08-18.53.59:751][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-18.53.59:751][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-18.53.59:751][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-18.53.59:751][727]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.08-18.53.59:751][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.08-18.53.59:751][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.08-18.53.59:753][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.08-18.53.59:753][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.08-18.53.59:753][727]LogInit: FAudioDevice initialized.
+[2023.02.08-18.53.59:753][727]LogAudio: Display: Audio Device (ID: 4) registered with world 'BaseLevel'.
+[2023.02.08-18.53.59:766][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.53.59:774][727]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.02.08-18.53.59:818][727]LogLoad: Game class is 'VRGameMode_C'
+[2023.02.08-18.53.59:822][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.02.08-18.53.59
+[2023.02.08-18.53.59:823][727]LogWorld: Bringing up level for play took: 0.003886
+[2023.02.08-18.53.59:823][727]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.02.08-18.53.59:824][727]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.02.08-18.53.59:829][727]PIE: Server logged in
+[2023.02.08-18.53.59:830][727]PIE: Play in editor total start time 0.35 seconds.
+[2023.02.08-18.53.59:830][727]LogEngine: Changing dynamic resolution state.
+[2023.02.08-18.53.59:840][727]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.02.08-18.53.59:856][730]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.02.08-18.56.06:207][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.56.06:207][909]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.02.08-18.56.06:250][909]LogSlate: Window 'TemplateProject3 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.02.08-18.56.06:295][909]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-18.56.06:295][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-18.56.06:302][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-18.56.06:322][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-18.56.06:358][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-18.56.06:359][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.08-18.56.06:360][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.08-18.56.06:368][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.02.08-18.56.06:405][910]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.02.08-18.56.06:415][910]LogEngine: Changing dynamic resolution state.
+[2023.02.08-18.56.11:815][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.02.08-18.56.11:836][226]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel7F4457774DB8138E6AB4EBAE9A67D9FA.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2023.02.08-18.56.11:880][226]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltDataF3453D964F86A7F7F95923BEE16FBEC7.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2023.02.08-18.56.11:919][226]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-18.56.11:919][226]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2023.02.08-18.56.11:919][226]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2023.02.08-18.56.15:778][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.08-18.56.15:812][441]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardBorderMaterial946846D341A36281A730EF9EBCC8BBAA.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardBorderMaterial.uasset'
+[2023.02.08-18.56.15:828][441]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/CorkboardMainMaterial6FFD9087421DA83918644B8142D2C8B0.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset'
+[2023.02.08-18.56.15:843][441]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-18.56.15:843][441]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardBorderMaterial.CorkboardBorderMaterial
+[2023.02.08-18.56.15:843][441]LogContentValidation: Display: Validating Material /Game/RoomAssets/Corkboard/CorkboardMainMaterial.CorkboardMainMaterial
