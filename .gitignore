@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TemplateProject3/Content/Sound/NeonDrive.uasset
+TemplateProject3/Content/Sound/PatternRecognition.uasset
