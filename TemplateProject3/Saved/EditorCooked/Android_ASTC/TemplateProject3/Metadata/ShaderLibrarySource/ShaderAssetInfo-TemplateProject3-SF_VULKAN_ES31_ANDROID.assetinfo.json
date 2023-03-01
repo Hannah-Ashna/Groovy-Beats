@@ -2,15 +2,27 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
+			"ShaderMapHash": "5E7FD58CD14C41AEF1258B2B3B01AA7D48413C25",
 			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Game/TheMatrix/Enemies/Ch45_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "78E1F43E4723DD6E346BFD7F34D0DE99B92EC311",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
 			]
 		},
 		{
 			"ShaderMapHash": "ED287E319BEC5A192E0D97DCEF8B0DCCEA67C6B1",
 			"Assets": [
 				"/Game/TheMatrix/Textures/MatrixWallsAltTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "BD1EC19202304A52D01FE62969B27342062F1095",
+			"Assets": [
+				"/Game/TheMatrix/Textures/MatrixItemTexture"
 			]
 		},
 		{
@@ -26,12 +38,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
-			"Assets": [
-				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
-			]
-		},
-		{
 			"ShaderMapHash": "2020B9276E3E15E81A242FEA490DD08FBB76A568",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial2"
@@ -42,10 +48,10 @@
 			"Assets": [
 				"/Game/RoomAssets/Door/DoorHandleMaterial",
 				"/Game/RoomAssets/Door/DoorBorderMaterial",
+				"/Game/RoomAssets/Door/DoorMaterial",
 				"/Game/VRTemplate/PlayerBody/M_UE4Man_ChestLogo",
 				"/Game/VRTemplate/PlayerBody/M_Male_Body",
-				"/Game/RoomAssets/Cabinet/CabinetHandleMaterial",
-				"/Game/RoomAssets/Door/DoorMaterial"
+				"/Game/RoomAssets/Cabinet/CabinetHandleMaterial"
 			]
 		},
 		{
@@ -116,6 +122,12 @@
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_11",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_10",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A3330230AC929FA05DF5705EEE5F3E8F21339AFA",
+			"Assets": [
+				"/Game/RoomAssets/GlassMaterial"
 			]
 		},
 		{
@@ -304,6 +316,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AB9112DC90D5193ED5A0E32578981EFEE819BB4A",
+			"Assets": [
+				"/Engine/EngineMaterials/BlinkingCaret"
+			]
+		},
+		{
 			"ShaderMapHash": "AFB112A6A7358AFD1F39453EA48520F1CA74899E",
 			"Assets": [
 				"/Engine/EditorMaterials/LevelGridMaterial"
@@ -382,6 +400,20 @@
 			]
 		},
 		{
+			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
+				"/Engine/BufferVisualization/PostTonemapHDRColor",
+				"/Engine/BufferVisualization/PreTonemapHDRColor",
+				"/Engine/BufferVisualization/Velocity",
+				"/Engine/BufferVisualization/WorldTangent",
+				"/Engine/BufferVisualization/Anisotropy",
+				"/Engine/BufferVisualization/CustomStencil"
+			]
+		},
+		{
 			"ShaderMapHash": "6CA2551EAE7DBA04F30BA319DA7163D4E1749BA1",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/PhysicalMaterialMaskMaterial"
@@ -447,20 +479,6 @@
 			"ShaderMapHash": "C11725D7E917ABA42C4A629E3B3CE3972D16752A",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "626DF80E0012A6D1C155F0CC0FCDE9EBFA7CECFC",
-			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Engine/EngineMaterials/HighResScreenshotCaptureRegion",
-				"/Engine/BufferVisualization/PostTonemapHDRColor",
-				"/Engine/BufferVisualization/PreTonemapHDRColor",
-				"/Engine/BufferVisualization/Velocity",
-				"/Engine/BufferVisualization/WorldTangent",
-				"/Engine/BufferVisualization/Anisotropy",
-				"/Engine/BufferVisualization/CustomStencil",
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{
@@ -755,6 +773,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "003856B614318B7AAD4DB2BB49BD120551B8E918",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
 			"ShaderMapHash": "D70EFDE2AF37020F7DD7ECD62F4744A221B5ED5A",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
@@ -791,36 +815,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5E7FD58CD14C41AEF1258B2B3B01AA7D48413C25",
-			"Assets": [
-				"/Game/TheMatrix/Enemies/Ch45_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "BD1EC19202304A52D01FE62969B27342062F1095",
-			"Assets": [
-				"/Game/TheMatrix/Textures/MatrixItemTexture"
-			]
-		},
-		{
-			"ShaderMapHash": "AB9112DC90D5193ED5A0E32578981EFEE819BB4A",
-			"Assets": [
-				"/Engine/EngineMaterials/BlinkingCaret"
-			]
-		},
-		{
-			"ShaderMapHash": "003856B614318B7AAD4DB2BB49BD120551B8E918",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
-			]
-		},
-		{
-			"ShaderMapHash": "A3330230AC929FA05DF5705EEE5F3E8F21339AFA",
-			"Assets": [
-				"/Game/RoomAssets/GlassMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "C8520A0E33D87D598DF8BC284B4BF6D33A71D315",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
@@ -836,12 +830,6 @@
 			"ShaderMapHash": "CA10C727DD35296A5AF6C41B3137170C689093BE",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "78E1F43E4723DD6E346BFD7F34D0DE99B92EC311",
-			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
 			]
 		},
 		{
@@ -870,15 +858,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7191CB94002227506ED1DC66D9C2F72E4C184453",
+			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
 			"Assets": [
-				"/Game/TheMatrix/Textures/MatrixWallsTexture"
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
+			"ShaderMapHash": "7191CB94002227506ED1DC66D9C2F72E4C184453",
 			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
+				"/Game/TheMatrix/Textures/MatrixWallsTexture"
 			]
 		}
 	]
