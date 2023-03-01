@@ -1,2 +1,0 @@
-eboard/Markers/Geometry/MarkerBlackMaterial.uexp
-TemplateProject3/Saved/Logs/TemplateProject3.log
