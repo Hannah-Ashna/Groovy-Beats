@@ -2,27 +2,9 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "5E7FD58CD14C41AEF1258B2B3B01AA7D48413C25",
+			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
 			"Assets": [
-				"/Game/TheMatrix/Enemies/Ch45_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "78E1F43E4723DD6E346BFD7F34D0DE99B92EC311",
-			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
-			]
-		},
-		{
-			"ShaderMapHash": "ED287E319BEC5A192E0D97DCEF8B0DCCEA67C6B1",
-			"Assets": [
-				"/Game/TheMatrix/Textures/MatrixWallsAltTexture"
-			]
-		},
-		{
-			"ShaderMapHash": "BD1EC19202304A52D01FE62969B27342062F1095",
-			"Assets": [
-				"/Game/TheMatrix/Textures/MatrixItemTexture"
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
 			]
 		},
 		{
@@ -44,269 +26,56 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ACE75E756DC473646E4A18146D8DD6259FD33851",
+			"ShaderMapHash": "78E1F43E4723DD6E346BFD7F34D0DE99B92EC311",
 			"Assets": [
-				"/Game/RoomAssets/Door/DoorHandleMaterial",
-				"/Game/RoomAssets/Door/DoorBorderMaterial",
-				"/Game/RoomAssets/Door/DoorMaterial",
-				"/Game/VRTemplate/PlayerBody/M_UE4Man_ChestLogo",
-				"/Game/VRTemplate/PlayerBody/M_Male_Body",
-				"/Game/RoomAssets/Cabinet/CabinetHandleMaterial"
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
 			]
 		},
 		{
-			"ShaderMapHash": "BEF755F47F0E429E267CE37F3DF47BC069BB8AFB",
+			"ShaderMapHash": "BD1EC19202304A52D01FE62969B27342062F1095",
 			"Assets": [
-				"/Game/RoomAssets/DeskSetup/DeskMaterialWood"
-			]
-		},
-		{
-			"ShaderMapHash": "554F659696F90CB00E51745B0721FB6C4098F5A7",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/DeskMaterialMetal",
-				"/Game/RoomAssets/DeskSetup/ChairMaterialMetal"
-			]
-		},
-		{
-			"ShaderMapHash": "A67F9261D491259D5CD50C30B6BF7C808E61BBD7",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/ChairMaterialPlastic",
-				"/Game/RoomAssets/DeskSetup/MonitorMaterialOuter"
-			]
-		},
-		{
-			"ShaderMapHash": "C5FE77F55B8038A68BAE5FA3C1E9CF971281C2A0",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/ChairMaterialCushion"
-			]
-		},
-		{
-			"ShaderMapHash": "75AA755DC3FA6FE114C543CAD453DB967ED0617A",
-			"Assets": [
-				"/Game/RoomAssets/Corkboard/CorkboardMainMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "1715C7D48AFA590840686DE53AB16F615A100756",
-			"Assets": [
-				"/Game/RoomAssets/Corkboard/CorkboardBorderMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "11A7810E814974AB977B4AD1C29716F0B2C332A8",
-			"Assets": [
-				"/Game/RoomAssets/WallMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
-			"Assets": [
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_9",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_8",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_7",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_6",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_5",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_4",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_3",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_2",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_15",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_14",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_13",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_12",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_11",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_10",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A3330230AC929FA05DF5705EEE5F3E8F21339AFA",
-			"Assets": [
-				"/Game/RoomAssets/GlassMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "B967F2EB4C25C4C193FB2F727CF8F82C8BC45781",
-			"Assets": [
-				"/Game/RoomAssets/CarpetMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "4A547D0DBD75EB87BFE0421432E231ADDD55561A",
-			"Assets": [
-				"/Engine/MapTemplates/Materials/BasicAsset01"
-			]
-		},
-		{
-			"ShaderMapHash": "C6142D58EA95E4D9DE40FBE2184B552D764A95E1",
-			"Assets": [
-				"/Game/Whiteboard/Markers/RedMarkerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "63016A887853CCC88161D09E1481C84106629BBB",
-			"Assets": [
-				"/Game/Whiteboard/Markers/GreenMarkerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "98C7944D6D06645271CB05D1D8C39C3E30E321AA",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2590BFE2264E002D6F1C26D641DD76C842E4A78D",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerBlueMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "193213FDBA8CF04055570877A7E2CAF4B139A233",
-			"Assets": [
-				"/Game/Whiteboard/Markers/BlueMarkerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "9D4F7AD9761632EC4A0365217EAB41D0BAAAC209",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2287025E297FFC2B3D00DBE940AA417AC2DCDBD0",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerBaseMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D424690CDB9E417A11FEDD282CF2FAEB6D19104C",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerBlackMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "230613DBFE7870C9A4E42BF54A4DA156282C33ED",
-			"Assets": [
-				"/Game/Whiteboard/Markers/BlackMarkerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2F7EBFBC75487361D78A830200B5227B0BE6E0D6",
-			"Assets": [
-				"/Game/RoomAssets/StartingNote/StartingNoteMaterial",
-				"/Game/TheMatrix/Textures/MatrixItemTexture1"
-			]
-		},
-		{
-			"ShaderMapHash": "545AE0E48C20ADA16412052D0BA77FC44100CC39",
-			"Assets": [
-				"/Game/RoomAssets/SpyCamera/OctogarfMouthMaterial",
-				"/Game/RoomAssets/SpyCamera/OctogarfEyes2Material",
-				"/Game/RoomAssets/SpyCamera/OctogarfEyes1Material",
-				"/Game/RoomAssets/SpyCamera/OctogarfEarsMaterial",
-				"/Game/RoomAssets/SpyCamera/OctogarfBodyMaterial",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial4",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial3",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial2",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial1",
-				"/Game/RoomAssets/DeskSetup/01_-_Default",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial5"
-			]
-		},
-		{
-			"ShaderMapHash": "3BEDB6355DF94213E4C8D9C5A14ECD14F2A84E9D",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/GroovyMonitorMaterial",
-				"/Game/RoomAssets/DeskSetup/MonitorMaterialScreen"
-			]
-		},
-		{
-			"ShaderMapHash": "DBB300BD65D12589DD0B29E61DD0CE8C3B1F1848",
-			"Assets": [
-				"/Game/Whiteboard/WhiteboardMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "6496C3247346EB63D86C113E37FF694AEB1AC3EC",
-			"Assets": [
-				"/Game/Whiteboard/WhiteboardBorderMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D10F238A36DC011FAF9EEC9354558CAC97468DD6",
-			"Assets": [
-				"/Game/Whiteboard/Markers/BaseMarkerMaterial",
-				"/OculusVR/Materials/PokeAHoleMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportCylinder"
-			]
-		},
-		{
-			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportNoise"
-			]
-		},
-		{
-			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
-			"Assets": [
-				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
-			]
-		},
-		{
-			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_VRCursor",
-				"/Engine/EditorMaterials/WidgetMaterial",
-				"/Engine/BufferVisualization/SceneDepthWorldUnits",
-				"/Engine/BufferVisualization/CustomDepthWorldUnits",
-				"/Engine/BufferVisualization/WorldNormal",
-				"/Engine/BufferVisualization/SubsurfaceColor",
-				"/Engine/BufferVisualization/Specular",
-				"/Engine/BufferVisualization/SeparateTranslucencyA",
-				"/Engine/BufferVisualization/SeparateTranslucencyRGB",
-				"/Engine/BufferVisualization/SceneDepth",
-				"/Engine/BufferVisualization/SceneColor",
-				"/Engine/BufferVisualization/Roughness",
-				"/Engine/BufferVisualization/Opacity",
-				"/Engine/BufferVisualization/Metallic",
-				"/Engine/BufferVisualization/MaterialAO",
-				"/Engine/BufferVisualization/LightingModel",
-				"/Engine/BufferVisualization/FinalImage",
-				"/Engine/BufferVisualization/CustomDepth",
-				"/Engine/BufferVisualization/BaseColor"
-			]
-		},
-		{
-			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
-			"Assets": [
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioSilver",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioRed",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioGrey",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioBlue"
-			]
-		},
-		{
-			"ShaderMapHash": "94F3F2E5E4A57EB256512F6BDBE545E33830010E",
-			"Assets": [
-				"/Game/RoomAssets/Cabinet/CabinetMaterial",
-				"/Game/RoomAssets/Cabinet/CabinetDoorMaterial"
+				"/Game/TheMatrix/Textures/MatrixItemMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "5A1914D07889AF4A257F6376142B5A9F01783BA0",
+			"Assets": [
+				"/Game/TheMatrix/Enemies/MatrixEnemyBody"
+			]
+		},
+		{
+			"ShaderMapHash": "5E7FD58CD14C41AEF1258B2B3B01AA7D48413C25",
+			"Assets": [
+				"/Game/TheMatrix/Enemies/Ch45_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "ACE75E756DC473646E4A18146D8DD6259FD33851",
+			"Assets": [
+				"/Game/VRTemplate/PlayerBody/M_UE4Man_ChestLogo",
+				"/Game/VRTemplate/PlayerBody/M_Male_Body",
+				"/Game/RoomAssets/Door/DoorMaterial",
+				"/Game/RoomAssets/Door/DoorHandleMaterial",
+				"/Game/RoomAssets/Door/DoorBorderMaterial",
+				"/Game/RoomAssets/Cabinet/CabinetHandleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
 			]
 		},
 		{
@@ -355,6 +124,30 @@
 			"ShaderMapHash": "D330ACFAD2D8853AC50405FE0888DB0373F68B84",
 			"Assets": [
 				"/Engine/EditorMaterials/WidgetMaterial_Current"
+			]
+		},
+		{
+			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
+			"Assets": [
+				"/Engine/EditorMaterials/WidgetMaterial",
+				"/Engine/BufferVisualization/SceneDepthWorldUnits",
+				"/Engine/BufferVisualization/CustomDepthWorldUnits",
+				"/Engine/BufferVisualization/WorldNormal",
+				"/Engine/BufferVisualization/SubsurfaceColor",
+				"/Engine/BufferVisualization/Specular",
+				"/Engine/BufferVisualization/SeparateTranslucencyA",
+				"/Engine/BufferVisualization/SeparateTranslucencyRGB",
+				"/Engine/BufferVisualization/SceneDepth",
+				"/Engine/BufferVisualization/SceneColor",
+				"/Engine/BufferVisualization/Roughness",
+				"/Engine/BufferVisualization/Opacity",
+				"/Engine/BufferVisualization/Metallic",
+				"/Engine/BufferVisualization/MaterialAO",
+				"/Engine/BufferVisualization/LightingModel",
+				"/Engine/BufferVisualization/FinalImage",
+				"/Engine/BufferVisualization/CustomDepth",
+				"/Engine/BufferVisualization/BaseColor",
+				"/Game/VRTemplate/Materials/M_VRCursor"
 			]
 		},
 		{
@@ -656,6 +449,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D10F238A36DC011FAF9EEC9354558CAC97468DD6",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial",
+				"/Game/Whiteboard/Markers/BaseMarkerMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "5DF428261A29C27B93C502DE0A2542740EC4C269",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
@@ -833,6 +633,223 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A67F9261D491259D5CD50C30B6BF7C808E61BBD7",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/MonitorMaterialOuter",
+				"/Game/RoomAssets/DeskSetup/ChairMaterialPlastic"
+			]
+		},
+		{
+			"ShaderMapHash": "3BEDB6355DF94213E4C8D9C5A14ECD14F2A84E9D",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/MonitorMaterialScreen",
+				"/Game/RoomAssets/DeskSetup/GroovyMonitorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BEF755F47F0E429E267CE37F3DF47BC069BB8AFB",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/DeskMaterialWood"
+			]
+		},
+		{
+			"ShaderMapHash": "554F659696F90CB00E51745B0721FB6C4098F5A7",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/DeskMaterialMetal",
+				"/Game/RoomAssets/DeskSetup/ChairMaterialMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "C5FE77F55B8038A68BAE5FA3C1E9CF971281C2A0",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/ChairMaterialCushion"
+			]
+		},
+		{
+			"ShaderMapHash": "75AA755DC3FA6FE114C543CAD453DB967ED0617A",
+			"Assets": [
+				"/Game/RoomAssets/Corkboard/CorkboardMainMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1715C7D48AFA590840686DE53AB16F615A100756",
+			"Assets": [
+				"/Game/RoomAssets/Corkboard/CorkboardBorderMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "11A7810E814974AB977B4AD1C29716F0B2C332A8",
+			"Assets": [
+				"/Game/RoomAssets/WallMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24C6F0F46A476D1658DEAD0B6944D082C41FD7DE",
+			"Assets": [
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_9",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_8",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_7",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_6",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_5",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_4",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_3",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_2",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_15",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_14",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_13",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_12",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_11",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_10",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A3330230AC929FA05DF5705EEE5F3E8F21339AFA",
+			"Assets": [
+				"/Game/RoomAssets/GlassMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DBB300BD65D12589DD0B29E61DD0CE8C3B1F1848",
+			"Assets": [
+				"/Game/Whiteboard/WhiteboardMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6496C3247346EB63D86C113E37FF694AEB1AC3EC",
+			"Assets": [
+				"/Game/Whiteboard/WhiteboardBorderMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9D4F7AD9761632EC4A0365217EAB41D0BAAAC209",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2287025E297FFC2B3D00DBE940AA417AC2DCDBD0",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerBaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C6142D58EA95E4D9DE40FBE2184B552D764A95E1",
+			"Assets": [
+				"/Game/Whiteboard/Markers/RedMarkerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "98C7944D6D06645271CB05D1D8C39C3E30E321AA",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "63016A887853CCC88161D09E1481C84106629BBB",
+			"Assets": [
+				"/Game/Whiteboard/Markers/GreenMarkerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2590BFE2264E002D6F1C26D641DD76C842E4A78D",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerBlueMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "193213FDBA8CF04055570877A7E2CAF4B139A233",
+			"Assets": [
+				"/Game/Whiteboard/Markers/BlueMarkerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D424690CDB9E417A11FEDD282CF2FAEB6D19104C",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerBlackMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "230613DBFE7870C9A4E42BF54A4DA156282C33ED",
+			"Assets": [
+				"/Game/Whiteboard/Markers/BlackMarkerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
+			"Assets": [
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "0012E27BE97ADB6967D852FEA4E289B057E0692D",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "70831422B3202BE5346DC95C147AEEE96FFFD5DF",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
+			"Assets": [
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioSilver",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioRed",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioGrey",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioBlue"
+			]
+		},
+		{
+			"ShaderMapHash": "545AE0E48C20ADA16412052D0BA77FC44100CC39",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial1",
+				"/Game/RoomAssets/SpyCamera/OctogarfMouthMaterial",
+				"/Game/RoomAssets/SpyCamera/OctogarfEyes2Material",
+				"/Game/RoomAssets/SpyCamera/OctogarfEyes1Material",
+				"/Game/RoomAssets/SpyCamera/OctogarfEarsMaterial",
+				"/Game/RoomAssets/SpyCamera/OctogarfBodyMaterial",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial4",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial3",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial2",
+				"/Game/RoomAssets/DeskSetup/01_-_Default",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial5"
+			]
+		},
+		{
+			"ShaderMapHash": "2F7EBFBC75487361D78A830200B5227B0BE6E0D6",
+			"Assets": [
+				"/Game/RoomAssets/StartingNote/StartingNoteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B967F2EB4C25C4C193FB2F727CF8F82C8BC45781",
+			"Assets": [
+				"/Game/RoomAssets/CarpetMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "94F3F2E5E4A57EB256512F6BDBE545E33830010E",
+			"Assets": [
+				"/Game/RoomAssets/Cabinet/CabinetMaterial",
+				"/Game/RoomAssets/Cabinet/CabinetDoorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4A547D0DBD75EB87BFE0421432E231ADDD55561A",
+			"Assets": [
+				"/Engine/MapTemplates/Materials/BasicAsset01"
+			]
+		},
+		{
 			"ShaderMapHash": "76CCDB450CDE634DD3589B33E6CC23869B438F92",
 			"Assets": [
 				"/Game/VRTemplate/Materials/M_GridRotation",
@@ -846,27 +863,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
-			]
-		},
-		{
-			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
-			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
 			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "7191CB94002227506ED1DC66D9C2F72E4C184453",
+			"ShaderMapHash": "2C81457D05F9D6944BA73577034C0587A69D74C5",
 			"Assets": [
 				"/Game/TheMatrix/Textures/MatrixWallsTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "85F4D87DC59A337A2EF32E0E14842F35FB89405F",
+			"Assets": [
+				"/Game/TheMatrix/Textures/MatrixWallsAltTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
+			"Assets": [
+				"/Game/TheMatrix/Textures/MatrixEnemyMaterial"
 			]
 		}
 	]
