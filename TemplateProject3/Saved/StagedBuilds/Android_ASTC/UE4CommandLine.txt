@@ -1,1 +1,1 @@
-../../../TemplateProject3/TemplateProject3.uproject  /Game/Maps/MatrixLevel -Messaging -SessionId=B70E572D45684682C685DF8F22953808 -SessionOwner="SLATE 15" -SessionName="Launch On Device" -iterative
+../../../TemplateProject3/TemplateProject3.uproject  /Game/Maps/MatrixLevel -Messaging -SessionId=41A51FB34E5651E406A34BBE8F4803D1 -SessionOwner="SLATE 15" -SessionName="Launch On Device" -iterative
