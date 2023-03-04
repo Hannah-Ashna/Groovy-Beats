@@ -77,3 +77,7 @@ DerivedDataCache/*
 TemplateProject3/Content/Sound/NeonDrive.uasset
 TemplateProject3/Content/Sound/PatternRecognition.uasset
 TemplateProject3/Binaries/Android/TemplateProject3-armv7.apk
+TemplateProject3/Deploys/Android_ASTC/Install_TemplateProject3-armv7.bat
+TemplateProject3/Binaries/Android/TemplateProject3-armv7.apk
+TemplateProject3/Binaries/Android/TemplateProject3-armv7.apk
+TemplateProject3/Deploys/Android_ASTC/TemplateProject3-armv7.apk
