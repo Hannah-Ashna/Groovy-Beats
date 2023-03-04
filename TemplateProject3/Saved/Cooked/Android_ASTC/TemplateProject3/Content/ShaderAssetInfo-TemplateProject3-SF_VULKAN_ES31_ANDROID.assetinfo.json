@@ -270,57 +270,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
+			"ShaderMapHash": "EB3CCC478D1EEF000B7F3C5F671AE8FF16B0AB75",
 			"Assets": [
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioSilver",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioRed",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioGrey",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioBlue"
-			]
-		},
-		{
-			"ShaderMapHash": "DBB300BD65D12589DD0B29E61DD0CE8C3B1F1848",
-			"Assets": [
-				"/Game/Whiteboard/WhiteboardMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "6496C3247346EB63D86C113E37FF694AEB1AC3EC",
-			"Assets": [
-				"/Game/Whiteboard/WhiteboardBorderMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "545AE0E48C20ADA16412052D0BA77FC44100CC39",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial1",
-				"/Game/RoomAssets/SpyCamera/OctogarfMouthMaterial",
-				"/Game/RoomAssets/SpyCamera/OctogarfEyes2Material",
-				"/Game/RoomAssets/SpyCamera/OctogarfEyes1Material",
-				"/Game/RoomAssets/SpyCamera/OctogarfEarsMaterial",
-				"/Game/RoomAssets/SpyCamera/OctogarfBodyMaterial",
-				"/Game/RoomAssets/DeskSetup/01_-_Default",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial4",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial3",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial2",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial5"
+				"/Game/Widgets/HUDMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "E16398272134AB1F646206FA95A911FF8F8D2BA9",
 			"Assets": [
 				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
-			]
-		},
-		{
-			"ShaderMapHash": "ACE75E756DC473646E4A18146D8DD6259FD33851",
-			"Assets": [
-				"/Game/VRTemplate/PlayerBody/M_UE4Man_ChestLogo",
-				"/Game/VRTemplate/PlayerBody/M_Male_Body",
-				"/Game/RoomAssets/Door/DoorMaterial",
-				"/Game/RoomAssets/Door/DoorHandleMaterial",
-				"/Game/RoomAssets/Door/DoorBorderMaterial",
-				"/Game/RoomAssets/Cabinet/CabinetHandleMaterial"
 			]
 		},
 		{
@@ -339,6 +297,54 @@
 			"ShaderMapHash": "9137614D4A326862AE14320D4808A10CFFB05998",
 			"Assets": [
 				"/Game/VRTemplate/Materials/M_VRCursor"
+			]
+		},
+		{
+			"ShaderMapHash": "ACE75E756DC473646E4A18146D8DD6259FD33851",
+			"Assets": [
+				"/Game/VRTemplate/PlayerBody/M_UE4Man_ChestLogo",
+				"/Game/VRTemplate/PlayerBody/M_Male_Body",
+				"/Game/RoomAssets/Door/DoorHandleMaterial",
+				"/Game/RoomAssets/Door/DoorBorderMaterial",
+				"/Game/RoomAssets/Door/DoorMaterial",
+				"/Game/RoomAssets/Cabinet/CabinetHandleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "545AE0E48C20ADA16412052D0BA77FC44100CC39",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial1",
+				"/Game/RoomAssets/SpyCamera/OctogarfMouthMaterial",
+				"/Game/RoomAssets/SpyCamera/OctogarfEyes2Material",
+				"/Game/RoomAssets/SpyCamera/OctogarfEyes1Material",
+				"/Game/RoomAssets/SpyCamera/OctogarfEarsMaterial",
+				"/Game/RoomAssets/SpyCamera/OctogarfBodyMaterial",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial4",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial3",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial2",
+				"/Game/RoomAssets/DeskSetup/01_-_Default",
+				"/Game/RoomAssets/DeskSetup/KeyboardMaterial5"
+			]
+		},
+		{
+			"ShaderMapHash": "DBB300BD65D12589DD0B29E61DD0CE8C3B1F1848",
+			"Assets": [
+				"/Game/Whiteboard/WhiteboardMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6496C3247346EB63D86C113E37FF694AEB1AC3EC",
+			"Assets": [
+				"/Game/Whiteboard/WhiteboardBorderMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
+			"Assets": [
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioSilver",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioRed",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioGrey",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioBlue"
 			]
 		},
 		{
@@ -505,32 +511,14 @@
 		{
 			"ShaderMapHash": "94F3F2E5E4A57EB256512F6BDBE545E33830010E",
 			"Assets": [
-				"/Game/RoomAssets/Cabinet/CabinetDoorMaterial",
-				"/Game/RoomAssets/Cabinet/CabinetMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
-			]
-		},
-		{
-			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
-			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
+				"/Game/RoomAssets/Cabinet/CabinetMaterial",
+				"/Game/RoomAssets/Cabinet/CabinetDoorMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "78E1F43E4723DD6E346BFD7F34D0DE99B92EC311",
 			"Assets": [
 				"/Engine/VREditor/BasicMeshes/M_Floor_01"
-			]
-		},
-		{
-			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -544,6 +532,24 @@
 			"ShaderMapHash": "31A7E58C5728912529183E2AC72C6E48986BCE09",
 			"Assets": [
 				"/Game/VRTemplate/Materials/MI_Grid_Accent"
+			]
+		},
+		{
+			"ShaderMapHash": "C4EC77A0A9170CF3CC1357CBD6E13463E601E9B2",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3BAFD59784DED7548A816E9366C95DD16B59A651",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "2342E8AC6E6BFA4ED590906E8B4EA23A69EE6DEC",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
 			]
 		},
 		{
