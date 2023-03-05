@@ -1787,3 +1787,298 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.05-15.45.18:853][423]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_Auto1F5F333174E2E598896F47EAADD0FFF8E.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Autosaves/Game/Maps/BaseLevel_Auto1.umap'
 [2023.03.05-15.45.18:855][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/BaseLevel' took 0.087
 [2023.03.05-15.45.18:855][423]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2023.03.05-15.48.54:912][358]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\SLATE 15\Downloads\MatrixShutdownSFX.wav)
+[2023.03.05-15.48.54:922][358]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\SLATE 15\Downloads\ShutdownSFX.wav)
+[2023.03.05-15.48.56:957][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.05-15.48.56:988][439]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel4D13241A424F26E9F82129A457CD4D54.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2023.03.05-15.48.57:041][439]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltData8232FAFA490E5CF97033449056D2A67A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2023.03.05-15.48.57:059][439]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.05-15.48.57:059][439]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2023.03.05-15.48.57:059][439]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2023.03.05-15.50.38:706][821]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\SLATE 15\Downloads\PowerButtonClickSFX.wav)
+[2023.03.05-15.50.45:383][167]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.05-15.50.45:413][167]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.05-15.50.47:423][278]LogContentBrowser: Attempting asset rename: NewFolder -> Desktops
+[2023.03.05-15.50.47:423][278]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.05-15.50.51:108][490]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.05-15.50.51:129][490]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.05-15.50.52:307][551]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2023.03.05-15.50.52:307][551]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.05-15.51.00:596][950]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/AngryGrowlEEA7231C4F579FE1BC3CC4BDC6BCBAF2.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Enemies/AngryGrowl.uasset'
+[2023.03.05-15.51.00:602][950]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/GlitchDeath790E62D3415170363EC74CA7CFC2D2CC.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Enemies/GlitchDeath.uasset'
+[2023.03.05-15.51.00:709][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.03.05-15.51.00:743][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.05-15.51.00:781][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.03.05-15.51.00:815][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.05-15.51.00:844][950]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Minion_SoundCue5F9733254E80D468CDFFE7B9B0AEA946.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Minion_SoundCue.uasset'
+[2023.03.05-15.51.00:911][950]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Minion_BPCCFFF61D4554EFAB786396BDD11AD00C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/TheMatrix/Enemies/EnemyMinions/Minion_BP.uasset'
+[2023.03.05-15.51.00:970][950]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/PatrollingMinionAI5B9B3EC8418574EF9E8349B7FC0AD829.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.uasset'
+[2023.03.05-15.51.01:051][950]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.05-15.51.01:052][950]LogContentValidation: Display: Validating Blueprint /Game/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.PatrollingMinionAI
+[2023.03.05-15.51.01:052][950]LogContentValidation: Display: Validating SoundWave /Game/Sound/Enemies/AngryGrowl.AngryGrowl
+[2023.03.05-15.51.01:052][950]LogContentValidation: Display: Validating SoundCue /Game/Sound/Minion_SoundCue.Minion_SoundCue
+[2023.03.05-15.51.01:052][950]LogContentValidation: Display: Validating SoundWave /Game/Sound/Enemies/GlitchDeath.GlitchDeath
+[2023.03.05-15.51.01:052][950]LogContentValidation: Display: Validating Blueprint /Game/TheMatrix/Enemies/EnemyMinions/Minion_BP.Minion_BP
+[2023.03.05-15.51.03:957][ 89]LogMetaData: Removing '/Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Sound/Minion_SoundCue.PackageMetaData'
+[2023.03.05-15.51.03:974][ 89]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Minion_SoundCue9066258D41101F2019926597543CD17D.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Enemies/Minion_SoundCue.uasset'
+[2023.03.05-15.51.04:070][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.03.05-15.51.04:109][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.03.05-15.51.04:139][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.05-15.51.04:199][ 89]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/Minion_BP4651874545C4D35B379ECB8E674E9A93.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/TheMatrix/Enemies/EnemyMinions/Minion_BP.uasset'
+[2023.03.05-15.51.04:239][ 89]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/PatrollingMinionAI0EA4468D4164BB002AEC7B84208473B9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.uasset'
+[2023.03.05-15.51.04:315][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.05-15.51.04:315][ 89]LogContentValidation: Display: Validating Blueprint /Game/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.PatrollingMinionAI
+[2023.03.05-15.51.04:315][ 89]LogContentValidation: Display: Validating SoundCue /Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue
+[2023.03.05-15.51.04:315][ 89]LogContentValidation: Display: Validating Blueprint /Game/TheMatrix/Enemies/EnemyMinions/Minion_BP.Minion_BP
+[2023.03.05-15.51.12:495][513]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/ShutdownSFXBA689D6C44A3E995D7419BA6E2F0BD12.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Desktops/ShutdownSFX.uasset'
+[2023.03.05-15.51.12:501][513]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/WindowsXPError77CB1E5F489999D929D196B32768EC6C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Desktops/WindowsXPError.uasset'
+[2023.03.05-15.51.12:625][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.05-15.51.12:656][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.05-15.51.12:697][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.03.05-15.51.12:727][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.05-15.51.12:860][513]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/VRMatrixChar9C384C4E4A1C9AF4DDD0A8954F98CC2B.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/TheMatrix/VRMatrixChar.uasset'
+[2023.03.05-15.51.12:936][513]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.05-15.51.12:936][513]LogContentValidation: Display: Validating Blueprint /Game/TheMatrix/VRMatrixChar.VRMatrixChar
+[2023.03.05-15.51.12:936][513]LogContentValidation: Display: Validating SoundWave /Game/Sound/Desktops/WindowsXPError.WindowsXPError
+[2023.03.05-15.51.12:936][513]LogContentValidation: Display: Validating SoundWave /Game/Sound/Desktops/ShutdownSFX.ShutdownSFX
+[2023.03.05-15.51.16:728][704]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/PowerButtonClickSFXF1980FD44AF0B61B8B3D4DB57AD9CE27.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Desktops/PowerButtonClickSFX.uasset'
+[2023.03.05-15.51.16:822][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.03.05-15.51.16:862][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.05-15.51.16:894][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.05-15.51.16:961][704]AssetCheck: New page: Asset Save: PowerButtonClickSFX
+[2023.03.05-15.51.16:961][704]LogContentValidation: Display: Validating SoundWave /Game/Sound/Desktops/PowerButtonClickSFX.PowerButtonClickSFX
+[2023.03.05-15.51.18:961][800]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/MatrixShutdownSFX6B82A6B24EA871C7CBAA86B9B4B641FC.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Desktops/MatrixShutdownSFX.uasset'
+[2023.03.05-15.51.19:055][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.05-15.51.19:093][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.05-15.51.19:124][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.05-15.51.19:192][800]AssetCheck: New page: Asset Save: MatrixShutdownSFX
+[2023.03.05-15.51.19:192][800]LogContentValidation: Display: Validating SoundWave /Game/Sound/Desktops/MatrixShutdownSFX.MatrixShutdownSFX
+[2023.03.05-15.51.21:913][962]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave PowerButtonClickSFX...
+[2023.03.05-15.51.21:913][962]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Desktops/PowerButtonClickSFX.PowerButtonClickSFX will be modified from 40 to 40.
+[2023.03.05-15.51.21:939][962]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 91396 while cooking SoundWave /Game/Sound/Desktops/PowerButtonClickSFX.PowerButtonClickSFX.
+[2023.03.05-15.51.37:276][263]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShutdownSFX...
+[2023.03.05-15.51.37:276][263]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Desktops/ShutdownSFX.ShutdownSFX will be modified from 40 to 40.
+[2023.03.05-15.51.37:331][263]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 773504 while cooking SoundWave /Game/Sound/Desktops/ShutdownSFX.ShutdownSFX.
+[2023.03.05-15.51.50:339][408]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\SLATE 15\Downloads\StartupSFX.wav)
+[2023.03.05-15.51.50:339][408]Error: Unable to read wave file 'StartupSFX' - ""
+[2023.03.05-15.51.50:339][408]Error: Unrecognized sound format 'wav' in StartupSFX
+[2023.03.05-15.51.53:019][408]LogSlate: Window 'Message' being destroyed
+[2023.03.05-15.51.53:026][408]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\SLATE 15\Downloads\StartupSFX.wav'. Failed to create asset '/Game/Sound/Desktops/StartupSFX'.
+Please see Output Log for details.
+[2023.03.05-15.51.53:026][408]LogAssetTools: Warning: Failed to import 'C:\Users\SLATE 15\Downloads\StartupSFX.wav'. Failed to create asset '/Game/Sound/Desktops/StartupSFX'.
+Please see Output Log for details.
+[2023.03.05-15.51.55:693][510]LogAudioEditor: Performing atomic reimport of [C:/Users/SLATE 15/Downloads/PowerButtonClickSFX.wav]
+[2023.03.05-15.51.55:694][510]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/SLATE 15/Downloads/PowerButtonClickSFX.wav)
+[2023.03.05-15.51.55:696][510]LogAudioEditor: -- imported successfully
+[2023.03.05-15.51.55:696][510]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave PowerButtonClickSFX...
+[2023.03.05-15.51.55:696][510]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Desktops/PowerButtonClickSFX.PowerButtonClickSFX will be modified from 40 to 40.
+[2023.03.05-15.52.03:990][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\SLATE 15\Downloads\StartupSFX.wav)
+[2023.03.05-15.52.03:990][816]Error: Unable to read wave file 'StartupSFX' - ""
+[2023.03.05-15.52.03:990][816]Error: Unrecognized sound format 'wav' in StartupSFX
+[2023.03.05-15.52.06:219][816]LogSlate: Window 'Message' being destroyed
+[2023.03.05-15.52.06:226][816]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\SLATE 15\Downloads\StartupSFX.wav'. Failed to create asset '/Game/Sound/Desktops/StartupSFX'.
+Please see Output Log for details.
+[2023.03.05-15.52.06:226][816]LogAssetTools: Warning: Failed to import 'C:\Users\SLATE 15\Downloads\StartupSFX.wav'. Failed to create asset '/Game/Sound/Desktops/StartupSFX'.
+Please see Output Log for details.
+[2023.03.05-15.52.21:958][153]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\SLATE 15\Downloads\StartupSFX.wav)
+[2023.03.05-15.52.23:908][223]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave StartupSFX...
+[2023.03.05-15.52.23:908][223]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Desktops/StartupSFX.StartupSFX will be modified from 40 to 40.
+[2023.03.05-15.52.23:982][223]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 940688 while cooking SoundWave /Game/Sound/Desktops/StartupSFX.StartupSFX.
+[2023.03.05-15.52.40:755][161]BlueprintLog: New page: Compile DesktopBP
+[2023.03.05-15.52.40:816][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.03.05-15.52.45:189][410]BlueprintLog: New page: Compile DesktopBP
+[2023.03.05-15.52.45:250][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.03.05-15.52.45:664][430]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/DesktopBP0EE56AD74BBEAF655C693284BC9414CE.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/DeskSetup/DesktopBP.uasset'
+[2023.03.05-15.52.45:684][430]AssetCheck: New page: Asset Save: DesktopBP
+[2023.03.05-15.52.45:684][430]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/DesktopBP.DesktopBP
+[2023.03.05-15.53.19:700][361]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.03.05-15.53.19:715][361]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.03.05-15.53.25:671][718]LogContentBrowser: Attempting asset rename: NewSoundCue -> PowerOnCue
+[2023.03.05-15.53.25:677][718]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.03.05-15.53.27:871][829]LogContentBrowser: Attempting asset rename: PowerOnCue -> PowerOnCue
+[2023.03.05-15.53.30:603][990]LogContentBrowser: Attempting asset rename: PowerOnCue_2 -> PowerOffCue
+[2023.03.05-15.53.30:661][990]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/PowerOffCue6082568547EB33EA35D3CF893F531987.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Desktops/PowerOffCue.uasset'
+[2023.03.05-15.53.30:743][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.03.05-15.53.30:783][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.05-15.53.30:816][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.05-15.53.30:876][990]AssetCheck: New page: Asset Save: PowerOffCue
+[2023.03.05-15.53.30:876][990]LogContentValidation: Display: Validating SoundCue /Game/Sound/Desktops/PowerOffCue.PowerOffCue
+[2023.03.05-15.53.32:177][ 67]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/Desktops/PowerOnCue.PowerOnCue
+[2023.03.05-15.54.54:821][621]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/Desktops/PowerOnCue.PowerOnCue was zero and has changed. Consider manually Re-saving the asset
+[2023.03.05-15.55.22:889][166]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/Desktops/PowerOffCue.PowerOffCue
+[2023.03.05-15.55.26:603][377]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue:SoundCueGraph_0.SoundCueGraphNode_1 or SoundCueGraphNode /Game/Sound/Punch_SoundCue.Punch_SoundCue:SoundCueGraph_0.SoundCueGraphNode_1
+[2023.03.05-15.55.26:603][377]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue:SoundCueGraph_0.SoundCueGraphNode_1 or SoundCueGraphNode /Game/Sound/Desktops/PowerOnCue.PowerOnCue:SoundCueGraph_0.SoundCueGraphNode_1
+[2023.03.05-15.55.26:603][377]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue:SoundCueGraph_0.SoundCueGraphNode_1 or SoundCueGraphNode /Game/Sound/Desktops/PowerOffCue.PowerOffCue:SoundCueGraph_0.SoundCueGraphNode_1
+[2023.03.05-15.55.26:603][377]LogProperty: Warning: ObjectProperty /Script/Engine.SoundNode:ChildNodes.ChildNodes: unresolved reference to 'SoundNodeWavePlayer'"SoundCueGraphNode_1.SoundNodeWavePlayer_1"''
+[2023.03.05-15.55.26:603][377]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue:SoundCueGraph_0.SoundCueGraphNode_0 or SoundCueGraphNode /Game/Sound/Punch_SoundCue.Punch_SoundCue:SoundCueGraph_0.SoundCueGraphNode_0
+[2023.03.05-15.55.26:603][377]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue:SoundCueGraph_0.SoundCueGraphNode_0 or SoundCueGraphNode /Game/Sound/Desktops/PowerOnCue.PowerOnCue:SoundCueGraph_0.SoundCueGraphNode_0
+[2023.03.05-15.55.26:603][377]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/Enemies/Minion_SoundCue.Minion_SoundCue:SoundCueGraph_0.SoundCueGraphNode_0 or SoundCueGraphNode /Game/Sound/Desktops/PowerOffCue.PowerOffCue:SoundCueGraph_0.SoundCueGraphNode_0
+[2023.03.05-15.55.26:603][377]LogProperty: Warning: ObjectProperty /Script/Engine.SoundNode:ChildNodes.ChildNodes: unresolved reference to 'SoundNodeWavePlayer'"SoundCueGraphNode_0.SoundNodeWavePlayer_0"''
+[2023.03.05-15.55.28:587][473]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/Desktops/PowerOffCue.PowerOffCue was zero and has changed. Consider manually Re-saving the asset
+[2023.03.05-15.55.31:605][640]LogEditorTransaction: Undo Delete Selected Sound Cue Node
+[2023.03.05-15.55.45:497][364]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/PowerOffCueF17A38A94BD78C62930E95886444C4E3.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Desktops/PowerOffCue.uasset'
+[2023.03.05-15.55.45:508][364]AssetCheck: New page: Asset Save: PowerOffCue
+[2023.03.05-15.55.45:508][364]LogContentValidation: Display: Validating SoundCue /Game/Sound/Desktops/PowerOffCue.PowerOffCue
+[2023.03.05-15.55.52:133][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.03.05-15.55.52:164][738]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevelBAFF784B4EEFA9497B0AC1AEE30F4C26.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel.umap'
+[2023.03.05-15.55.52:214][738]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/BaseLevel_BuiltDataAEF222E84911C835D043738A5583E985.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Maps/BaseLevel_BuiltData.uasset'
+[2023.03.05-15.55.52:231][738]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.05-15.55.52:231][738]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2023.03.05-15.55.52:231][738]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2023.03.05-15.55.53:810][823]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/PowerOnCue4E57EDBF4A9945EAE35BC0B2BC5B86B4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/Sound/Desktops/PowerOnCue.uasset'
+[2023.03.05-15.55.53:823][823]AssetCheck: New page: Asset Save: PowerOnCue
+[2023.03.05-15.55.53:823][823]LogContentValidation: Display: Validating SoundCue /Game/Sound/Desktops/PowerOnCue.PowerOnCue
+[2023.03.05-15.57.44:074][865]BlueprintLog: New page: Compile DesktopBP
+[2023.03.05-15.57.44:137][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.03.05-15.57.44:944][903]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/DesktopBP97A2F32C4B366910DD4CDDBD1DBEE73D.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/DeskSetup/DesktopBP.uasset'
+[2023.03.05-15.57.44:960][903]AssetCheck: New page: Asset Save: DesktopBP
+[2023.03.05-15.57.44:961][903]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/DesktopBP.DesktopBP
+[2023.03.05-15.58.10:816][334]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/DesktopBP699AA0CB459D075194B2B0BA74E20B71.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/DeskSetup/DesktopBP.uasset'
+[2023.03.05-15.58.10:830][334]AssetCheck: New page: Asset Save: DesktopBP
+[2023.03.05-15.58.10:830][334]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/DesktopBP.DesktopBP
+[2023.03.05-15.58.30:202][438]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/DesktopBP33246CFB43E67DE74D4DF9B648974580.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/DeskSetup/DesktopBP.uasset'
+[2023.03.05-15.58.30:216][438]AssetCheck: New page: Asset Save: DesktopBP
+[2023.03.05-15.58.30:216][438]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/DesktopBP.DesktopBP
+[2023.03.05-15.58.33:955][656]LogTemp: Repeating last play command: VR Preview
+[2023.03.05-15.58.33:965][656]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.05-15.58.33:978][656]LogPlayLevel: [PlayLevel] Compiling PatrollingMinionAI before play...
+[2023.03.05-15.58.34:026][656]LogPlayLevel: [PlayLevel] Compiling VRMatrixChar before play...
+[2023.03.05-15.58.34:088][656]LogPlayLevel: [PlayLevel] Compiling Minion_BP before play...
+[2023.03.05-15.58.34:160][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.03.05-15.58.34:161][656]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (3 blueprints)
+[2023.03.05-15.58.34:161][656]LogHMD: Initializing OVRPlugin session
+[2023.03.05-15.58.34:346][656]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.05-15.58.34:347][656]PIE: New page: PIE session: BaseLevel (5 Mar 2023, 15:58:34)
+[2023.03.05-15.58.34:347][656]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.05-15.58.34:361][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014693s)
+[2023.03.05-15.58.34:362][656]LogAIModule: Creating AISystem for world BaseLevel
+[2023.03.05-15.58.34:362][656]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2023.03.05-15.58.34:362][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.015794s)
+[2023.03.05-15.58.34:396][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.05-15.58.34:396][656]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.05-15.58.34:396][656]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.05-15.58.34:396][656]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.05-15.58.34:396][656]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.05-15.58.34:396][656]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.05-15.58.34:396][656]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.05-15.58.34:396][656]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.05-15.58.34:396][656]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.05-15.58.34:396][656]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.05-15.58.34:397][656]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.05-15.58.34:397][656]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.05-15.58.34:397][656]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.05-15.58.34:397][656]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.05-15.58.34:401][656]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.58.34:401][656]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.58.34:403][656]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.58.34:403][656]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.58.34:405][656]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.58.34:405][656]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.58.34:408][656]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.58.34:408][656]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.58.34:418][656]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.05-15.58.34:418][656]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.05-15.58.34:418][656]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.05-15.58.34:418][656]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.05-15.58.34:419][656]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.05-15.58.34:419][656]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.05-15.58.34:419][656]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.05-15.58.34:420][656]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.05-15.58.34:420][656]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.05-15.58.34:420][656]LogInit: FAudioDevice initialized.
+[2023.03.05-15.58.34:420][656]LogAudio: Display: Audio Device (ID: 9) registered with world 'BaseLevel'.
+[2023.03.05-15.58.34:428][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.05-15.58.34:436][656]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.05-15.58.34:489][656]LogLoad: Game class is 'VRGameMode_C'
+[2023.03.05-15.58.34:495][656]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.03.05-15.58.34
+[2023.03.05-15.58.34:495][656]LogWorld: Bringing up level for play took: 0.005338
+[2023.03.05-15.58.34:495][656]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.03.05-15.58.34:497][656]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.05-15.58.34:502][656]PIE: Server logged in
+[2023.03.05-15.58.34:504][656]PIE: Play in editor total start time 0.542 seconds.
+[2023.03.05-15.58.34:505][656]LogEngine: Changing dynamic resolution state.
+[2023.03.05-15.58.34:512][656]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.05-15.58.42:893][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.05-15.58.42:893][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.05-15.58.42:934][353]LogSlate: Window 'TemplateProject3 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.05-15.58.42:975][353]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.05-15.58.42:976][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.05-15.58.42:982][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.05-15.58.42:995][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.05-15.58.43:029][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.05-15.58.43:031][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.05-15.58.43:037][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.03.05-15.58.43:068][354]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.03.05-15.58.43:077][354]LogEngine: Changing dynamic resolution state.
+[2023.03.05-15.59.48:294][181]BlueprintLog: New page: Compile DesktopBP
+[2023.03.05-15.59.48:356][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.05-15.59.48:800][200]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Saved/DesktopBPA30E6B194A4F72294C702B9DF5D2539C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/TemplateProject3/Content/RoomAssets/DeskSetup/DesktopBP.uasset'
+[2023.03.05-15.59.48:819][200]AssetCheck: New page: Asset Save: DesktopBP
+[2023.03.05-15.59.48:819][200]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/DesktopBP.DesktopBP
+[2023.03.05-15.59.49:795][256]LogTemp: Repeating last play command: VR Preview
+[2023.03.05-15.59.49:803][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.05-15.59.49:803][256]LogHMD: Initializing OVRPlugin session
+[2023.03.05-15.59.50:232][256]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.05-15.59.50:233][256]PIE: New page: PIE session: BaseLevel (5 Mar 2023, 15:59:50)
+[2023.03.05-15.59.50:233][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.05-15.59.50:245][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011986s)
+[2023.03.05-15.59.50:246][256]LogAIModule: Creating AISystem for world BaseLevel
+[2023.03.05-15.59.50:246][256]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2023.03.05-15.59.50:246][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.013327s)
+[2023.03.05-15.59.50:294][256]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2023.03.05-15.59.50:296][256]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.05-15.59.50:296][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.05-15.59.50:296][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.05-15.59.50:296][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.05-15.59.50:296][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.05-15.59.50:296][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.05-15.59.50:296][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.05-15.59.50:296][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.05-15.59.50:296][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.05-15.59.50:297][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.05-15.59.50:297][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.05-15.59.50:297][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.05-15.59.50:297][256]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.05-15.59.50:302][256]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.59.50:302][256]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.59.50:304][256]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.59.50:304][256]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.59.50:307][256]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.59.50:307][256]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.59.50:312][256]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.05-15.59.50:312][256]LogAudioMixer: Display: 1: FrontRight
+[2023.03.05-15.59.50:321][256]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.05-15.59.50:321][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.05-15.59.50:321][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.05-15.59.50:321][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.05-15.59.50:322][256]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.05-15.59.50:322][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.05-15.59.50:322][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.05-15.59.50:324][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.05-15.59.50:324][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.05-15.59.50:324][256]LogInit: FAudioDevice initialized.
+[2023.03.05-15.59.50:324][256]LogAudio: Display: Audio Device (ID: 10) registered with world 'BaseLevel'.
+[2023.03.05-15.59.50:334][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.05-15.59.50:344][256]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.05-15.59.50:391][256]LogLoad: Game class is 'VRGameMode_C'
+[2023.03.05-15.59.50:397][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.03.05-15.59.50
+[2023.03.05-15.59.50:398][256]LogWorld: Bringing up level for play took: 0.006521
+[2023.03.05-15.59.50:398][256]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.03.05-15.59.50:400][256]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.05-15.59.50:410][256]PIE: Server logged in
+[2023.03.05-15.59.50:412][256]PIE: Play in editor total start time 0.611 seconds.
+[2023.03.05-15.59.50:412][256]LogEngine: Changing dynamic resolution state.
+[2023.03.05-15.59.50:419][256]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.05-16.01.14:948][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.05-16.01.14:948][297]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.05-16.01.14:986][297]LogSlate: Window 'TemplateProject3 Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.05-16.01.15:015][297]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.05-16.01.15:016][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.05-16.01.15:026][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.05-16.01.15:037][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.05-16.01.15:071][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.05-16.01.15:072][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.05-16.01.15:073][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.05-16.01.15:081][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.03.05-16.01.15:110][298]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.03.05-16.01.15:119][298]LogEngine: Changing dynamic resolution state.
