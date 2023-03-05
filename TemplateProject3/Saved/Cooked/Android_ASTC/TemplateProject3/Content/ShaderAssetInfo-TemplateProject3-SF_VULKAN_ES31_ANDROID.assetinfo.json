@@ -313,17 +313,16 @@
 		{
 			"ShaderMapHash": "545AE0E48C20ADA16412052D0BA77FC44100CC39",
 			"Assets": [
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial1",
+				"/Game/RoomAssets/DeskSetup/Keyboard/KeyboardMaterial1",
 				"/Game/RoomAssets/SpyCamera/OctogarfMouthMaterial",
 				"/Game/RoomAssets/SpyCamera/OctogarfEyes2Material",
 				"/Game/RoomAssets/SpyCamera/OctogarfEyes1Material",
 				"/Game/RoomAssets/SpyCamera/OctogarfEarsMaterial",
 				"/Game/RoomAssets/SpyCamera/OctogarfBodyMaterial",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial4",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial3",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial2",
-				"/Game/RoomAssets/DeskSetup/01_-_Default",
-				"/Game/RoomAssets/DeskSetup/KeyboardMaterial5"
+				"/Game/RoomAssets/DeskSetup/Keyboard/KeyboardMaterial4",
+				"/Game/RoomAssets/DeskSetup/Keyboard/KeyboardMaterial3",
+				"/Game/RoomAssets/DeskSetup/Keyboard/KeyboardMaterial2",
+				"/Game/RoomAssets/DeskSetup/Keyboard/KeyboardMaterial5"
 			]
 		},
 		{
@@ -360,36 +359,29 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A67F9261D491259D5CD50C30B6BF7C808E61BBD7",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/MonitorMaterialOuter",
-				"/Game/RoomAssets/DeskSetup/ChairMaterialPlastic"
-			]
-		},
-		{
-			"ShaderMapHash": "3BEDB6355DF94213E4C8D9C5A14ECD14F2A84E9D",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/MonitorMaterialScreen",
-				"/Game/RoomAssets/DeskSetup/GroovyMonitorMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "BEF755F47F0E429E267CE37F3DF47BC069BB8AFB",
 			"Assets": [
-				"/Game/RoomAssets/DeskSetup/DeskMaterialWood"
+				"/Game/RoomAssets/DeskSetup/Desk/DeskMaterialWood"
 			]
 		},
 		{
 			"ShaderMapHash": "554F659696F90CB00E51745B0721FB6C4098F5A7",
 			"Assets": [
-				"/Game/RoomAssets/DeskSetup/DeskMaterialMetal",
-				"/Game/RoomAssets/DeskSetup/ChairMaterialMetal"
+				"/Game/RoomAssets/DeskSetup/Desk/DeskMaterialMetal",
+				"/Game/RoomAssets/DeskSetup/Chair/ChairMaterialMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "A67F9261D491259D5CD50C30B6BF7C808E61BBD7",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/Chair/ChairMaterialPlastic",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialOuter"
 			]
 		},
 		{
 			"ShaderMapHash": "C5FE77F55B8038A68BAE5FA3C1E9CF971281C2A0",
 			"Assets": [
-				"/Game/RoomAssets/DeskSetup/ChairMaterialCushion"
+				"/Game/RoomAssets/DeskSetup/Chair/ChairMaterialCushion"
 			]
 		},
 		{
@@ -509,6 +501,44 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3BEDB6355DF94213E4C8D9C5A14ECD14F2A84E9D",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenOn",
+				"/Game/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialGroovy"
+			]
+		},
+		{
+			"ShaderMapHash": "DD8D81E49193906FA397485C88CAB42A6F03F824",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/DesktopCaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "95A3662F569328FE37E0B24F9E73EB1D51981D4F",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/DesktopRGBMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "67C545C2917AD019E0FACD737F936D3A0578643C",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/DesktopFrontMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AD278072938238E37100C163D3F17C172F2F1907",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/DesktopButtonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "209929A90A1AB15FBE8176D408D113B3A8BCFB37",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenOff"
+			]
+		},
+		{
 			"ShaderMapHash": "94F3F2E5E4A57EB256512F6BDBE545E33830010E",
 			"Assets": [
 				"/Game/RoomAssets/Cabinet/CabinetMaterial",
@@ -559,7 +589,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BD1EC19202304A52D01FE62969B27342062F1095",
+			"ShaderMapHash": "0FE79DD54B09227C02B2F19DA539716215CC4B79",
 			"Assets": [
 				"/Game/TheMatrix/Textures/MatrixItemMaterial"
 			]
