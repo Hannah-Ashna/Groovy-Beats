@@ -2,6 +2,46 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
+			"Assets": [
+				"/Game/RoomAssets/Trash/CanMaterial2",
+				"/Game/RoomAssets/Trash/WaterBottleMaterial2",
+				"/Game/RoomAssets/Trash/CanMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "521F9011DAB14A432BEA65852999D268BE30FDFC",
+			"Assets": [
+				"/Game/RoomAssets/Trash/PizzaMaterial3"
+			]
+		},
+		{
+			"ShaderMapHash": "3EFC607E38F2E55DA752A5ACAFACC5B44D5BDB2C",
+			"Assets": [
+				"/Game/RoomAssets/Trash/BinMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "26A8A2BCA14039777AFB8AE76700CE5C0F73110F",
+			"Assets": [
+				"/Game/RoomAssets/Trash/WaterBottleMaterial1"
+			]
+		},
+		{
+			"ShaderMapHash": "575D0EDB295BA889B66A5714CAA92D0F4A3B063B",
+			"Assets": [
+				"/Game/RoomAssets/Trash/PizzaMaterial2"
+			]
+		},
+		{
+			"ShaderMapHash": "C0F68DC9F8F25F79E0CA8F9E02637BCBBFA5F45C",
+			"Assets": [
+				"/Game/RoomAssets/Trash/PizzaMaterial1"
+			]
+		},
+		{
 			"ShaderMapHash": "ACE75E756DC473646E4A18146D8DD6259FD33851",
 			"Assets": [
 				"/Game/RoomAssets/Door/DoorHandleMaterial",
@@ -51,6 +91,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "11A7810E814974AB977B4AD1C29716F0B2C332A8",
 			"Assets": [
 				"/Game/RoomAssets/WallMaterial"
@@ -74,6 +120,17 @@
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_11",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_10",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "78ED0C03F9C67FFD3538D8F1BD68712744CEA743",
+			"Assets": [
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_19",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_17",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_16",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_18",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_20",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_21"
 			]
 		},
 		{
@@ -149,12 +206,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2F7EBFBC75487361D78A830200B5227B0BE6E0D6",
-			"Assets": [
-				"/Game/RoomAssets/StartingNote/StartingNoteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "545AE0E48C20ADA16412052D0BA77FC44100CC39",
 			"Assets": [
 				"/Game/RoomAssets/SpyCamera/OctogarfMouthMaterial",
@@ -208,9 +259,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E1A67363257FF5E40FE8FA0AF88F2E0FEF2AFA3B",
+			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
 			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
 			]
 		},
 		{
@@ -223,6 +274,12 @@
 			"ShaderMapHash": "F76858CD469781F7B4E57A52BA11AD3A69B696EF",
 			"Assets": [
 				"/Engine/EditorMaterials/GridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2F7EBFBC75487361D78A830200B5227B0BE6E0D6",
+			"Assets": [
+				"/Game/RoomAssets/StartingNote/StartingNoteMaterial"
 			]
 		},
 		{
@@ -734,13 +791,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
-				"/Engine/VREditor/TransformGizmo/Xray"
-			]
-		},
-		{
 			"ShaderMapHash": "E423E7F4A86F479E7E5E23FCBECAFC02EF23CA48",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
@@ -914,6 +964,12 @@
 			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
 			"Assets": [
 				"/Game/TheMatrix/Textures/MatrixEnemyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0602AB80EF4FDE595E5F1F372E41503774AC3C6D",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
 			]
 		}
 	]

@@ -200,7 +200,10 @@
 		{
 			"ShaderMapHash": "46419CCC020BEDDC60C0CB470CAB5962E6701FF5",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/RoomAssets/Trash/CanMaterial2",
+				"/Game/RoomAssets/Trash/WaterBottleMaterial2",
+				"/Game/RoomAssets/Trash/CanMaterial"
 			]
 		},
 		{
@@ -326,6 +329,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
+			"Assets": [
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioSilver",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioRed",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioGrey",
+				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioBlue"
+			]
+		},
+		{
 			"ShaderMapHash": "DBB300BD65D12589DD0B29E61DD0CE8C3B1F1848",
 			"Assets": [
 				"/Game/Whiteboard/WhiteboardMaterial"
@@ -335,15 +347,6 @@
 			"ShaderMapHash": "6496C3247346EB63D86C113E37FF694AEB1AC3EC",
 			"Assets": [
 				"/Game/Whiteboard/WhiteboardBorderMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "01F8AAEB1F57554F217607B1E34921E9F9B8FAB0",
-			"Assets": [
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioSilver",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioRed",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioGrey",
-				"/Game/RoomAssets/Radio/RadioMaterials/RetroRadioBlue"
 			]
 		},
 		{
@@ -441,12 +444,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
 			"ShaderMapHash": "9D4F7AD9761632EC4A0365217EAB41D0BAAAC209",
 			"Assets": [
 				"/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial"
@@ -503,8 +500,8 @@
 		{
 			"ShaderMapHash": "3BEDB6355DF94213E4C8D9C5A14ECD14F2A84E9D",
 			"Assets": [
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenOn",
 				"/Game/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenOn",
 				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialGroovy"
 			]
 		},
@@ -543,6 +540,12 @@
 			"Assets": [
 				"/Game/RoomAssets/Cabinet/CabinetMaterial",
 				"/Game/RoomAssets/Cabinet/CabinetDoorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B77F4D6E0B7CB420A3DBF5F4C02E0374550314CF",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -616,6 +619,47 @@
 			"ShaderMapHash": "52ABE4613F34286A0F3064DFE5504362A2BFF15C",
 			"Assets": [
 				"/Game/TheMatrix/Textures/MatrixEnemyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "78ED0C03F9C67FFD3538D8F1BD68712744CEA743",
+			"Assets": [
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_16",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_20",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_21",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_17",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_18",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_19"
+			]
+		},
+		{
+			"ShaderMapHash": "3EFC607E38F2E55DA752A5ACAFACC5B44D5BDB2C",
+			"Assets": [
+				"/Game/RoomAssets/Trash/BinMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0F68DC9F8F25F79E0CA8F9E02637BCBBFA5F45C",
+			"Assets": [
+				"/Game/RoomAssets/Trash/PizzaMaterial1"
+			]
+		},
+		{
+			"ShaderMapHash": "575D0EDB295BA889B66A5714CAA92D0F4A3B063B",
+			"Assets": [
+				"/Game/RoomAssets/Trash/PizzaMaterial2"
+			]
+		},
+		{
+			"ShaderMapHash": "521F9011DAB14A432BEA65852999D268BE30FDFC",
+			"Assets": [
+				"/Game/RoomAssets/Trash/PizzaMaterial3"
+			]
+		},
+		{
+			"ShaderMapHash": "26A8A2BCA14039777AFB8AE76700CE5C0F73110F",
+			"Assets": [
+				"/Game/RoomAssets/Trash/WaterBottleMaterial1"
 			]
 		}
 	]
