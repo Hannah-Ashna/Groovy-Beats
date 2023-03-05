@@ -1,0 +1,1 @@
+../../../TemplateProject3/TemplateProject3.uproject  /Game/Maps/BaseLevel -Messaging -SessionId=15A846AE4549434522F49480F8D4EE3E -SessionOwner="SLATE 15" -SessionName="Launch On Device" -iterative
