@@ -1,0 +1,422 @@
+--------- beginning of main
+03-06 19:04:35.333 23256 23311 I systemutilitie: WaitForGcToComplete blocked Alloc on HeapTrim for 7.137s
+03-06 19:04:35.333 23256 23311 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.333 23256 23309 I systemutilitie: WaitForGcToComplete blocked Alloc on HeapTrim for 6.666s
+03-06 19:04:35.333 23256 23309 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.333 23256 23268 I systemutilitie: WaitForGcToComplete blocked HeapTrim on HeapTrim for 2.634s
+03-06 19:04:35.336 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.336 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.336 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.342 23256 23270 W System  : A resource failed to call close. 
+03-06 19:04:35.345 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.376 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.376 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.376 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.382 13113 13212 I xrstreaming: AudioPlayer: NetworkMetrics: [6.619,13.306]9.875
+03-06 19:04:35.386 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.411 23256 23310 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.411 23256 23310 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.416 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.416 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.416 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.422 23256 23307 I systemutilitie: Waiting for a blocking GC Alloc
+03-06 19:04:35.422 23256 23312 I systemutilitie: Waiting for a blocking GC Alloc
+03-06 19:04:35.426 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+--------- beginning of tracking
+03-06 19:04:35.426   841  1547 I chatty  : uid=1000(system) Binder:841_4 expire 39 lines
+03-06 19:04:35.427 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.455   841  1547 W TrackingService: attachClient: found client in attached list
+03-06 19:04:35.456 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.456 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.456 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.456   841   841 W TrackingService: attachClient: found client in attached list
+03-06 19:04:35.457 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.457 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:35.457 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:35.468 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.503 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.503 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.503 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.511 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+--------- beginning of system
+03-06 19:04:35.519  1047  1562 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.YourCompany.TemplateProject3/com.epicgames.ue4.GameActivity} from uid 2000
+03-06 19:04:35.529   897   897 E adbd    : failed to connect to socket 'tcp:6666': Connection refused
+03-06 19:04:35.548 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.548 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.548 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.554 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.565 23256 23270 W System  : A resource failed to call close. 
+03-06 19:04:35.565 23256 23307 I systemutilitie: WaitForGcToComplete blocked Alloc on HeapTrim for 142.372ms
+03-06 19:04:35.565 23256 23307 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.565 23256 23312 I systemutilitie: WaitForGcToComplete blocked Alloc on HeapTrim for 143.003ms
+03-06 19:04:35.565 23256 23312 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.590 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.590 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.590 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.596 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.613 23256 23308 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=56be6349-fb65-47e9-ac38-a2477b55fa47, tags={ system_utilities_media_sync, com.oculus.systemutilities.MediaUploader$QueueMediaUploadsWorker } ]
+03-06 19:04:35.636 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.636 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.636 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.638 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.640 13113 13187 D xrstreaming: receive ping: org 0 recv 0 xmt 31903031924000 (received at 23825765619549), offset divergence 7253
+03-06 19:04:35.669 23256 23310 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.669 23256 23310 I systemutilitie: Starting a blocking GC Alloc
+03-06 19:04:35.678 23256 23256 I systemutilitie: Waiting for a blocking GC Alloc
+03-06 19:04:35.678 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.678 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.678 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.683 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.684 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.711 23256 23308 I systemutilitie: Waiting for a blocking GC Alloc
+03-06 19:04:35.720 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.720 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.720 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.722 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.722 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:35.722 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:35.729 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.766 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.766 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.766 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.808 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.808 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.808 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.810 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.852 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.852 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.852 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.856 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.885 23256 23311 I systemutilitie: Waiting for a blocking GC Alloc
+03-06 19:04:35.897 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.897 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.898 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.936 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.937 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.943 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.943 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.943 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.979 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.989 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.989 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:35.989 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:35.990 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:35.990 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:35.990 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:36.022 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.036 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.036 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.036 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.068 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.078 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.078 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.078 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.092   841 30144 W [CT]    : CONSTELLATION: [Throttled count=1001] R: Could not retrieve 3dof fallback pose.
+03-06 19:04:36.110 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.120 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.120 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.120 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.156 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.166 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.166 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.166 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.200 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.201 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.208 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.208 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.208 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.224 23256 23309 I MediaUploader: Video is too large: 57985926
+03-06 19:04:36.225 23256 23309 I MediaUploader: Video is too large: 57182085
+03-06 19:04:36.246 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.253 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.253 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.253 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.254 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.254 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:36.254 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:36.291 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.296 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.296 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.296 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.336 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.337 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.337 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.337 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.378 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.380 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.380 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.380 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.416 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.426 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.426 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.426 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.456 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.457 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.470 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.470 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.470 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.500 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.516 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.516 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.516 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.517 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.517 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:36.517 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:36.545 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.562 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.562 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.562 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.586 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.606 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.606 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.606 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.628 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.640 13113 13187 D xrstreaming: receive ping: org 0 recv 0 xmt 31904032021300 (received at 23826765726579), offset divergence 7253
+03-06 19:04:36.648 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.648 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.648 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.669 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.693 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.693 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.693 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.712 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.713 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.736 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.736 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.736 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.756 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.776 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.776 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.776 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.777 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.777 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:36.777 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:36.796 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.822 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.822 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.822 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.838 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.851 23256 23312 I MediaUploader: Video is too large: 57985926
+03-06 19:04:36.852 23256 23312 I MediaUploader: Video is too large: 57182085
+03-06 19:04:36.866 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.866 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.866 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.884 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.912 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.912 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.912 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.926 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.956 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.956 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:36.956 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:36.970 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:36.971 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.002 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.002 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.002 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.016 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.047 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.047 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.047 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.048 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.048 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:37.048 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:37.058 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.092   841 30144 W [CT]    : CONSTELLATION: [Throttled count=998] R: Could not retrieve 3dof fallback pose.
+03-06 19:04:37.093 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.093 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.093 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.103 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.139 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.139 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.139 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.149 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.184 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.184 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.184 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.189 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.228 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.229 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.229 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.230 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.273 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.274 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.274 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.316 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.316 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.317 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.319 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.319 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:37.319 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:37.360 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.362 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.362 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.362 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.405 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.405 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.406 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.447 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.447 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.448 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.488 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.489 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.490 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.490 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.490 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.532 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.533   897   897 E adbd    : failed to connect to socket 'tcp:6666': Connection refused
+03-06 19:04:37.536 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.536 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.536 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.577 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.578 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.578 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.578 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.579 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.579 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:37.579 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:37.617 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.617 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.618 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.643 13113 13187 D xrstreaming: receive ping: org 0 recv 0 xmt 31905034251000 (received at 23827767941735), offset divergence 7253
+03-06 19:04:37.659 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.659 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.659 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.700 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.704 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.704 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.704 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.746 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.747 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.750 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.750 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.750 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.775 23256 23309 I systemutilitie: Waiting for a blocking GC Alloc
+03-06 19:04:37.781 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.796 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.796 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.796 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.821   841   841 I chatty  : uid=1000(system) /system/bin/trackingservice identical 117 lines
+03-06 19:04:37.821 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.835   841   841 W TrackingService: attachClient: found client in attached list
+03-06 19:04:37.836 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.836 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.836 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.836   841  1547 W TrackingService: attachClient: found client in attached list
+03-06 19:04:37.837 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.837 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:37.837 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:37.856 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.873 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.873 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.873 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.902 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.916 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.916 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.916 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.947 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.960   841  1547 I chatty  : uid=1000(system) Binder:841_4 identical 6 lines
+03-06 19:04:37.960 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.960 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:37.960 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:37.985   841  1547 W TrackingService: attachClient: found client in attached list
+03-06 19:04:37.986 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:37.986   841   841 W TrackingService: attachClient: found client in attached list
+03-06 19:04:37.987 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.006 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.006 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.006 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.031 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.051 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.052 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.052 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.073   841   841 I chatty  : uid=1000(system) /system/bin/trackingservice identical 4 lines
+03-06 19:04:38.074 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.093   841 30144 W [CT]    : CONSTELLATION: [Throttled count=999] R: Could not retrieve 3dof fallback pose.
+03-06 19:04:38.096   841   841 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.096 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.096 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.096 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.096   841  1547 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.097 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.097 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:38.097 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:38.120 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.141 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.141 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.141 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.165 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.186 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.186 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.186 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.211 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.231   841  1547 I chatty  : uid=1000(system) Binder:841_4 identical 6 lines
+03-06 19:04:38.232 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.232 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.232 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.256   841  1547 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.257 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.257   841   841 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.258 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.278 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.278 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.278 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.303 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.323 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.323 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.323 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.349   841   841 I chatty  : uid=1000(system) /system/bin/trackingservice identical 4 lines
+03-06 19:04:38.349 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.366   841   841 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.367 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.367 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.367 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.367   841  1547 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.368 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.368 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:38.368 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:38.395 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.412 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.412 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.412 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.431 23256 23312 I systemutilitie: Waiting for a blocking GC Alloc
+03-06 19:04:38.441 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.456 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.456 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.456 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.484 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.499 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.499 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.499 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.526 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.527 13113 13225 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.543 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.544 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.544 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.569 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.588 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.588 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.588 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.611   841  1547 I chatty  : uid=1000(system) Binder:841_4 identical 12 lines
+03-06 19:04:38.611 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.628   841  1547 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.629 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.629 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.629 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.629   841   841 W TrackingService: attachClient: found client in attached list
+03-06 19:04:38.630 13113 13163 E OsSdk   : error getting shared memory region, memory type: AnchorTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.630 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: getAnchorStates failed
+03-06 19:04:38.630 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: AnchorStates update failure.
+03-06 19:04:38.651 13113 13187 D xrstreaming: receive ping: org 0 recv 0 xmt 31906042421800 (received at 23828776140641), offset divergence 7253
+03-06 19:04:38.656 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.676 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.676 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.676 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.696 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.718 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.718 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.718 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
+03-06 19:04:38.741 13113 13225 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.764 13113 13163 E OsSdk   : error getting shared memory region, memory type: HeadTracker, failed with Status(-1, EX_SECURITY): 'requested shared memory region when not registered/focused'
+03-06 19:04:38.764 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServer: HeadTracker::getState failed
+03-06 19:04:38.764 13113 13163 W [CT]    : SlamAnchorMemoryRuntimeIpcServerThread: RigidBodyStates update failure.
