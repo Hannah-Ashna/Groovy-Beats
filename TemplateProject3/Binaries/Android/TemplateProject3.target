@@ -30,6 +30,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/TypewriterPlugin/TypewriterPlugin.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/UBIKSolver-main/UBIKSolver-main/UBIKSolver.uplugin",
 			"Type": "UFS"
 		},
