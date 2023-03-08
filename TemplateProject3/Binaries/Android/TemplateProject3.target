@@ -34,6 +34,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/ApexDestruction/ApexDestruction.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/UBIKSolver-main/UBIKSolver-main/UBIKSolver.uplugin",
 			"Type": "UFS"
 		},

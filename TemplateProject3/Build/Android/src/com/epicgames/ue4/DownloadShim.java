@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.TemplateProject3.OBBDownloaderService;
-import com.YourCompany.TemplateProject3.DownloaderActivity;
+import com.CraftyGoblinStudios.GroovyBeats.OBBDownloaderService;
+import com.CraftyGoblinStudios.GroovyBeats.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.TemplateProject3.OBBData;
+import com.CraftyGoblinStudios.GroovyBeats.OBBData;
 
 
 public class DownloadShim

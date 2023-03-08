@@ -8,16 +8,16 @@ if not "%1"=="" set DEVICE=-s %1
 for /f "delims=" %%A in ('%ADB% %DEVICE% shell "echo $EXTERNAL_STORAGE"') do @set STORAGE=%%A
 @echo.
 @echo Uninstalling existing application. Failures here can almost always be ignored.
-%ADB% %DEVICE% uninstall com.YourCompany.TemplateProject3
+%ADB% %DEVICE% uninstall com.CraftyGoblinStudios.TemplateProject3
 @echo.
 @echo Installing existing application. Failures here indicate a problem with the device (connection or storage permissions) and are fatal.
 %ADB% %DEVICE% install TemplateProject3-armv7.apk
 @if "%ERRORLEVEL%" NEQ "0" goto Error
 %ADB% %DEVICE% shell rm -r %STORAGE%/UE4Game/TemplateProject3
 %ADB% %DEVICE% shell rm -r %STORAGE%/UE4Game/UE4CommandLine.txt
-%ADB% %DEVICE% shell rm -r %STORAGE%/obb/com.YourCompany.TemplateProject3
-%ADB% %DEVICE% shell rm -r %STORAGE%/Android/obb/com.YourCompany.TemplateProject3
-%ADB% %DEVICE% shell rm -r %STORAGE%/Download/obb/com.YourCompany.TemplateProject3
+%ADB% %DEVICE% shell rm -r %STORAGE%/obb/com.CraftyGoblinStudios.TemplateProject3
+%ADB% %DEVICE% shell rm -r %STORAGE%/Android/obb/com.CraftyGoblinStudios.TemplateProject3
+%ADB% %DEVICE% shell rm -r %STORAGE%/Download/obb/com.CraftyGoblinStudios.TemplateProject3
 
 
 
@@ -34,8 +34,8 @@ for /f "delims=" %%A in ('%ADB% %DEVICE% shell "echo $EXTERNAL_STORAGE"') do @se
 
 @echo.
 @echo Grant READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE to the apk for reading OBB file or game file in external storage.
-%ADB% %DEVICE% shell pm grant com.YourCompany.TemplateProject3 android.permission.READ_EXTERNAL_STORAGE
-%ADB% %DEVICE% shell pm grant com.YourCompany.TemplateProject3 android.permission.WRITE_EXTERNAL_STORAGE
+%ADB% %DEVICE% shell pm grant com.CraftyGoblinStudios.TemplateProject3 android.permission.READ_EXTERNAL_STORAGE
+%ADB% %DEVICE% shell pm grant com.CraftyGoblinStudios.TemplateProject3 android.permission.WRITE_EXTERNAL_STORAGE
 
 @echo.
 @echo Installation successful
