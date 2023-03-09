@@ -74,12 +74,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Groovy-Beats/Content/Sound/NeonDrive.uasset
-Groovy-Beats/Content/Sound/PatternRecognition.uasset
-Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
-Groovy-Beats/Deploys/Android_ASTC/Install_TemplateProject3-armv7.bat
-Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
-Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
-Groovy-Beats/Deploys/Android_ASTC/TemplateProject3-armv7.apk
-Groovy-Beats/Saved/StagedBuilds/Android_ASTC.obb
-Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
