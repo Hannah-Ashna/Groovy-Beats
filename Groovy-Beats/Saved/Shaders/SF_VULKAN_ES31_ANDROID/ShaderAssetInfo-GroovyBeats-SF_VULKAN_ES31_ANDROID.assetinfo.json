@@ -2,6 +2,25 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "3BEDB6355DF94213E4C8D9C5A14ECD14F2A84E9D",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialGroovy",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenOn",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_5",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_4",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_3",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_2",
+				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt"
+			]
+		},
+		{
+			"ShaderMapHash": "EDAB8769038F8E42DD94D52FB98F51C3D87A2F88",
+			"Assets": [
+				"/Engine/EditorMaterials/AssetViewer/M_SkyBox"
+			]
+		},
+		{
 			"ShaderMapHash": "70EB08E00F64EE4675B3A6F5F2B1AEBFBA0D16C5",
 			"Assets": [
 				"/Game/TheMatrix/Textures/MatrixItemMaterial"
@@ -11,19 +30,6 @@
 			"ShaderMapHash": "20D36EA42F048DBF4A88E8A54DD54FB7A53C3515",
 			"Assets": [
 				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_6"
-			]
-		},
-		{
-			"ShaderMapHash": "3BEDB6355DF94213E4C8D9C5A14ECD14F2A84E9D",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialGroovy",
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenOn",
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_5",
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_4",
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_3",
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt_2",
-				"/Game/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt",
-				"/Game/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial"
 			]
 		},
 		{
@@ -51,9 +57,9 @@
 				"/Game/TheMatrix/Weapons/Base_mtl",
 				"/Engine/EngineDebugMaterials/M_SimpleOpaque",
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/RoomAssets/Trash/CanMaterial2",
 				"/Game/RoomAssets/Trash/WaterBottleMaterial2",
-				"/Game/RoomAssets/Trash/CanMaterial",
-				"/Game/RoomAssets/Trash/CanMaterial2"
+				"/Game/RoomAssets/Trash/CanMaterial"
 			]
 		},
 		{
@@ -200,18 +206,18 @@
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_3",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_13",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_15",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_14",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_12",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_11",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_10",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_9",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_8",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_7",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_6",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_5",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_4",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_2"
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_2",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_15",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_14",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_12",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_11",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_10"
 			]
 		},
 		{
@@ -262,11 +268,11 @@
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_20",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_21",
 				"/Game/RoomAssets/StartingNote/StartingNoteMaterial",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_19",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_18",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_17",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_16",
-				"/Game/RoomAssets/StartingNote/GroovyStickyNoteMaterial",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_19"
+				"/Game/RoomAssets/StartingNote/GroovyStickyNoteMaterial"
 			]
 		},
 		{
@@ -902,6 +908,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A3330230AC929FA05DF5705EEE5F3E8F21339AFA",
+			"Assets": [
+				"/Game/RoomAssets/GlassMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "9D4F7AD9761632EC4A0365217EAB41D0BAAAC209",
 			"Assets": [
 				"/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial"
@@ -959,12 +971,6 @@
 			"ShaderMapHash": "26A8A2BCA14039777AFB8AE76700CE5C0F73110F",
 			"Assets": [
 				"/Game/RoomAssets/Trash/WaterBottleMaterial1"
-			]
-		},
-		{
-			"ShaderMapHash": "A3330230AC929FA05DF5705EEE5F3E8F21339AFA",
-			"Assets": [
-				"/Game/RoomAssets/GlassMaterial"
 			]
 		},
 		{

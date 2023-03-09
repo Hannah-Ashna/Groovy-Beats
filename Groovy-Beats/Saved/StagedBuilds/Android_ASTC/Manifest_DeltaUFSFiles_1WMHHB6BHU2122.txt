@@ -1,3 +1,4 @@
+GroovyBeats/Config/DefaultEngine.ini
 Engine/GlobalShaderCache-SF_VULKAN_ES31_ANDROID.bin
 Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset
 Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp
@@ -176,6 +177,10 @@ Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset
 Engine/Content/EditorMaterials/WidgetMaterial_Z.uexp
 Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset
 Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uexp
+Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset
+Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uexp
+Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uasset
+Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uexp
 Engine/Content/EditorMaterials/Camera/CineMat.uasset
 Engine/Content/EditorMaterials/Camera/CineMat.uexp
 Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset
@@ -232,6 +237,10 @@ Engine/Content/EditorMeshes/PhAT_FloorBox.uasset
 Engine/Content/EditorMeshes/PhAT_FloorBox.uexp
 Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset
 Engine/Content/EditorMeshes/PlanarReflectionPlane.uexp
+Engine/Content/EditorMeshes/AssetViewer/Floor_Mesh.uasset
+Engine/Content/EditorMeshes/AssetViewer/Floor_Mesh.uexp
+Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uasset
+Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uexp
 Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset
 Engine/Content/EditorMeshes/Camera/SM_CineCam.uexp
 Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset
@@ -268,6 +277,8 @@ Engine/Content/EditorResources/MatInstActSprite.uexp
 Engine/Content/EditorResources/SceneManager.uasset
 Engine/Content/EditorResources/SceneManager.ubulk
 Engine/Content/EditorResources/SceneManager.uexp
+Engine/Content/EditorResources/SimplygonLogo.uasset
+Engine/Content/EditorResources/SimplygonLogo.uexp
 Engine/Content/EditorResources/SmallFont.uasset
 Engine/Content/EditorResources/SmallFont.uexp
 Engine/Content/EditorResources/S_Actor.uasset
@@ -587,6 +598,8 @@ Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
 Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp
 Engine/Content/EngineMaterials/WorldGridMaterial.uasset
 Engine/Content/EngineMaterials/WorldGridMaterial.uexp
+Engine/Content/EngineMeshes/Cube.uasset
+Engine/Content/EngineMeshes/Cube.uexp
 Engine/Content/EngineMeshes/Cylinder.uasset
 Engine/Content/EngineMeshes/Cylinder.uexp
 Engine/Content/EngineMeshes/Sphere.uasset
@@ -758,6 +771,8 @@ Engine/Content/MapTemplates/Materials/BasicAsset01.uasset
 Engine/Content/MapTemplates/Materials/BasicAsset01.uexp
 Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset
 Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp
+Engine/Content/MapTemplates/Sky/SunsetAmbientCubemap.uasset
+Engine/Content/MapTemplates/Sky/SunsetAmbientCubemap.uexp
 Engine/Content/MobileResources/T_MobileControls_texture.uasset
 Engine/Content/MobileResources/T_MobileControls_texture.uexp
 Engine/Content/MobileResources/T_MobileMenu2.uasset
@@ -1901,6 +1916,16 @@ GroovyBeats/Content/TheMatrix/VRMatrixChar.uasset
 GroovyBeats/Content/TheMatrix/VRMatrixChar.uexp
 GroovyBeats/Content/TheMatrix/WheelSelectionUI.uasset
 GroovyBeats/Content/TheMatrix/WheelSelectionUI.uexp
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor.uasset
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor.uexp
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_1.uasset
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_1.uexp
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_2.uasset
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_2.uexp
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_3.uasset
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_3.uexp
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_4.uasset
+GroovyBeats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_4.uexp
 GroovyBeats/Content/TheMatrix/Enemies/Ch45_1001_Diffuse.uasset
 GroovyBeats/Content/TheMatrix/Enemies/Ch45_1001_Diffuse.ubulk
 GroovyBeats/Content/TheMatrix/Enemies/Ch45_1001_Diffuse.uexp
