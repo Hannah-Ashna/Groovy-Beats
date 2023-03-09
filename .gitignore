@@ -67,19 +67,19 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-TemplateProject/Intermediate/*
+Groovy-Beats/Intermediate/*
 Intermediate/*
 */Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-TemplateProject3/Content/Sound/NeonDrive.uasset
-TemplateProject3/Content/Sound/PatternRecognition.uasset
-TemplateProject3/Binaries/Android/TemplateProject3-armv7.apk
-TemplateProject3/Deploys/Android_ASTC/Install_TemplateProject3-armv7.bat
-TemplateProject3/Binaries/Android/TemplateProject3-armv7.apk
-TemplateProject3/Binaries/Android/TemplateProject3-armv7.apk
-TemplateProject3/Deploys/Android_ASTC/TemplateProject3-armv7.apk
-TemplateProject3/Saved/StagedBuilds/Android_ASTC.obb
-TemplateProject3/Binaries/Android/TemplateProject3-armv7.apk
+Groovy-Beats/Content/Sound/NeonDrive.uasset
+Groovy-Beats/Content/Sound/PatternRecognition.uasset
+Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
+Groovy-Beats/Deploys/Android_ASTC/Install_TemplateProject3-armv7.bat
+Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
+Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
+Groovy-Beats/Deploys/Android_ASTC/TemplateProject3-armv7.apk
+Groovy-Beats/Saved/StagedBuilds/Android_ASTC.obb
+Groovy-Beats/Binaries/Android/TemplateProject3-armv7.apk
