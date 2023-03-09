@@ -1,2 +1,0 @@
-nt/Widgets/MainMenuWidget.uexp
-GroovyBeats/Saved/Logs/GroovyBeats.log
