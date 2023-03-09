@@ -1,2 +1,8 @@
+Engine/Content/EditorSounds/Notifications/CompileFailed.uasset
+Engine/Content/EditorSounds/Notifications/CompileFailed.uexp
+Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset
+Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uexp
+Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset
+Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uexp
 nt/Widgets/MainMenuWidget.uexp
 GroovyBeats/Saved/Logs/GroovyBeats.log

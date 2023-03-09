@@ -275,6 +275,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "78E1F43E4723DD6E346BFD7F34D0DE99B92EC311",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
 			"ShaderMapHash": "5E7FD58CD14C41AEF1258B2B3B01AA7D48413C25",
 			"Assets": [
 				"/Game/TheMatrix/Enemies/Ch45_Body"
@@ -360,12 +366,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "78E1F43E4723DD6E346BFD7F34D0DE99B92EC311",
-			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
-			]
-		},
-		{
 			"ShaderMapHash": "96438500F9715233E9A46293052F636311EDD2EB",
 			"Assets": [
 				"/Game/TheMatrix/Weapons/Material_010",
@@ -409,8 +409,8 @@
 			"ShaderMapHash": "78ED0C03F9C67FFD3538D8F1BD68712744CEA743",
 			"Assets": [
 				"/Game/RoomAssets/StartingNote/StartingNoteMaterial",
-				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_20",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_21",
+				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_20",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_19",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_18",
 				"/Game/RoomAssets/StartingNote/Textures/PostersMaterial_17",
@@ -455,6 +455,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "11A7810E814974AB977B4AD1C29716F0B2C332A8",
+			"Assets": [
+				"/Game/RoomAssets/WallMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "326B4540A2CE019BB9D30CD7545949AC884A4D0B",
 			"Assets": [
 				"/Game/RoomAssets/Trash/PizzaMaterial3"
@@ -476,32 +482,6 @@
 			"ShaderMapHash": "D325847F0B24A042AC4A03E980EBAAAD272241E7",
 			"Assets": [
 				"/Game/RoomAssets/Trash/BinMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "554F659696F90CB00E51745B0721FB6C4098F5A7",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/Chair/ChairMaterialMetal",
-				"/Game/RoomAssets/DeskSetup/Desk/DeskMaterialMetal"
-			]
-		},
-		{
-			"ShaderMapHash": "C5FE77F55B8038A68BAE5FA3C1E9CF971281C2A0",
-			"Assets": [
-				"/Game/RoomAssets/DeskSetup/Chair/ChairMaterialCushion"
-			]
-		},
-		{
-			"ShaderMapHash": "94F3F2E5E4A57EB256512F6BDBE545E33830010E",
-			"Assets": [
-				"/Game/RoomAssets/Cabinet/CabinetMaterial",
-				"/Game/RoomAssets/Cabinet/CabinetDoorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "11A7810E814974AB977B4AD1C29716F0B2C332A8",
-			"Assets": [
-				"/Game/RoomAssets/WallMaterial"
 			]
 		},
 		{
@@ -543,9 +523,29 @@
 			]
 		},
 		{
+			"ShaderMapHash": "554F659696F90CB00E51745B0721FB6C4098F5A7",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/Chair/ChairMaterialMetal",
+				"/Game/RoomAssets/DeskSetup/Desk/DeskMaterialMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "C5FE77F55B8038A68BAE5FA3C1E9CF971281C2A0",
+			"Assets": [
+				"/Game/RoomAssets/DeskSetup/Chair/ChairMaterialCushion"
+			]
+		},
+		{
 			"ShaderMapHash": "BEF755F47F0E429E267CE37F3DF47BC069BB8AFB",
 			"Assets": [
 				"/Game/RoomAssets/DeskSetup/Desk/DeskMaterialWood"
+			]
+		},
+		{
+			"ShaderMapHash": "94F3F2E5E4A57EB256512F6BDBE545E33830010E",
+			"Assets": [
+				"/Game/RoomAssets/Cabinet/CabinetMaterial",
+				"/Game/RoomAssets/Cabinet/CabinetDoorMaterial"
 			]
 		},
 		{
@@ -616,6 +616,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "98C7944D6D06645271CB05D1D8C39C3E30E321AA",
+			"Assets": [
+				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "9D4F7AD9761632EC4A0365217EAB41D0BAAAC209",
 			"Assets": [
 				"/Game/Whiteboard/Markers/Geometry/MarkerRedMaterial"
@@ -625,18 +631,6 @@
 			"ShaderMapHash": "2287025E297FFC2B3D00DBE940AA417AC2DCDBD0",
 			"Assets": [
 				"/Game/Whiteboard/Markers/Geometry/MarkerBaseMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "C6142D58EA95E4D9DE40FBE2184B552D764A95E1",
-			"Assets": [
-				"/Game/Whiteboard/Markers/RedMarkerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "98C7944D6D06645271CB05D1D8C39C3E30E321AA",
-			"Assets": [
-				"/Game/Whiteboard/Markers/Geometry/MarkerGreenMaterial"
 			]
 		},
 		{
@@ -673,6 +667,12 @@
 			"ShaderMapHash": "26A8A2BCA14039777AFB8AE76700CE5C0F73110F",
 			"Assets": [
 				"/Game/RoomAssets/Trash/WaterBottleMaterial1"
+			]
+		},
+		{
+			"ShaderMapHash": "C6142D58EA95E4D9DE40FBE2184B552D764A95E1",
+			"Assets": [
+				"/Game/Whiteboard/Markers/RedMarkerMaterial"
 			]
 		},
 		{
