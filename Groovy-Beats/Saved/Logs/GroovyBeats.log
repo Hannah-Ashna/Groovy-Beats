@@ -1605,3 +1605,152 @@ Script Stack (0 frames):
 [2023.03.10-19.38.13:288][857]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.10-19.38.13:288][857]LogContentValidation: Display: Validating World /Game/Maps/MatrixLevel.MatrixLevel
 [2023.03.10-19.38.13:288][857]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MatrixLevel_BuiltData.MatrixLevel_BuiltData
+[2023.03.10-20.17.26:905][702]LogEditorViewport: Clicking on Actor (LMB): PatrollingMinionAI_C (PatrollingMinionAI7)
+[2023.03.10-20.17.30:397][903]Cmd: EDIT COPY
+[2023.03.10-20.17.30:792][926]Cmd: EDIT PASTE
+[2023.03.10-20.18.14:440][499]LogEditorViewport: Clicking on Actor (LMB): PatrollingMinionAI_C (PatrollingMinionAI8)
+[2023.03.10-20.18.26:214][151]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2023.03.10-20.18.26:265][151]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/MatrixLevel9BA7A52F4A31FF2D2DF5EA848BBDE2A9.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/MatrixLevel.umap'
+[2023.03.10-20.18.26:339][151]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/MatrixLevel_BuiltData795F9774407F6430EB38A782D9E1FDD4.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/MatrixLevel_BuiltData.uasset'
+[2023.03.10-20.18.26:357][151]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.10-20.18.26:357][151]LogContentValidation: Display: Validating World /Game/Maps/MatrixLevel.MatrixLevel
+[2023.03.10-20.18.26:357][151]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MatrixLevel_BuiltData.MatrixLevel_BuiltData
+[2023.03.10-20.18.29:440][336]Cmd: EDIT COPY
+[2023.03.10-20.18.29:739][354]Cmd: EDIT PASTE
+[2023.03.10-20.18.56:866][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2023.03.10-20.18.58:292][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2023.03.10-20.19.04:000][383]Cmd: SELECT NONE
+[2023.03.10-20.19.07:032][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2023.03.10-20.19.12:563][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2023.03.10-20.19.16:806][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.03.10-20.19.17:576][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2023.03.10-20.19.18:329][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.03.10-20.19.23:282][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall18)
+[2023.03.10-20.19.23:818][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall19)
+[2023.03.10-20.19.29:141][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall21)
+[2023.03.10-20.19.29:944][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall18)
+[2023.03.10-20.19.30:816][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall26)
+[2023.03.10-20.19.37:472][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall16)
+[2023.03.10-20.19.38:411][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2023.03.10-20.19.38:883][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall28)
+[2023.03.10-20.19.41:152][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.03.10-20.19.41:193][591]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/MatrixLevel9B7ED4AE49863B0CF45114802838CC83.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/MatrixLevel.umap'
+[2023.03.10-20.19.41:253][591]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/MatrixLevel_BuiltData71F8053B4C4C162ABCC850BDDCC02DC2.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/MatrixLevel_BuiltData.uasset'
+[2023.03.10-20.19.41:268][591]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.10-20.19.41:268][591]LogContentValidation: Display: Validating World /Game/Maps/MatrixLevel.MatrixLevel
+[2023.03.10-20.19.41:268][591]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MatrixLevel_BuiltData.MatrixLevel_BuiltData
+[2023.03.10-20.19.50:410][138]MapCheck: New page: Map Check
+[2023.03.10-20.19.50:430][138]Cmd: MAP REBUILD ALLVISIBLE
+[2023.03.10-20.19.50:430][138]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.03.10-20.19.50:611][138]LogWorld: UWorld::CleanupWorld for MatrixLevel, bSessionEnded=true, bCleanupResources=false
+[2023.03.10-20.19.50:665][138]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.03.10-20.19.50:665][138]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.03.10-20.19.50:665][138]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.03.10-20.19.50:665][138]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.03.10-20.19.50:690][138]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.03s
+[2023.03.10-20.19.50:727][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.03.10-20.19.50:746][138]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2023.03.10-20.19.50:754][138]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2023.03.10-20.19.50:783][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.10-20.19.50:788][138]LightingResults: New page: Lighting Build - 10 Mar 2023, 20:19:50
+[2023.03.10-20.19.50:837][138]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.10-20.19.50:897][138]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.10-20.19.50:911][138]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.10-20.19.52:446][138]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.10-20.19.52:446][138]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2296
+[2023.03.10-20.19.58:854][138]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.10-20.19.58:854][138]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.10-20.19.58:854][138]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.10-20.19.58:854][138]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.10-20.19.58:854][138]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.10-20.19.58:854][138]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.10-20.19.58:984][138]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.03.10-20.19.58:984][138]MapCheck: New page: MatrixLevel - 10 Mar 2023, 20:19:58
+[2023.03.10-20.19.58:985][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.464ms to complete.
+[2023.03.10-20.19.58:988][138]LogEditorBuildUtils: Build time 0:08
+[2023.03.10-20.19.59:474][138]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.10-20.19.59:474][138]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.10-20.19.59:474][138]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.10-20.19.59:475][138]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.10-20.19.59:475][138]LogShaderCompilers: Display: ================================================
+[2023.03.10-20.19.59:777][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2023.03.10-20.20.06:834][523]LightingResults: Warning: SM_Cube_01 Object has overlapping UVs.
+[2023.03.10-20.20.06:834][523]LightingResults: SM_Cube_01 Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.10-20.20.06:916][527]LightingResults: Warning: SM_Cube_01 Object has overlapping UVs.
+[2023.03.10-20.20.06:916][527]LightingResults: SM_Cube_01 Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.10-20.20.06:971][530]LightingResults: Warning: SM_Cube_01 Object has overlapping UVs.
+[2023.03.10-20.20.06:971][530]LightingResults: SM_Cube_01 Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.10-20.20.07:015][532]LightingResults: Warning: SM_Cube_01 Object has overlapping UVs.
+[2023.03.10-20.20.07:015][532]LightingResults: SM_Cube_01 Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.10-20.20.07:552][561]LightingResults: Warning: SM_Cube_01 Object has overlapping UVs.
+[2023.03.10-20.20.07:552][561]LightingResults: SM_Cube_01 Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.10-20.20.15:027][971]Job is a success!
+[2023.03.10-20.20.15:203][972]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2023.03.10-20.20.15:203][972]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.10-20.20.15:204][972]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 2.2Mb due to 0.010000 MinBrickError)
+[2023.03.10-20.20.15:204][972]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.10-20.20.15:204][972]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2023.03.10-20.20.15:204][972]LogVolumetricLightmapImport:          1: 94.1% covering 25.0% of volume
+[2023.03.10-20.20.15:204][972]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.03.10-20.20.15:204][972]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.10-20.20.15:204][972]LogVolumetricLightmapImport:          MatrixLevel 			 17 bricks 	 100.0% (Persistent Level)
+[2023.03.10-20.20.15:571][972]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2023.03.10-20.20.15:571][972]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2023.03.10-20.20.15:571][972]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.03.10-20.20.15:571][972]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.03.10-20.20.15:571][972]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.03.10-20.20.15:571][972]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.03.10-20.20.15:571][972]Lightmass on NOTAHACKER: 15.0 sec total, 230 ms importing, 46 ms setup, 5.94 sec photons, 8.77 sec processing, 0 ms extra exporting [32/32 mappings]. Threads: 1:36 min total, 9.01 sec processing.
+[2023.03.10-20.20.15:607][972]LogStaticLightingSystem: MatrixLevel_BuiltData storing lightmap data for 32 meshes in 2 LightmapResourceClusters (16.0 Meshes per cluster).
+[2023.03.10-20.20.15:672][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.03.10-20.20.15:695][972]LogStaticLightingSystem: Illumination: 24.8 sec (263 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2023.03.10-20.20.15:695][972]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.10-20.20.15:695][972]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.10-20.20.15:874][972]DumpUnbuiltLightIteractions
+[2023.03.10-20.20.15:874][972]Lights with unbuilt interactions: 0
+[2023.03.10-20.20.15:874][972]
+[2023.03.10-20.20.15:874][972]Primitives with unbuilt interactions: 0
+[2023.03.10-20.20.15:955][972]LogSlate: Took 0.000736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.10-20.20.15:959][973]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.10-20.20.15:959][973]MapCheck: New page: MatrixLevel - 10 Mar 2023, 20:20:15
+[2023.03.10-20.20.15:960][973]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.512ms to complete.
+[2023.03.10-20.20.24:122][456]LogSlate: Window 'Message Log' being destroyed
+[2023.03.10-20.20.24:127][456]LogSlate: Window 'Message Log' being destroyed
+[2023.03.10-20.21.51:350][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.03.10-20.21.51:392][682]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/MatrixLevelC66759EA472CAD1D8AA5888F045CDB05.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/MatrixLevel.umap'
+[2023.03.10-20.21.51:458][682]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/MatrixLevel_BuiltData46A562774836E6C2BE9F9EB5B1E7E59C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/MatrixLevel_BuiltData.uasset'
+[2023.03.10-20.21.51:476][682]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.10-20.21.51:476][682]LogContentValidation: Display: Validating World /Game/Maps/MatrixLevel.MatrixLevel
+[2023.03.10-20.21.51:476][682]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MatrixLevel_BuiltData.MatrixLevel_BuiltData
+[2023.03.10-20.22.34:810][893]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TheMatrix/WidgetMenuMatrix.WidgetMenuMatrix
+[2023.03.10-20.22.37:220][985]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.22.37:220][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.22.37:242][985]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-20.22.37:242][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-20.22.39:549][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TheMatrix/WheelSelectionUI.WheelSelectionUI
+[2023.03.10-20.22.46:048][461]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/InventoryWheelWidget.InventoryWheelWidget
+[2023.03.10-20.22.55:596][968]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.10-20.22.59:998][219]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.10-20.23.13:974][ 36]BlueprintLog: New page: Compile InventoryWheelWidget
+[2023.03.10-20.23.14:137][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2023.03.10-20.23.14:705][ 65]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/InventoryWheelWidget1595B9BE4CB4CE4AE419CC8CF54FB02A.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/InventoryWheelWidget.uasset'
+[2023.03.10-20.23.14:720][ 65]AssetCheck: New page: Asset Save: InventoryWheelWidget
+[2023.03.10-20.23.14:720][ 65]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/InventoryWheelWidget.InventoryWheelWidget
+[2023.03.10-20.23.48:278][939]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.10-20.24.07:915][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.10-20.24.09:878][182]BlueprintLog: New page: Compile InventoryWheelWidget
+[2023.03.10-20.24.09:994][182]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2023.03.10-20.24.10:598][207]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/InventoryWheelWidgetDCC6632E4F781767149784929B9BAEC1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/InventoryWheelWidget.uasset'
+[2023.03.10-20.24.10:616][207]AssetCheck: New page: Asset Save: InventoryWheelWidget
+[2023.03.10-20.24.10:616][207]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/InventoryWheelWidget.InventoryWheelWidget
+[2023.03.10-20.24.36:546][679]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.10-20.24.52:078][562]BlueprintLog: New page: Compile InventoryWheelWidget
+[2023.03.10-20.24.52:158][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2023.03.10-20.24.52:603][581]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/InventoryWheelWidget78F95A6D489B779575CE64A50A2B3514.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/InventoryWheelWidget.uasset'
+[2023.03.10-20.24.52:625][581]AssetCheck: New page: Asset Save: InventoryWheelWidget
+[2023.03.10-20.24.52:625][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/InventoryWheelWidget.InventoryWheelWidget
+[2023.03.10-20.25.25:507][415]BlueprintLog: New page: Compile InventoryWheelWidget
+[2023.03.10-20.25.25:588][415]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2023.03.10-20.25.26:051][433]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/InventoryWheelWidget9ED816D24FED5826D09372AE28A2DCB7.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/InventoryWheelWidget.uasset'
+[2023.03.10-20.25.26:068][433]AssetCheck: New page: Asset Save: InventoryWheelWidget
+[2023.03.10-20.25.26:068][433]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/InventoryWheelWidget.InventoryWheelWidget
