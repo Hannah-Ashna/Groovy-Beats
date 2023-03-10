@@ -1595,3 +1595,7 @@ Script Stack (0 frames):
 [2023.03.10-19.11.27:971][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
 [2023.03.10-19.11.27:999][627]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2023.03.10-19.11.28:007][627]LogEngine: Changing dynamic resolution state.
+[2023.03.10-19.20.53:976][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.10-19.20.54:019][434]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/MatrixLevel_Auto19C60E640434270FA02323593519426E1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Autosaves/Game/Maps/MatrixLevel_Auto1.umap'
+[2023.03.10-19.20.54:020][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MatrixLevel' took 0.080
+[2023.03.10-19.20.54:020][434]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
