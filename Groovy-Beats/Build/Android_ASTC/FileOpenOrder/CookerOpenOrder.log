@@ -44,12 +44,12 @@
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/Monitor.uexp" 43
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/GroovyMonitorBP.uasset" 44
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/GroovyMonitorBP.uexp" 45
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/GrabType.uasset" 46
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/GrabType.uexp" 47
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 48
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 49
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 50
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 51
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 46
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 47
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/GrabType.uasset" 48
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/GrabType.uexp" 49
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 50
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 51
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/GrabComponent.uasset" 52
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/GrabComponent.uexp" 53
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Keyboard/KeyboardMaterial4.uasset" 54
@@ -115,10 +115,10 @@
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Ch45_Body.uexp" 114
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy.uasset" 115
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy.uexp" 116
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 117
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 118
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 119
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 120
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 117
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 118
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 119
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 120
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Scream_mixamo_com.uasset" 121
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Scream_mixamo_com.uexp" 122
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Scream_mixamo_com_slow.uasset" 123
@@ -133,12 +133,12 @@
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/BigEnemy.uexp" 132
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 133
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 134
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/GrippableInterface.uasset" 135
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/GrippableInterface.uexp" 136
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/CubeMaterial.uasset" 137
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/CubeMaterial.uexp" 138
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube.uasset" 139
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube.uexp" 140
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/CubeMaterial.uasset" 135
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/CubeMaterial.uexp" 136
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube.uasset" 137
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube.uexp" 138
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/GrippableInterface.uasset" 139
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/GrippableInterface.uexp" 140
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/GrippableActor.uasset" 141
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/GrippableActor.uexp" 142
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Textures/MatrixNormalTexture.uasset" 143
@@ -197,285 +197,285 @@
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/katana_katana_Plane_002.uexp" 196
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/Material_002.uasset" 197
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/Material_002.uexp" 198
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuIntro.uasset" 199
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuIntro.uexp" 200
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 201
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 202
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 203
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 204
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 205
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 206
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 207
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 208
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 209
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 210
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 211
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 212
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 213
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 214
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 215
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 216
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 217
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 218
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 219
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 220
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 221
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 222
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 223
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 224
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 225
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 226
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 227
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 228
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 229
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 230
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 231
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 232
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 233
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 234
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 235
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 236
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 237
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 238
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 239
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 240
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 241
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 242
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 243
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 244
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 245
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 246
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 247
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 248
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 249
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 250
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 251
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 252
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 253
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 254
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 255
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 256
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 257
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 258
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 259
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 260
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 261
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 262
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 263
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 264
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 265
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 266
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 267
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 268
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 269
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 270
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 271
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 272
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 273
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 274
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 275
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 276
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 277
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 278
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 279
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 280
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 281
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 282
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 283
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 284
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 285
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 286
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 287
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 288
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 289
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 290
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 291
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 292
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 293
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 294
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 295
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 296
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 297
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 298
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 299
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 300
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_VRCursor.uasset" 301
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_VRCursor.uexp" 302
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/IntroMenu.uasset" 303
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/IntroMenu.uexp" 304
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 305
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 306
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 307
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 308
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 309
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 310
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 311
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 312
-"../../../Engine/Content/EngineResources/Black.uasset" 313
-"../../../Engine/Content/EngineResources/Black.uexp" 314
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 315
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 316
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 317
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 318
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 319
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 320
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 321
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 322
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uasset" 323
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uexp" 324
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 325
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 326
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 327
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 328
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 329
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 330
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 331
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 332
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 333
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 334
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 335
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uexp" 336
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 337
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 338
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 339
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 340
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 341
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 342
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 343
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 344
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 345
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 346
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uasset" 347
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uexp" 348
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 349
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 350
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 351
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 352
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 353
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uexp" 354
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 355
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 356
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NPC_VRTemplate.uasset" 357
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NPC_VRTemplate.uexp" 358
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 359
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 360
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 361
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 362
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 363
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 364
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 365
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 366
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportNoise.uasset" 367
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportNoise.uexp" 368
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportCylinder.uasset" 369
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportCylinder.uexp" 370
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportRing.uasset" 371
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportRing.uexp" 372
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 373
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 374
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 375
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 376
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uasset" 377
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uexp" 378
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uasset" 379
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uexp" 380
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uasset" 381
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uexp" 382
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_PlayAreaBounds.uasset" 383
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_PlayAreaBounds.uexp" 384
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 385
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 386
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 387
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 388
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 389
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 390
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 391
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 392
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 393
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 394
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 395
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 396
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 397
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 398
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh_Skeleton1.uasset" 399
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh_Skeleton1.uexp" 400
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/nextControllerBoth_color1k.uasset" 401
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/nextControllerBoth_color1k.uexp" 402
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/nextControllerBoth_color1k.ubulk" 403
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2ControllerMAT.uasset" 404
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2ControllerMAT.uexp" 405
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh.uasset" 406
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh.uexp" 407
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh_Skeleton1.uasset" 408
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh_Skeleton1.uexp" 409
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh.uasset" 410
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh.uexp" 411
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/ButtonClick.uasset" 412
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/ButtonClick.uexp" 413
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition4.uasset" 414
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition4.uexp" 415
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition3.uasset" 416
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition3.uexp" 417
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition2.uasset" 418
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition2.uexp" 419
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition1.uasset" 420
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition1.uexp" 421
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/RadioRecording.uasset" 422
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/RadioRecording.uexp" 423
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/PreemptiveVengeance.uasset" 424
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/PreemptiveVengeance.uexp" 425
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jason_Shaw_-_RUNNING_WATERS.uasset" 426
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jason_Shaw_-_RUNNING_WATERS.uexp" 427
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_2.uasset" 428
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_2.uexp" 429
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_1.uasset" 430
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_1.uexp" 431
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Siesta.uasset" 432
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Siesta.uexp" 433
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/HoliznaCC0_-_No_One_Is_Perfect.uasset" 434
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/HoliznaCC0_-_No_One_Is_Perfect.uexp" 435
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioFilter.uasset" 436
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioFilter.uexp" 437
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioChain.uasset" 438
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioChain.uexp" 439
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioSoundCue.uasset" 440
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioSoundCue.uexp" 441
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 442
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 443
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Menu.uasset" 444
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Menu.uexp" 445
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton.uasset" 446
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton.uexp" 447
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_PhysicsAsset.uasset" 448
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_PhysicsAsset.uexp" 449
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_UE4Man_ChestLogo.uasset" 450
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_UE4Man_ChestLogo.uexp" 451
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_Male_Body.uasset" 452
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_Male_Body.uexp" 453
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin.uasset" 454
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin.uexp" 455
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton_AnimBlueprint.uasset" 456
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton_AnimBlueprint.uexp" 457
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 458
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 459
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BaseMarkerMaterial.uasset" 460
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BaseMarkerMaterial.uexp" 461
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/MarkerColours.uasset" 462
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/MarkerColours.uexp" 463
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/RTWhiteboard.uasset" 464
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/RTWhiteboard.uexp" 465
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardMaterial.uasset" 466
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardMaterial.uexp" 467
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardBorderMaterial.uasset" 468
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardBorderMaterial.uexp" 469
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Whiteboard.uasset" 470
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Whiteboard.uexp" 471
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardActor.uasset" 472
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardActor.uexp" 473
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRPawn.uasset" 474
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRPawn.uexp" 475
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioActor.uasset" 476
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioActor.uexp" 477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 199
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 200
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BaseMarkerMaterial.uasset" 201
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BaseMarkerMaterial.uexp" 202
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/MarkerColours.uasset" 203
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/MarkerColours.uexp" 204
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/RTWhiteboard.uasset" 205
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/RTWhiteboard.uexp" 206
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardMaterial.uasset" 207
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardMaterial.uexp" 208
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardBorderMaterial.uasset" 209
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardBorderMaterial.uexp" 210
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Whiteboard.uasset" 211
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Whiteboard.uexp" 212
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardActor.uasset" 213
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/WhiteboardActor.uexp" 214
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 215
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 216
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 217
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 218
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 219
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 220
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 221
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 223
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 224
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 226
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 227
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 228
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 229
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 230
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 231
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 232
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 233
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 234
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 235
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 236
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 237
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 238
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 239
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 240
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 241
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 242
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 243
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 244
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 245
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 246
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 247
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 248
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 249
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 250
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 251
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 252
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 253
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 254
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 255
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 256
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 257
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 258
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 259
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 260
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 261
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 262
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 263
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 264
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 265
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 266
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 267
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 268
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 269
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 270
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 271
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 272
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 273
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 274
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 275
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 276
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 277
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 278
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 279
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 280
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 281
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 282
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 283
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 284
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 285
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 286
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 287
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 288
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 289
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 290
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 291
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 292
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 293
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 294
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 295
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 296
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 297
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 298
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 299
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 300
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 301
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 302
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 303
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 304
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 305
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 306
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 307
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 308
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 309
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 310
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 311
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 312
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 313
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 314
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 315
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 316
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_VRCursor.uasset" 317
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_VRCursor.uexp" 318
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Menu.uasset" 319
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Menu.uexp" 320
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 321
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 322
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 323
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 324
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 325
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 326
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 327
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 328
+"../../../Engine/Content/EngineResources/Black.uasset" 329
+"../../../Engine/Content/EngineResources/Black.uexp" 330
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 331
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 332
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 333
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 334
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 335
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 336
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 337
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 338
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uasset" 339
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uexp" 340
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 341
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 342
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 343
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 344
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 345
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uexp" 346
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 347
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 348
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 349
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 350
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 351
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 352
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 353
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 354
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 355
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 356
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 357
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 358
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 359
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 360
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 361
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 362
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uasset" 363
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uexp" 364
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 365
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 366
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 367
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 368
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 369
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uexp" 370
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 371
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 372
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NPC_VRTemplate.uasset" 373
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NPC_VRTemplate.uexp" 374
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 375
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 377
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 378
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 379
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 380
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 381
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 382
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportNoise.uasset" 383
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportNoise.uexp" 384
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportCylinder.uasset" 385
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_TeleportCylinder.uexp" 386
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportRing.uasset" 387
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportRing.uexp" 388
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 389
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 390
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 391
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 392
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uasset" 393
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uexp" 394
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uasset" 395
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uexp" 396
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uasset" 397
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uexp" 398
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_PlayAreaBounds.uasset" 399
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_PlayAreaBounds.uexp" 400
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 401
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 402
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton.uasset" 403
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton.uexp" 404
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_PhysicsAsset.uasset" 405
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_PhysicsAsset.uexp" 406
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_UE4Man_ChestLogo.uasset" 407
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_UE4Man_ChestLogo.uexp" 408
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_Male_Body.uasset" 409
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/M_Male_Body.uexp" 410
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin.uasset" 411
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin.uexp" 412
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 413
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 414
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 415
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 416
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 417
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 418
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 419
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 420
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 421
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 422
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 423
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 424
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton_AnimBlueprint.uasset" 425
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/PlayerBody/SK_Mannequin_Skeleton_AnimBlueprint.uexp" 426
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRPawn.uasset" 427
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRPawn.uexp" 428
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/ButtonClick.uasset" 429
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/ButtonClick.uexp" 430
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition4.uasset" 431
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition4.uexp" 432
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition3.uasset" 433
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition3.uexp" 434
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition2.uasset" 435
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition2.uexp" 436
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition1.uasset" 437
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Transition1.uexp" 438
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/RadioRecording.uasset" 439
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/RadioRecording.uexp" 440
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/PreemptiveVengeance.uasset" 441
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/PreemptiveVengeance.uexp" 442
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jason_Shaw_-_RUNNING_WATERS.uasset" 443
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jason_Shaw_-_RUNNING_WATERS.uexp" 444
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_2.uasset" 445
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_2.uexp" 446
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_1.uasset" 447
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Take_Me_Higher_out_1.uexp" 448
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Siesta.uasset" 449
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/Jahzzar_-_Siesta.uexp" 450
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/HoliznaCC0_-_No_One_Is_Perfect.uasset" 451
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/Songs/HoliznaCC0_-_No_One_Is_Perfect.uexp" 452
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioFilter.uasset" 453
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioFilter.uexp" 454
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioChain.uasset" 455
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioChain.uexp" 456
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioSoundCue.uasset" 457
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioSoundCue.uexp" 458
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioActor.uasset" 459
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Radio/RadioActor.uexp" 460
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuIntro.uasset" 461
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuIntro.uexp" 462
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/IntroMenu.uasset" 463
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/IntroMenu.uexp" 464
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh_Skeleton1.uasset" 465
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh_Skeleton1.uexp" 466
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/nextControllerBoth_color1k.uasset" 467
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/nextControllerBoth_color1k.uexp" 468
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/nextControllerBoth_color1k.ubulk" 469
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2ControllerMAT.uasset" 470
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2ControllerMAT.uexp" 471
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh.uasset" 472
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_right_quest2_mesh.uexp" 473
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh_Skeleton1.uasset" 474
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh_Skeleton1.uexp" 475
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh.uasset" 476
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/quest2_controllers_div1_left_quest2_mesh.uexp" 477
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/VRTutorialPawn.uasset" 478
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/VRTutorialPawn.uexp" 479
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/TutorialGameMode.uasset" 480
@@ -486,126 +486,126 @@
 "../../../Engine/Content/BasicShapes/Cube1.uexp" 485
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/TutorialLevelTrigger.uasset" 486
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/TutorialLevelTrigger.uexp" 487
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDWidget.uasset" 488
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDWidget.uexp" 489
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/DeathHUDWidget.uasset" 490
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/DeathHUDWidget.uexp" 491
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/WhiteSquare.uasset" 492
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/WhiteSquare.uexp" 493
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDMaterial.uasset" 494
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDMaterial.uexp" 495
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/SwordIconTexture.uasset" 496
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/SwordIconTexture.uexp" 497
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/KatanaIconTexture.uasset" 498
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/KatanaIconTexture.uexp" 499
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/HouseIconTexture.uasset" 500
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/HouseIconTexture.uexp" 501
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/BaseballIconTexture.uasset" 502
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/BaseballIconTexture.uexp" 503
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_4.uasset" 504
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_4.uexp" 505
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/CustomTextures/Screen_RT.uasset" 506
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/CustomTextures/Screen_RT.uexp" 507
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial.uasset" 508
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial.uexp" 509
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_3.uasset" 510
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_3.uexp" 511
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_2.uasset" 512
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_2.uexp" 513
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_1.uasset" 514
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_1.uexp" 515
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech3.uasset" 516
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech3.uexp" 517
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech2.uasset" 518
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech2.uexp" 519
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech1.uasset" 520
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech1.uexp" 521
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech_SoundCue.uasset" 522
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech_SoundCue.uexp" 523
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/MonitorBP.uasset" 524
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/MonitorBP.uexp" 525
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/sword1.uasset" 526
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/sword1.uexp" 527
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/Sword.uasset" 528
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/Sword.uexp" 529
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleTexture.uasset" 530
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleTexture.uexp" 531
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleTexture.ubulk" 532
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleMaterial.uasset" 533
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleMaterial.uexp" 534
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleSystem.uasset" 535
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleSystem.uexp" 536
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash4.uasset" 537
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash4.uexp" 538
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash3.uasset" 539
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash3.uexp" 540
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash2.uasset" 541
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash2.uexp" 542
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash.uasset" 543
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash.uexp" 544
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Sword_SoundCue.uasset" 545
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Sword_SoundCue.uexp" 546
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 547
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uexp" 548
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.ubulk" 549
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 550
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uexp" 551
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 552
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uexp" 553
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_7.uasset" 554
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_7.uexp" 555
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_6.uasset" 556
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_6.uexp" 557
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_5.uasset" 558
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_5.uexp" 559
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_4.uasset" 560
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_4.uexp" 561
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_3.uasset" 562
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_3.uexp" 563
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_2.uasset" 564
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_2.uexp" 565
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_1.uasset" 566
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_1.uexp" 567
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/MatrixShutdownSFX.uasset" 568
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/MatrixShutdownSFX.uexp" 569
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/RGBTexture.uasset" 570
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/RGBTexture.uexp" 571
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopRGBMaterial.uasset" 572
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopRGBMaterial.uexp" 573
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desktop.uasset" 574
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desktop.uexp" 575
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/MatrixDesktopBP.uasset" 576
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/MatrixDesktopBP.uexp" 577
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/EnemyHealthWidget.uasset" 578
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/EnemyHealthWidget.uexp" 579
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Run_mixamo_com.uasset" 580
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Run_mixamo_com.uexp" 581
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Death_mixamo_com.uasset" 582
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Death_mixamo_com.uexp" 583
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/Enemy_AnimBP.uasset" 584
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/Enemy_AnimBP.uexp" 585
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIStatus.uasset" 586
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIStatus.uexp" 587
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBlackboard.uasset" 588
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBlackboard.uexp" 589
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/SearchArea.uasset" 590
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/SearchArea.uexp" 591
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/FindPatrolLocation.uasset" 592
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/FindPatrolLocation.uexp" 593
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBehaviour.uasset" 594
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBehaviour.uexp" 595
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIPatrolController.uasset" 596
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIPatrolController.uexp" 597
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/MatrixEnemyBody.uasset" 598
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/MatrixEnemyBody.uexp" 599
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/CreepySoundSFX.uasset" 600
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/CreepySoundSFX.uexp" 601
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/Minion_SoundCue.uasset" 602
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/Minion_SoundCue.uexp" 603
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/GlitchDeath.uasset" 604
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/GlitchDeath.uexp" 605
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.uasset" 606
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.uexp" 607
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/EnemyHealthWidget.uasset" 488
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/EnemyHealthWidget.uexp" 489
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Run_mixamo_com.uasset" 490
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Run_mixamo_com.uexp" 491
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Death_mixamo_com.uasset" 492
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/Enemy_Death_mixamo_com.uexp" 493
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/Enemy_AnimBP.uasset" 494
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/Enemy_AnimBP.uexp" 495
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIStatus.uasset" 496
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIStatus.uexp" 497
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBlackboard.uasset" 498
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBlackboard.uexp" 499
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/SearchArea.uasset" 500
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/SearchArea.uexp" 501
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/FindPatrolLocation.uasset" 502
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/FindPatrolLocation.uexp" 503
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBehaviour.uasset" 504
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIBehaviour.uexp" 505
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIPatrolController.uasset" 506
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/AIPatrolController.uexp" 507
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/MatrixEnemyBody.uasset" 508
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/MatrixEnemyBody.uexp" 509
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/CreepySoundSFX.uasset" 510
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/CreepySoundSFX.uexp" 511
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/Minion_SoundCue.uasset" 512
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/Minion_SoundCue.uexp" 513
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/GlitchDeath.uasset" 514
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Enemies/GlitchDeath.uexp" 515
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.uasset" 516
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Enemies/EnemyAI/PatrollingMinionAI.uexp" 517
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDWidget.uasset" 518
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDWidget.uexp" 519
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/DeathHUDWidget.uasset" 520
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/DeathHUDWidget.uexp" 521
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/WhiteSquare.uasset" 522
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/WhiteSquare.uexp" 523
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDMaterial.uasset" 524
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/HUDMaterial.uexp" 525
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/SwordIconTexture.uasset" 526
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/SwordIconTexture.uexp" 527
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/KatanaIconTexture.uasset" 528
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/KatanaIconTexture.uexp" 529
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/HouseIconTexture.uasset" 530
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/HouseIconTexture.uexp" 531
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/BaseballIconTexture.uasset" 532
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/Icons/BaseballIconTexture.uexp" 533
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_4.uasset" 534
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_4.uexp" 535
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/CustomTextures/Screen_RT.uasset" 536
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/CustomTextures/Screen_RT.uexp" 537
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial.uasset" 538
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/GroovyMonitorMaterial.uexp" 539
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_3.uasset" 540
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_3.uexp" 541
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_2.uasset" 542
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_2.uexp" 543
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_1.uasset" 544
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/MonitorCracked_Monitor_Part_1.uexp" 545
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech3.uasset" 546
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech3.uexp" 547
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech2.uasset" 548
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech2.uexp" 549
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech1.uasset" 550
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech1.uexp" 551
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech_SoundCue.uasset" 552
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/BreakTech_SoundCue.uexp" 553
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/MonitorBP.uasset" 554
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/MonitorBP.uexp" 555
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 556
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uexp" 557
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.ubulk" 558
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 559
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uexp" 560
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 561
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uexp" 562
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_7.uasset" 563
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_7.uexp" 564
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_6.uasset" 565
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_6.uexp" 566
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_5.uasset" 567
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_5.uexp" 568
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_4.uasset" 569
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_4.uexp" 570
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_3.uasset" 571
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_3.uexp" 572
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_2.uasset" 573
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_2.uexp" 574
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_1.uasset" 575
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/DamagedGoods/DesktopCracked_Box001_Part_1.uexp" 576
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/MatrixShutdownSFX.uasset" 577
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/MatrixShutdownSFX.uexp" 578
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/RGBTexture.uasset" 579
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/RGBTexture.uexp" 580
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopRGBMaterial.uasset" 581
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopRGBMaterial.uexp" 582
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desktop.uasset" 583
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desktop.uexp" 584
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/MatrixDesktopBP.uasset" 585
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/MatrixDesktopBP.uexp" 586
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/sword1.uasset" 587
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/sword1.uexp" 588
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/Sword.uasset" 589
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/Sword.uexp" 590
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleTexture.uasset" 591
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleTexture.uexp" 592
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleTexture.ubulk" 593
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleMaterial.uasset" 594
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleMaterial.uexp" 595
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleSystem.uasset" 596
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Particles/BinaryParticleSystem.uexp" 597
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash4.uasset" 598
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash4.uexp" 599
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash3.uasset" 600
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash3.uexp" 601
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash2.uasset" 602
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash2.uexp" 603
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash.uasset" 604
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/SwordSlash.uexp" 605
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Sword_SoundCue.uasset" 606
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Sword_SoundCue.uexp" 607
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/SwordBP.uasset" 608
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/SwordBP.uexp" 609
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/Weapons/katana_katana_Plane_002_Skeleton.uasset" 610
@@ -674,16 +674,16 @@
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/RT_AltWhiteboard.uexp" 673
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/MainMenuWidget.uasset" 674
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/MainMenuWidget.uexp" 675
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 676
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 677
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 678
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 679
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 680
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 681
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/TutorialTexture.uasset" 682
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/TutorialTexture.uexp" 683
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/TutorialWidget.uasset" 684
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/TutorialWidget.uexp" 685
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/TutorialTexture.uasset" 676
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/TutorialTexture.uexp" 677
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/TutorialWidget.uasset" 678
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Widgets/TutorialWidget.uexp" 679
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 680
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 681
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 682
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 683
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 684
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 685
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/KeyPressSFX.uasset" 686
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/KeyPressSFX.uexp" 687
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/KeyPressCue.uasset" 688
@@ -1017,27 +1017,27 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 1016
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1017
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 1018
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 1019
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 1020
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1021
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 1022
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 1023
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 1024
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 1025
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 1026
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 1027
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 1028
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 1029
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 1030
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 1031
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1032
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 1033
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 1034
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 1035
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 1036
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 1037
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 1038
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 1039
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 1019
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 1020
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 1021
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 1022
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 1023
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 1024
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 1025
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 1026
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 1027
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1028
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 1029
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 1030
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 1031
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 1032
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 1033
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 1034
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 1035
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 1036
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 1037
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1038
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 1039
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 1040
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 1041
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 1042
@@ -1134,10 +1134,10 @@
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 1133
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 1134
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 1135
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1136
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 1137
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1138
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 1139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 1137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1138
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 1139
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1140
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 1141
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1142
@@ -1167,131 +1167,131 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 1166
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 1167
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 1168
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1169
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1170
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1171
-"../../../Engine/Content/BasicShapes/Cube.uexp" 1172
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallRoughTexture.uasset" 1173
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallRoughTexture.uexp" 1174
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallRoughTexture.ubulk" 1175
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallNormalTexture.uasset" 1176
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallNormalTexture.uexp" 1177
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallNormalTexture.ubulk" 1178
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallMaterial.uasset" 1179
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallMaterial.uexp" 1180
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/3.uasset" 1181
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/3.uexp" 1182
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_3.uasset" 1183
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_3.uexp" 1184
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/devsoc-room.uasset" 1185
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/devsoc-room.uexp" 1186
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_13.uasset" 1187
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_13.uexp" 1188
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/1.uasset" 1189
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/1.uexp" 1190
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial.uasset" 1191
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial.uexp" 1192
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetTexture.uasset" 1193
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetTexture.uexp" 1194
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetMaterial.uasset" 1195
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetMaterial.uexp" 1196
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel_BuiltData.uasset" 1197
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel_BuiltData.uexp" 1198
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel_BuiltData.ubulk" 1199
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuEnd.uasset" 1200
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuEnd.uexp" 1201
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndMenu.uasset" 1202
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndMenu.uexp" 1203
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/VREndLevelPawn.uasset" 1204
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/VREndLevelPawn.uexp" 1205
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndLevelGameMode.uasset" 1206
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndLevelGameMode.uexp" 1207
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardTexture.uasset" 1208
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardTexture.uexp" 1209
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset" 1210
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uexp" 1211
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardBorderMaterial.uasset" 1212
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardBorderMaterial.uexp" 1213
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/Corkboard.uasset" 1214
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/Corkboard.uexp" 1215
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/StartupSFX.uasset" 1216
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/StartupSFX.uexp" 1217
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerButtonClickSFX.uasset" 1218
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerButtonClickSFX.uexp" 1219
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOnCue.uasset" 1220
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOnCue.uexp" 1221
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOffCue.uasset" 1222
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOffCue.uexp" 1223
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopBP.uasset" 1224
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopBP.uexp" 1225
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desk/DeskBP.uasset" 1226
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desk/DeskBP.uexp" 1227
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts5.uasset" 1228
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts5.uexp" 1229
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_21.uasset" 1230
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_21.uexp" 1231
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts.uasset" 1232
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts.uexp" 1233
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_20.uasset" 1234
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_20.uexp" 1235
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_Skeleton.uasset" 1236
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_Skeleton.uexp" 1237
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosingAnim.uasset" 1238
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosingAnim.uexp" 1239
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpeningAnim.uasset" 1240
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpeningAnim.uexp" 1241
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpened.uasset" 1242
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpened.uexp" 1243
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosed.uasset" 1244
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosed.uexp" 1245
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_PhysicsAsset.uasset" 1246
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_PhysicsAsset.uexp" 1247
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetMaterial.uasset" 1248
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetMaterial.uexp" 1249
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetHandleMaterial.uasset" 1250
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetHandleMaterial.uexp" 1251
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetDoorMaterial.uasset" 1252
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetDoorMaterial.uexp" 1253
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet.uasset" 1254
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet.uexp" 1255
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBlueprint.uasset" 1256
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBlueprint.uexp" 1257
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetAnimBP.uasset" 1258
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetAnimBP.uexp" 1259
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBPPlain.uasset" 1260
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBPPlain.uexp" 1261
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/TutorialSong.uasset" 1262
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/TutorialSong.uexp" 1263
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Wall.uasset" 1264
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Wall.uexp" 1265
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CardboardTexture.uasset" 1266
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CardboardTexture.uexp" 1267
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial3.uasset" 1268
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial3.uexp" 1269
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBoxLogoTexture.uasset" 1270
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBoxLogoTexture.uexp" 1271
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial2.uasset" 1272
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial2.uexp" 1273
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial1.uasset" 1274
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial1.uexp" 1275
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBox.uasset" 1276
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBox.uexp" 1277
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinMaterial.uasset" 1278
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinMaterial.uexp" 1279
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Bin.uasset" 1280
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Bin.uexp" 1281
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfMouthMaterial.uasset" 1282
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfMouthMaterial.uexp" 1283
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes2Material.uasset" 1284
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes2Material.uexp" 1285
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes1Material.uasset" 1286
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes1Material.uexp" 1287
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEarsMaterial.uasset" 1288
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEarsMaterial.uexp" 1289
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfBodyMaterial.uasset" 1290
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfBodyMaterial.uexp" 1291
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf.uasset" 1292
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf.uexp" 1293
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1169
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1170
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallRoughTexture.uasset" 1171
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallRoughTexture.uexp" 1172
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallRoughTexture.ubulk" 1173
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallNormalTexture.uasset" 1174
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallNormalTexture.uexp" 1175
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallNormalTexture.ubulk" 1176
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallMaterial.uasset" 1177
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/WallMaterial.uexp" 1178
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/3.uasset" 1179
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/3.uexp" 1180
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_3.uasset" 1181
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_3.uexp" 1182
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/devsoc-room.uasset" 1183
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/devsoc-room.uexp" 1184
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_13.uasset" 1185
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_13.uexp" 1186
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/1.uasset" 1187
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/1.uexp" 1188
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial.uasset" 1189
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial.uexp" 1190
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetTexture.uasset" 1191
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetTexture.uexp" 1192
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetMaterial.uasset" 1193
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/CarpetMaterial.uexp" 1194
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel_BuiltData.uasset" 1195
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel_BuiltData.uexp" 1196
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel_BuiltData.ubulk" 1197
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuEnd.uasset" 1198
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/WidgetMenuEnd.uexp" 1199
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndMenu.uasset" 1200
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndMenu.uexp" 1201
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/VREndLevelPawn.uasset" 1202
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/VREndLevelPawn.uexp" 1203
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndLevelGameMode.uasset" 1204
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TutorialandEndLevels/EndLevelGameMode.uexp" 1205
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/StartupSFX.uasset" 1206
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/StartupSFX.uexp" 1207
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerButtonClickSFX.uasset" 1208
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerButtonClickSFX.uexp" 1209
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOnCue.uasset" 1210
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOnCue.uexp" 1211
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOffCue.uasset" 1212
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOffCue.uexp" 1213
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopBP.uasset" 1214
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/DesktopBP.uexp" 1215
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desk/DeskBP.uasset" 1216
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Desk/DeskBP.uexp" 1217
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_Skeleton.uasset" 1218
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_Skeleton.uexp" 1219
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosingAnim.uasset" 1220
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosingAnim.uexp" 1221
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpeningAnim.uasset" 1222
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpeningAnim.uexp" 1223
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosed.uasset" 1224
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetClosed.uexp" 1225
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_PhysicsAsset.uasset" 1226
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet_PhysicsAsset.uexp" 1227
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetMaterial.uasset" 1228
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetMaterial.uexp" 1229
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetHandleMaterial.uasset" 1230
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetHandleMaterial.uexp" 1231
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetDoorMaterial.uasset" 1232
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetDoorMaterial.uexp" 1233
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet.uasset" 1234
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/Cabinet.uexp" 1235
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts5.uasset" 1236
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts5.uexp" 1237
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_21.uasset" 1238
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_21.uexp" 1239
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts.uasset" 1240
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/HackNotts.uexp" 1241
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_20.uasset" 1242
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/StartingNote/Textures/PostersMaterial_20.uexp" 1243
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBlueprint.uasset" 1244
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBlueprint.uexp" 1245
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpened.uasset" 1246
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetOpened.uexp" 1247
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetAnimBP.uasset" 1248
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetAnimBP.uexp" 1249
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBPPlain.uasset" 1250
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Cabinet/CabinetBPPlain.uexp" 1251
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/TutorialSong.uasset" 1252
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/TutorialSong.uexp" 1253
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Wall.uasset" 1254
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Wall.uexp" 1255
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CardboardTexture.uasset" 1256
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CardboardTexture.uexp" 1257
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial3.uasset" 1258
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial3.uexp" 1259
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBoxLogoTexture.uasset" 1260
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBoxLogoTexture.uexp" 1261
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial2.uasset" 1262
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial2.uexp" 1263
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial1.uasset" 1264
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaMaterial1.uexp" 1265
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBox.uasset" 1266
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBox.uexp" 1267
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinMaterial.uasset" 1268
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinMaterial.uexp" 1269
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Bin.uasset" 1270
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Bin.uexp" 1271
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfMouthMaterial.uasset" 1272
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfMouthMaterial.uexp" 1273
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes2Material.uasset" 1274
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes2Material.uexp" 1275
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes1Material.uasset" 1276
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEyes1Material.uexp" 1277
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEarsMaterial.uasset" 1278
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfEarsMaterial.uexp" 1279
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfBodyMaterial.uasset" 1280
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/OctogarfBodyMaterial.uexp" 1281
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf.uasset" 1282
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf.uexp" 1283
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardTexture.uasset" 1284
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardTexture.uexp" 1285
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uasset" 1286
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardMainMaterial.uexp" 1287
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardBorderMaterial.uasset" 1288
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/CorkboardBorderMaterial.uexp" 1289
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/Corkboard.uasset" 1290
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Corkboard/Corkboard.uexp" 1291
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1292
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1293
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel.uexp" 1294
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/EndLevel.umap" 1295
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Controllers/TriggerButtonMat.uasset" 1296
@@ -1468,61 +1468,61 @@
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/BreakingNewsTexture.uexp" 1467
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt.uasset" 1468
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Monitor/MonitorMaterialScreenAlt.uexp" 1469
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 1470
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 1471
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel_BuiltData.uasset" 1472
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel_BuiltData.uexp" 1473
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel_BuiltData.ubulk" 1474
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerGreenMaterial.uasset" 1475
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerGreenMaterial.uexp" 1476
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/GreenMarkerMaterial.uasset" 1477
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/GreenMarkerMaterial.uexp" 1478
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/GreenMarker.uasset" 1479
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/GreenMarker.uexp" 1480
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uasset" 1481
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uexp" 1482
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlueMarkerMaterial.uasset" 1483
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlueMarkerMaterial.uexp" 1484
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlueMarker.uasset" 1485
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlueMarker.uexp" 1486
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uasset" 1487
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uexp" 1488
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlackMarkerMaterial.uasset" 1489
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlackMarkerMaterial.uexp" 1490
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlackMarker.uasset" 1491
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlackMarker.uexp" 1492
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRGameMode.uasset" 1493
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRGameMode.uexp" 1494
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial2.uasset" 1495
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial2.uexp" 1496
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial1.uasset" 1497
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial1.uexp" 1498
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottle.uasset" 1499
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottle.uexp" 1500
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleBP.uasset" 1501
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleBP.uexp" 1502
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBP.uasset" 1503
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBP.uexp" 1504
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanMaterial.uasset" 1505
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanMaterial.uexp" 1506
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Can.uasset" 1507
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Can.uexp" 1508
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanBP.uasset" 1509
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanBP.uexp" 1510
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinBP.uasset" 1511
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinBP.uexp" 1512
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf_Camera.uasset" 1513
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf_Camera.uexp" 1514
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/DoorHandleSFX.uasset" 1515
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/DoorHandleSFX.uexp" 1516
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton.uasset" 1517
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton.uexp" 1518
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorOpened.uasset" 1519
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorOpened.uexp" 1520
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorClosed.uasset" 1521
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorClosed.uexp" 1522
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorAnim.uasset" 1523
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorAnim.uexp" 1524
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_6.uasset" 1470
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_6.uexp" 1471
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_5.uasset" 1472
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_5.uexp" 1473
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_4.uasset" 1474
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_4.uexp" 1475
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_3.uasset" 1476
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_3.uexp" 1477
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_2.uasset" 1478
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_2.uexp" 1479
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 1480
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 1481
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel_BuiltData.uasset" 1482
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel_BuiltData.uexp" 1483
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel_BuiltData.ubulk" 1484
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerGreenMaterial.uasset" 1485
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerGreenMaterial.uexp" 1486
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/GreenMarkerMaterial.uasset" 1487
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/GreenMarkerMaterial.uexp" 1488
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/GreenMarker.uasset" 1489
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/GreenMarker.uexp" 1490
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uasset" 1491
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlackMaterial.uexp" 1492
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlackMarkerMaterial.uasset" 1493
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlackMarkerMaterial.uexp" 1494
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlackMarker.uasset" 1495
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlackMarker.uexp" 1496
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRGameMode.uasset" 1497
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/VRGameMode.uexp" 1498
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial2.uasset" 1499
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial2.uexp" 1500
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial1.uasset" 1501
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleMaterial1.uexp" 1502
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottle.uasset" 1503
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottle.uexp" 1504
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleBP.uasset" 1505
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/WaterBottleBP.uexp" 1506
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBP.uasset" 1507
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/PizzaBP.uexp" 1508
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanMaterial.uasset" 1509
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanMaterial.uexp" 1510
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Can.uasset" 1511
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/Can.uexp" 1512
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanBP.uasset" 1513
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/CanBP.uexp" 1514
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinBP.uasset" 1515
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Trash/BinBP.uexp" 1516
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf_Camera.uasset" 1517
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/SpyCamera/Octogarf_Camera.uexp" 1518
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/DoorHandleSFX.uasset" 1519
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/DoorHandleSFX.uexp" 1520
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton.uasset" 1521
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton.uexp" 1522
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorOpened.uasset" 1523
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorOpened.uexp" 1524
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/DoorOpenSFX.uasset" 1525
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/DoorOpenSFX.uexp" 1526
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Groovy/GroovyBeats.uasset" 1527
@@ -1531,117 +1531,137 @@
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Sound/Desktops/PowerOffGroovyCue.uexp" 1530
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/GroovyDesktopBP.uasset" 1531
 "C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/GroovyDesktopBP.uexp" 1532
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton_AnimBlueprint.uasset" 1533
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton_AnimBlueprint.uexp" 1534
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_PhysicsAsset.uasset" 1535
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_PhysicsAsset.uexp" 1536
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorMaterial.uasset" 1537
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorMaterial.uexp" 1538
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorHandleMaterial.uasset" 1539
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorHandleMaterial.uexp" 1540
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBorderMaterial.uasset" 1541
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBorderMaterial.uexp" 1542
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door.uasset" 1543
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door.uexp" 1544
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBP.uasset" 1545
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBP.uexp" 1546
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/Mouse.uasset" 1547
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/Mouse.uexp" 1548
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/MouseBP.uasset" 1549
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/MouseBP.uexp" 1550
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uasset" 1551
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uexp" 1552
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel.uexp" 1553
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel.umap" 1554
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1555
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uexp" 1556
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1557
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uexp" 1558
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Textures/T_Grid.uasset" 1559
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Textures/T_Grid.uexp" 1560
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Textures/T_Grid.ubulk" 1561
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 1562
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 1563
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1564
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1565
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1566
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1567
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 1568
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 1569
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_GridRotation.uasset" 1570
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_GridRotation.uexp" 1571
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 1572
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 1573
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Accent.uasset" 1574
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Accent.uexp" 1575
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1576
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1577
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" 1578
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uexp" 1579
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.ubulk" 1580
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/PistolFireHapticEffect.uasset" 1581
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/PistolFireHapticEffect.uexp" 1582
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_Projectile.uasset" 1583
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_Projectile.uexp" 1584
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Projectile.uasset" 1585
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Projectile.uexp" 1586
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Projectile.uasset" 1587
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Projectile.uexp" 1588
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/InteractionInterface.uasset" 1589
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/InteractionInterface.uexp" 1590
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1591
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1592
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 1593
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 1594
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_N.uasset" 1595
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_N.uexp" 1596
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 1597
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_M.uasset" 1598
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_M.uexp" 1599
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 1600
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1601
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1602
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1603
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1604
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1605
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1606
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1607
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1608
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1609
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1610
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1611
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1612
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1613
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1614
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1615
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 1616
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1617
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1618
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1619
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1620
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1621
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1622
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1623
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 1624
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1625
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1626
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/M_FPGun.uasset" 1627
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/M_FPGun.uexp" 1628
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1629
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1630
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Pistol.uasset" 1631
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Pistol.uexp" 1632
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset" 1633
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uexp" 1634
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire01.uasset" 1635
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire01.uexp" 1636
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire_Cue.uasset" 1637
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire_Cue.uexp" 1638
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1639
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 1640
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap.uexp" 1641
-"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap.umap" 1642
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1643
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1644
-"../../../Engine/Content/Maps/Entry.uexp" 1645
-"../../../Engine/Content/Maps/Entry.umap" 1646
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorClosed.uasset" 1533
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorClosed.uexp" 1534
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorAnim.uasset" 1535
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorAnim.uexp" 1536
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton_AnimBlueprint.uasset" 1537
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_Skeleton_AnimBlueprint.uexp" 1538
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_PhysicsAsset.uasset" 1539
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door_PhysicsAsset.uexp" 1540
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorMaterial.uasset" 1541
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorMaterial.uexp" 1542
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorHandleMaterial.uasset" 1543
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorHandleMaterial.uexp" 1544
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBorderMaterial.uasset" 1545
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBorderMaterial.uexp" 1546
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door.uasset" 1547
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/Door.uexp" 1548
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBP.uasset" 1549
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Door/DoorBP.uexp" 1550
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/Mouse.uasset" 1551
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/Mouse.uexp" 1552
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/MouseBP.uasset" 1553
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Mouse/MouseBP.uexp" 1554
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uasset" 1555
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uexp" 1556
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uasset" 1557
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Geometry/MarkerBlueMaterial.uexp" 1558
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlueMarkerMaterial.uasset" 1559
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/BlueMarkerMaterial.uexp" 1560
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlueMarker.uasset" 1561
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Whiteboard/Markers/Actors/BlueMarker.uexp" 1562
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_paper.uasset" 1563
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_paper.uexp" 1564
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_banner.uasset" 1565
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close_banner.uexp" 1566
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close.uasset" 1567
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/book_close.uexp" 1568
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/Book.uasset" 1569
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/Book.uexp" 1570
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/BookBP.uasset" 1571
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/Books/BookBP.uexp" 1572
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel.uexp" 1573
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel.umap" 1574
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1575
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uexp" 1576
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1577
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uexp" 1578
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Textures/T_Grid.uasset" 1579
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Textures/T_Grid.uexp" 1580
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Textures/T_Grid.ubulk" 1581
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 1582
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 1583
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1584
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1585
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1586
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1587
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 1588
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 1589
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_GridRotation.uasset" 1590
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_GridRotation.uexp" 1591
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 1592
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 1593
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Accent.uasset" 1594
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Grid_Accent.uexp" 1595
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1596
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1597
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" 1598
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uexp" 1599
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.ubulk" 1600
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/PistolFireHapticEffect.uasset" 1601
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Haptics/PistolFireHapticEffect.uexp" 1602
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_Projectile.uasset" 1603
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/M_Projectile.uexp" 1604
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Projectile.uasset" 1605
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Materials/MI_Projectile.uexp" 1606
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Projectile.uasset" 1607
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Projectile.uexp" 1608
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/InteractionInterface.uasset" 1609
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/TheMatrix/InteractionInterface.uexp" 1610
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1611
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1612
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 1613
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 1614
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_N.uasset" 1615
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_N.uexp" 1616
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 1617
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_M.uasset" 1618
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_M.uexp" 1619
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 1620
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1621
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1622
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1623
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1624
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1625
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1626
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1627
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1628
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1629
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1630
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1631
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1632
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1633
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1634
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1635
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 1636
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1637
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1638
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1639
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1640
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1641
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1642
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1643
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 1644
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1645
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1646
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/M_FPGun.uasset" 1647
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Materials/M_FPGun.uexp" 1648
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1649
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1650
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Pistol.uasset" 1651
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Pistol.uexp" 1652
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset" 1653
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uexp" 1654
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire01.uasset" 1655
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire01.uexp" 1656
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire_Cue.uasset" 1657
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Audio/Fire_Cue.uexp" 1658
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1659
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 1660
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap.uexp" 1661
+"C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/VRTemplate/Maps/VRTemplateMap.umap" 1662
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1663
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1664
+"../../../Engine/Content/Maps/Entry.uexp" 1665
+"../../../Engine/Content/Maps/Entry.umap" 1666
