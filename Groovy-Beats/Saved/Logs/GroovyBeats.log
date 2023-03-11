@@ -1812,3 +1812,957 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.11-17.44.56:820][411]UATHelper: Packaging (Android (ASTC)): BUILD SUCCESSFUL
 [2023.03.11-17.44.56:820][411]UATHelper: Packaging (Android (ASTC)): AutomationTool exiting with ExitCode=0 (Success)
 [2023.03.11-17.57.45:413][764]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2023.03.11-18.42.01:910][259]LogUObjectHash: Compacting FUObjectHashTables data took  16.28ms
+[2023.03.11-18.42.03:581][259]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/BaseLevel.BaseLevel
+[2023.03.11-18.42.03:582][259]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.11-18.42.03:582][259]LightingResults: New page: Lighting Build
+[2023.03.11-18.42.03:582][259]LoadErrors: New page: Loading map: BaseLevel.umap
+[2023.03.11-18.42.03:637][259]LogWorld: UWorld::CleanupWorld for IntroLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-18.42.03:638][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.42.03:638][259]MapCheck: New page: Map Check
+[2023.03.11-18.42.03:638][259]LightingResults: New page: Lighting Build
+[2023.03.11-18.42.03:670][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-18.42.03:730][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.03.11-18.42.03:736][259]LogAudio: Display: Audio Device (ID: 1) registered with world 'BaseLevel'.
+[2023.03.11-18.42.03:945][259]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.11-18.42.03:946][259]LogAIModule: Creating AISystem for world BaseLevel
+[2023.03.11-18.42.03:947][259]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=80.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.11-18.42.03:968][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.11-18.42.03:980][259]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.11-18.42.03:980][259]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2023.03.11-18.42.03:980][259]LogFileHelpers: Loading map 'BaseLevel' took 0.398
+[2023.03.11-18.42.39:289][358]LogEditorViewport: Clicking on Actor (LMB): Chair_Actor_C (Chair8)
+[2023.03.11-18.42.42:076][506]Cmd: TRANSACTION UNDO
+[2023.03.11-18.42.42:077][506]LogEditorTransaction: Undo Move Actors
+[2023.03.11-18.42.53:176][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RoomAssets/DeskSetup/Chair/Chair_Actor.Chair_Actor
+[2023.03.11-18.43.48:708][353]BlueprintLog: New page: Compile Chair_Actor
+[2023.03.11-18.43.48:768][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.11-18.43.49:274][377]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Chair_ActorBD38060743B9E2A51D3D658FC23DF812.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uasset'
+[2023.03.11-18.43.49:293][377]AssetCheck: New page: Asset Save: Chair_Actor
+[2023.03.11-18.43.49:293][377]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/Chair/Chair_Actor.Chair_Actor
+[2023.03.11-18.43.50:723][461]LogTemp: Repeating last play command: VR Preview
+[2023.03.11-18.43.50:733][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-18.43.50:733][461]PIE: New page: PIE session: BaseLevel (11 Mar 2023, 18:43:50)
+[2023.03.11-18.43.50:733][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.43.50:743][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009720s)
+[2023.03.11-18.43.50:744][461]LogAIModule: Creating AISystem for world BaseLevel
+[2023.03.11-18.43.50:744][461]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2023.03.11-18.43.50:744][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.010761s)
+[2023.03.11-18.43.50:766][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.11-18.43.50:767][461]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.11-18.43.50:767][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-18.43.50:767][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-18.43.50:767][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-18.43.50:767][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-18.43.50:767][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-18.43.50:767][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.11-18.43.50:767][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-18.43.50:767][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-18.43.50:768][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-18.43.50:768][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-18.43.50:768][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-18.43.50:768][461]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.11-18.43.50:775][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.43.50:775][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.43.50:777][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.43.50:777][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.43.50:779][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.43.50:779][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.43.50:782][461]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.43.50:782][461]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.43.51:813][461]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.11-18.43.51:813][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-18.43.51:813][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-18.43.51:813][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-18.43.51:813][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.11-18.43.51:813][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.11-18.43.51:813][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.11-18.43.51:814][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.11-18.43.51:814][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.11-18.43.51:814][461]LogInit: FAudioDevice initialized.
+[2023.03.11-18.43.51:814][461]LogAudio: Display: Audio Device (ID: 4) registered with world 'BaseLevel'.
+[2023.03.11-18.43.51:826][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.43.51:827][461]LogLoad: Game class is 'VRGameMode_C'
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair2_2.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair3.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair4.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair5.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair6_7.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair7_9.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair8.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]PIE: Warning: Invalid Simulate Options: Body (Chair_0.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2023.03.11-18.43.51:833][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.03.11-18.43.51
+[2023.03.11-18.43.51:834][461]LogWorld: Bringing up level for play took: 0.005619
+[2023.03.11-18.43.51:834][461]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=40.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.11-18.43.51:836][461]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.03.11-18.43.51:837][461]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.11-18.43.51:846][461]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.43.51:847][461]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.43.51:858][461]PIE: Server logged in
+[2023.03.11-18.43.51:859][461]PIE: Play in editor total start time 1.129 seconds.
+[2023.03.11-18.44.08:585][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.44.08:585][648]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.44.08:586][648]LogSlate: Window 'Groovy Beats Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.11-18.44.08:591][648]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-18.44.08:592][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.44.08:610][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-18.44.08:630][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.44.08:659][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-18.44.08:659][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.44.08:660][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.44.08:665][648]LogSlate: Slate User Unregistered.  User Index 8
+[2023.03.11-18.44.08:666][648]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.44.08:671][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2023.03.11-18.44.08:824][649]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.03.11-18.44.17:990][188]LogSlate: Window 'Message Log' being destroyed
+[2023.03.11-18.44.17:998][188]LogSlate: Window 'Message Log' being destroyed
+[2023.03.11-18.44.32:253][ 15]BlueprintLog: New page: Compile Chair_Actor
+[2023.03.11-18.44.32:301][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.03.11-18.44.33:026][ 51]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Chair_Actor14D9925643298F047528F984C47E3637.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uasset'
+[2023.03.11-18.44.33:042][ 51]AssetCheck: New page: Asset Save: Chair_Actor
+[2023.03.11-18.44.33:042][ 51]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/Chair/Chair_Actor.Chair_Actor
+[2023.03.11-18.44.42:238][591]BlueprintLog: New page: Compile Chair_Actor
+[2023.03.11-18.44.42:288][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.03.11-18.44.42:818][614]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Chair_Actor81999325421E157D0F69D6B94E6A4AF2.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uasset'
+[2023.03.11-18.44.42:833][614]AssetCheck: New page: Asset Save: Chair_Actor
+[2023.03.11-18.44.42:833][614]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/Chair/Chair_Actor.Chair_Actor
+[2023.03.11-18.44.44:288][701]LogTemp: Repeating last play command: VR Preview
+[2023.03.11-18.44.44:298][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-18.44.44:298][701]LogHMD: Initializing OVRPlugin session
+[2023.03.11-18.44.44:527][701]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.11-18.44.44:527][701]PIE: New page: PIE session: BaseLevel (11 Mar 2023, 18:44:44)
+[2023.03.11-18.44.44:528][701]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.44.44:538][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010650s)
+[2023.03.11-18.44.44:539][701]LogAIModule: Creating AISystem for world BaseLevel
+[2023.03.11-18.44.44:539][701]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2023.03.11-18.44.44:539][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.011699s)
+[2023.03.11-18.44.44:561][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.11-18.44.44:561][701]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.11-18.44.44:561][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-18.44.44:561][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-18.44.44:561][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-18.44.44:561][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-18.44.44:561][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-18.44.44:561][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.11-18.44.44:561][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-18.44.44:561][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-18.44.44:562][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-18.44.44:562][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-18.44.44:562][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-18.44.44:562][701]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.11-18.44.44:566][701]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.44.44:566][701]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.44.44:567][701]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.44.44:567][701]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.44.44:569][701]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.44.44:569][701]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.44.44:572][701]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.44.44:572][701]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.44.44:579][701]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.11-18.44.44:579][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-18.44.44:579][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-18.44.44:579][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-18.44.44:579][701]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.11-18.44.44:579][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.11-18.44.44:579][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.11-18.44.44:580][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.11-18.44.44:580][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.11-18.44.44:580][701]LogInit: FAudioDevice initialized.
+[2023.03.11-18.44.44:580][701]LogAudio: Display: Audio Device (ID: 5) registered with world 'BaseLevel'.
+[2023.03.11-18.44.44:590][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.44.44:604][701]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.11-18.44.44:651][701]LogLoad: Game class is 'VRGameMode_C'
+[2023.03.11-18.44.44:659][701]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.03.11-18.44.44
+[2023.03.11-18.44.44:659][701]LogWorld: Bringing up level for play took: 0.006606
+[2023.03.11-18.44.44:659][701]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=40.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.11-18.44.44:660][701]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.03.11-18.44.44:662][701]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.11-18.44.44:663][701]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.44.44:663][701]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.44.44:667][701]PIE: Server logged in
+[2023.03.11-18.44.44:669][701]PIE: Play in editor total start time 0.373 seconds.
+[2023.03.11-18.44.44:670][701]LogEngine: Changing dynamic resolution state.
+[2023.03.11-18.44.44:681][701]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.11-18.45.16:026][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.45.16:026][917]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.45.16:067][917]LogSlate: Window 'Groovy Beats Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.11-18.45.16:113][917]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-18.45.16:114][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.45.16:127][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-18.45.16:140][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.45.16:161][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-18.45.16:161][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.45.16:162][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.45.16:167][917]LogSlate: Slate User Unregistered.  User Index 8
+[2023.03.11-18.45.16:167][917]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.45.16:170][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.03.11-18.45.16:196][918]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.11-18.45.16:207][918]LogEngine: Changing dynamic resolution state.
+[2023.03.11-18.45.34:388][978]BlueprintLog: New page: Compile Chair_Actor
+[2023.03.11-18.45.34:435][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.03.11-18.45.34:957][  0]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Chair_Actor0C1585BB47F11BB8E9AF9595D9CE05B1.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uasset'
+[2023.03.11-18.45.34:970][  0]AssetCheck: New page: Asset Save: Chair_Actor
+[2023.03.11-18.45.34:970][  0]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/Chair/Chair_Actor.Chair_Actor
+[2023.03.11-18.45.36:258][ 78]LogTemp: Repeating last play command: VR Preview
+[2023.03.11-18.45.36:267][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-18.45.36:267][ 78]LogHMD: Initializing OVRPlugin session
+[2023.03.11-18.45.36:478][ 78]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.11-18.45.36:478][ 78]PIE: New page: PIE session: BaseLevel (11 Mar 2023, 18:45:36)
+[2023.03.11-18.45.36:478][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.45.36:489][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011285s)
+[2023.03.11-18.45.36:489][ 78]LogAIModule: Creating AISystem for world BaseLevel
+[2023.03.11-18.45.36:490][ 78]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2023.03.11-18.45.36:490][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.012359s)
+[2023.03.11-18.45.36:511][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.11-18.45.36:511][ 78]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.11-18.45.36:511][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-18.45.36:511][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-18.45.36:511][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-18.45.36:511][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-18.45.36:511][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-18.45.36:511][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.11-18.45.36:512][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-18.45.36:512][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-18.45.36:512][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-18.45.36:512][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-18.45.36:512][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-18.45.36:512][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.11-18.45.36:517][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.45.36:517][ 78]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.45.36:518][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.45.36:518][ 78]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.45.36:520][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.45.36:520][ 78]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.45.36:524][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.45.36:524][ 78]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.45.36:529][ 78]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.11-18.45.36:530][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-18.45.36:530][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-18.45.36:530][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-18.45.36:530][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.11-18.45.36:530][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.11-18.45.36:530][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.11-18.45.36:531][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.11-18.45.36:531][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.11-18.45.36:531][ 78]LogInit: FAudioDevice initialized.
+[2023.03.11-18.45.36:531][ 78]LogAudio: Display: Audio Device (ID: 6) registered with world 'BaseLevel'.
+[2023.03.11-18.45.36:541][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.45.36:549][ 78]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.11-18.45.36:602][ 78]LogLoad: Game class is 'VRGameMode_C'
+[2023.03.11-18.45.36:609][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.03.11-18.45.36
+[2023.03.11-18.45.36:609][ 78]LogWorld: Bringing up level for play took: 0.006529
+[2023.03.11-18.45.36:609][ 78]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=40.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.11-18.45.36:610][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.03.11-18.45.36:612][ 78]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.11-18.45.36:613][ 78]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.45.36:614][ 78]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.45.36:617][ 78]PIE: Server logged in
+[2023.03.11-18.45.36:619][ 78]PIE: Play in editor total start time 0.354 seconds.
+[2023.03.11-18.45.36:621][ 78]LogEngine: Changing dynamic resolution state.
+[2023.03.11-18.45.36:630][ 78]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.11-18.46.11:306][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.46.11:306][610]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.46.11:353][610]LogSlate: Window 'Groovy Beats Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.11-18.46.11:383][610]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-18.46.11:385][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.46.11:397][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-18.46.11:410][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.46.11:431][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-18.46.11:432][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.46.11:433][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.46.11:438][610]LogSlate: Slate User Unregistered.  User Index 8
+[2023.03.11-18.46.11:438][610]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.46.11:440][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.11-18.46.11:464][611]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.11-18.46.11:475][611]LogEngine: Changing dynamic resolution state.
+[2023.03.11-18.46.21:107][161]BlueprintLog: New page: Compile Chair_Actor
+[2023.03.11-18.46.21:155][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.11-18.46.23:808][306]BlueprintLog: New page: Compile Chair_Actor
+[2023.03.11-18.46.23:857][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.03.11-18.46.24:324][328]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Chair_Actor3648E2A744E5297E4E0EAF857741758C.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/RoomAssets/DeskSetup/Chair/Chair_Actor.uasset'
+[2023.03.11-18.46.24:336][328]AssetCheck: New page: Asset Save: Chair_Actor
+[2023.03.11-18.46.24:336][328]LogContentValidation: Display: Validating Blueprint /Game/RoomAssets/DeskSetup/Chair/Chair_Actor.Chair_Actor
+[2023.03.11-18.46.25:592][404]LogTemp: Repeating last play command: VR Preview
+[2023.03.11-18.46.25:601][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-18.46.25:601][404]LogHMD: Initializing OVRPlugin session
+[2023.03.11-18.46.25:809][404]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2023.03.11-18.46.25:809][404]PIE: New page: PIE session: BaseLevel (11 Mar 2023, 18:46:25)
+[2023.03.11-18.46.25:809][404]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.46.25:818][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009558s)
+[2023.03.11-18.46.25:819][404]LogAIModule: Creating AISystem for world BaseLevel
+[2023.03.11-18.46.25:819][404]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2023.03.11-18.46.25:819][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.010568s)
+[2023.03.11-18.46.25:842][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.03.11-18.46.25:843][404]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-18.46.25:843][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-18.46.25:843][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-18.46.25:843][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-18.46.25:843][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-18.46.25:843][404]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.11-18.46.25:847][404]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.46.25:847][404]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.46.25:850][404]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.46.25:850][404]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.46.25:852][404]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.46.25:852][404]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.46.25:856][404]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.11-18.46.25:856][404]LogAudioMixer: Display: 1: FrontRight
+[2023.03.11-18.46.25:861][404]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2023.03.11-18.46.25:862][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-18.46.25:862][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-18.46.25:862][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-18.46.25:862][404]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.11-18.46.25:862][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.11-18.46.25:862][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.11-18.46.25:863][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.11-18.46.25:863][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.11-18.46.25:863][404]LogInit: FAudioDevice initialized.
+[2023.03.11-18.46.25:863][404]LogAudio: Display: Audio Device (ID: 7) registered with world 'BaseLevel'.
+[2023.03.11-18.46.25:874][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.46.25:882][404]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2023.03.11-18.46.25:936][404]LogLoad: Game class is 'VRGameMode_C'
+[2023.03.11-18.46.25:942][404]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.03.11-18.46.25
+[2023.03.11-18.46.25:942][404]LogWorld: Bringing up level for play took: 0.006219
+[2023.03.11-18.46.25:942][404]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=40.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.03.11-18.46.25:943][404]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.03.11-18.46.25:945][404]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.11-18.46.25:946][404]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.46.25:947][404]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.46.25:950][404]PIE: Server logged in
+[2023.03.11-18.46.25:951][404]PIE: Play in editor total start time 0.353 seconds.
+[2023.03.11-18.46.25:952][404]LogEngine: Changing dynamic resolution state.
+[2023.03.11-18.46.25:964][404]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2023.03.11-18.46.52:308][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-18.46.52:308][342]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2023.03.11-18.46.52:352][342]LogSlate: Window 'Groovy Beats Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2023.03.11-18.46.52:383][342]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-18.46.52:384][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.46.52:393][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-18.46.52:406][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.46.52:427][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-18.46.52:427][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.46.52:428][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.11-18.46.52:433][342]LogSlate: Slate User Unregistered.  User Index 8
+[2023.03.11-18.46.52:433][342]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.03.11-18.46.52:435][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.11-18.46.52:463][343]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.03.11-18.46.52:474][343]LogEngine: Changing dynamic resolution state.
+[2023.03.11-18.46.54:774][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.11-18.46.54:817][470]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/BaseLevel3F6472E542AC1D32DC7E909C5E83DC6F.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel.umap'
+[2023.03.11-18.46.54:900][470]LogSavePackage: Moving '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/BaseLevel_BuiltData6E2C904C44FC90B25E8EAAB3AA18DB77.tmp' to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/BaseLevel_BuiltData.uasset'
+[2023.03.11-18.46.54:918][470]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.11-18.46.54:918][470]LogContentValidation: Display: Validating World /Game/Maps/BaseLevel.BaseLevel
+[2023.03.11-18.46.54:918][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/BaseLevel_BuiltData.BaseLevel_BuiltData
+[2023.03.11-18.47.29:961][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.11-18.47.30:021][547]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/IntroLevel.IntroLevel
+[2023.03.11-18.47.30:021][547]Cmd: MAP LOAD FILE="../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Content/Maps/IntroLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.11-18.47.30:021][547]LightingResults: New page: Lighting Build
+[2023.03.11-18.47.30:021][547]LoadErrors: New page: Loading map: IntroLevel.umap
+[2023.03.11-18.47.30:024][547]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-18.47.30:024][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-18.47.30:024][547]MapCheck: New page: Map Check
+[2023.03.11-18.47.30:024][547]LightingResults: New page: Lighting Build
+[2023.03.11-18.47.30:043][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-18.47.30:048][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.11-18.47.30:049][547]LogAudio: Display: Audio Device (ID: 1) registered with world 'IntroLevel'.
+[2023.03.11-18.47.30:189][547]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.11-18.47.30:189][547]LogAIModule: Creating AISystem for world IntroLevel
+[2023.03.11-18.47.30:214][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.11-18.47.30:222][547]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.11-18.47.30:222][547]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2023.03.11-18.47.30:222][547]LogFileHelpers: Loading map 'IntroLevel' took 0.202
+[2023.03.11-18.47.35:574][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.11-18.47.41:329][808]LogMainFrame: Project requires temp target (TypewriterPlugin plugin is enabled)
+[2023.03.11-18.47.41:329][808]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Binaries/Android/UE4Game-Android-Shipping.target does not exist.
+[2023.03.11-18.47.41:423][812]UATHelper: Packaging (Android (ASTC)): Running AutomationTool...
+[2023.03.11-18.47.41:539][818]UATHelper: Packaging (Android (ASTC)): Parsing command line: -ScriptsForProject="C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/GroovyBeats.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/GroovyBeats.uproject" -cook -stage -archive -archivedirectory="C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Deploys" -package -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -clean -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Android -cookflavor=ASTC -build -clientconfig=Shipping -utf8output
+[2023.03.11-18.47.42:979][865]UATHelper: Packaging (Android (ASTC)): Setting up ProjectParams for C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject
+[2023.03.11-18.47.44:664][870]UATHelper: Packaging (Android (ASTC)): GroovyBeats.uproject requires a temporary target.cs to be generated (TypewriterPlugin plugin is enabled)
+[2023.03.11-18.47.44:996][871]UATHelper: Packaging (Android (ASTC)): ********** BUILD COMMAND STARTED **********
+[2023.03.11-18.47.44:996][871]UATHelper: Packaging (Android (ASTC)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe GroovyBeats Android Shipping -Project="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject" -Clean -NoHotReload "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject" -NoUBTMakefiles  -remoteini="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats" -skipdeploy -nobuilduht -log="C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-GroovyBeats-Android-Shipping.txt"
+[2023.03.11-18.47.45:332][872]UATHelper: Packaging (Android (ASTC)):   Cleaning GroovyBeats binaries...
+[2023.03.11-18.47.46:386][875]UATHelper: Packaging (Android (ASTC)): Took 1.448474s to run UnrealBuildTool.exe, ExitCode=0
+[2023.03.11-18.47.46:386][875]UATHelper: Packaging (Android (ASTC)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe GroovyBeats Android Shipping -Project="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject"  "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject" -NoUBTMakefiles  -remoteini="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats" -skipdeploy -Manifest="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-GroovyBeats-Android-Shipping_2.txt"
+[2023.03.11-18.47.47:009][877]UATHelper: Packaging (Android (ASTC)):   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room).
+[2023.03.11-18.47.48:020][880]UATHelper: Packaging (Android (ASTC)):   PLATFORM_ANDROID_NDK_VERSION = 210500
+[2023.03.11-18.47.48:020][880]UATHelper: Packaging (Android (ASTC)):   NDK toolchain: r21e, NDK version: 21, GccVersion: 4.9, ClangVersion: 9.0.9
+[2023.03.11-18.47.54:033][951]UATHelper: Packaging (Android (ASTC)):   Parsing headers for GroovyBeats
+[2023.03.11-18.47.54:365][952]UATHelper: Packaging (Android (ASTC)):     Running UnrealHeaderTool "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject" "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Build\Android\GroovyBeats\Shipping\GroovyBeats.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UHT-GroovyBeats-Android-Shipping_2.txt" -installed
+[2023.03.11-18.47.55:377][955]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: Loading text-based GConfig....
+[2023.03.11-18.48.01:075][972]UATHelper: Packaging (Android (ASTC)):   Reflection code generated for GroovyBeats in 6.7505593 seconds
+[2023.03.11-18.48.01:075][972]UATHelper: Packaging (Android (ASTC)):   Compiling Native 32-bit code with NDK API 'android-21'
+[2023.03.11-18.48.02:079][975]UATHelper: Packaging (Android (ASTC)):   Writing manifest to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Build\Manifest.xml
+[2023.03.11-18.48.02:416][976]UATHelper: Packaging (Android (ASTC)):   Building GroovyBeats...
+[2023.03.11-18.48.02:416][976]UATHelper: Packaging (Android (ASTC)):   [Upgrade]
+[2023.03.11-18.48.02:416][976]UATHelper: Packaging (Android (ASTC)):   [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2023.03.11-18.48.02:416][976]UATHelper: Packaging (Android (ASTC)):   [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2023.03.11-18.48.02:417][976]UATHelper: Packaging (Android (ASTC)):   [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2023.03.11-18.48.02:417][976]UATHelper: Packaging (Android (ASTC)):   [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2023.03.11-18.48.02:417][976]UATHelper: Packaging (Android (ASTC)):   [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in GroovyBeats.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2023.03.11-18.48.02:417][976]UATHelper: Packaging (Android (ASTC)):   [Upgrade]
+[2023.03.11-18.48.02:417][976]UATHelper: Packaging (Android (ASTC)):   Building 7 actions with 12 processes...
+[2023.03.11-18.48.04:754][983]UATHelper: Packaging (Android (ASTC)):     [1/7] SharedPCH.Core.h [armv7]
+[2023.03.11-18.48.05:757][986]UATHelper: Packaging (Android (ASTC)):     [2/7] GroovyBeats.cpp [armv7]
+[2023.03.11-18.48.15:136][ 14]UATHelper: Packaging (Android (ASTC)):     [3/7] SharedPCH.Engine.h [armv7]
+[2023.03.11-18.48.20:169][ 29]UATHelper: Packaging (Android (ASTC)):     [4/7] Module.UBIKRuntime.gen.cpp [armv7]
+[2023.03.11-18.48.21:173][ 32]UATHelper: Packaging (Android (ASTC)):     [5/7] Module.UBIKRuntime.cpp [armv7]
+[2023.03.11-18.48.37:908][ 82]UATHelper: Packaging (Android (ASTC)):     [6/7] GroovyBeats-Android-Shipping-armv7.so
+[2023.03.11-18.48.38:242][ 83]UATHelper: Packaging (Android (ASTC)):     [7/7] GroovyBeats-Android-Shipping.target
+[2023.03.11-18.48.38:242][ 83]UATHelper: Packaging (Android (ASTC)):   Total time in Parallel executor: 35.76 seconds
+[2023.03.11-18.48.38:242][ 83]UATHelper: Packaging (Android (ASTC)):   Total execution time: 51.68 seconds
+[2023.03.11-18.48.38:242][ 83]UATHelper: Packaging (Android (ASTC)): Took 51.7668398s to run UnrealBuildTool.exe, ExitCode=0
+[2023.03.11-18.48.38:242][ 83]UATHelper: Packaging (Android (ASTC)): ********** BUILD COMMAND COMPLETED **********
+[2023.03.11-18.48.38:242][ 83]UATHelper: Packaging (Android (ASTC)): ********** COOK COMMAND STARTED **********
+[2023.03.11-18.48.38:242][ 83]UATHelper: Packaging (Android (ASTC)): Cleaning cooked data.
+[2023.03.11-18.48.38:578][ 84]UATHelper: Packaging (Android (ASTC)): Running UE4Editor Cook for project C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject
+[2023.03.11-18.48.38:578][ 84]UATHelper: Packaging (Android (ASTC)): Commandlet log file is C:\Program Files\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2023.03.11-18.48.38.txt
+[2023.03.11-18.48.38:578][ 84]UATHelper: Packaging (Android (ASTC)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject" -run=Cook  -TargetPlatform=Android_ASTC -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Program Files\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2023.03.11-18.48.38.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2023.03.11-18.48.39:263][ 86]UATHelper: Packaging (Android (ASTC)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2023.03.11-18.48.39:263][ 86]UATHelper: Packaging (Android (ASTC)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2023.03.11-18.48.39:263][ 86]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: Running engine for game: GroovyBeats
+[2023.03.11-18.48.39:586][ 87]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: Loading text-based GConfig....
+[2023.03.11-18.48.40:594][ 90]UATHelper: Packaging (Android (ASTC)):   LogHAL: Display: Platform has ~ 16 GB [16973881344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.11-18.48.40:933][ 91]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.11-18.48.41:269][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.11-18.48.41:270][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.11-18.48.41:270][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.11-18.48.41:270][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.11-18.48.41:270][ 92]UATHelper: Packaging (Android (ASTC)):   LogTargetPlatformManager: Display: Building Assets For Android_ASTC
+[2023.03.11-18.48.41:270][ 92]UATHelper: Packaging (Android (ASTC)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.11-18.48.41:606][ 93]UATHelper: Packaging (Android (ASTC)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.11-18.48.44:626][102]UATHelper: Packaging (Android (ASTC)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.11-18.48.47:642][111]UATHelper: Packaging (Android (ASTC)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.11-18.48.47:979][112]UATHelper: Packaging (Android (ASTC)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SLATE 15/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.11-18.48.47:979][112]UATHelper: Packaging (Android (ASTC)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.11-18.48.47:979][112]UATHelper: Packaging (Android (ASTC)):   LogDerivedDataCache: Display: Performance to C:/Users/SLATE 15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=99.62MBs, RandomWriteSpeed=232.63MBs. Assigned SpeedClass 'Local'
+[2023.03.11-18.48.50:660][120]UATHelper: Packaging (Android (ASTC)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.11-18.48.50:660][120]UATHelper: Packaging (Android (ASTC)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogClass: Warning: ObjectProperty FAnimNode_UBIKSolver::SkeletalMeshComponent is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogClass: Warning: ObjectProperty FAnimNode_UBIKSolver::World is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogClass: Display: StructProperty FUBIKSettings::LocalHandOffset is not initialized properly. Module:UBIKRuntime File:Public/UBIK.h
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogClass: Display: StructProperty FUBIKSettings::LocalHandRotationOffset is not initialized properly. Module:UBIKRuntime File:Public/UBIK.h
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogClass: Display: 4 Uninitialized script struct members found including 2 object properties
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogAutomationTest: Warning: ObjectProperty FAnimNode_UBIKSolver::SkeletalMeshComponent is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogAutomationTest: Warning: ObjectProperty FAnimNode_UBIKSolver::World is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Mobile HDR setting 0
+[2023.03.11-18.48.51:990][123]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Creating asset registry
+[2023.03.11-18.48.51:990][123]PackagingResults: Warning: ObjectProperty FAnimNode_UBIKSolver::SkeletalMeshComponent is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.51:990][123]PackagingResults: Warning: ObjectProperty FAnimNode_UBIKSolver::World is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.51:990][123]PackagingResults: Warning: ObjectProperty FAnimNode_UBIKSolver::SkeletalMeshComponent is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.51:990][123]PackagingResults: Warning: ObjectProperty FAnimNode_UBIKSolver::World is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.48.52:669][126]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Discovering localized assets for cultures: en
+[2023.03.11-18.48.52:669][126]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2023.03.11-18.48.52:669][126]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Clearing all cooked content for platform Android_ASTC
+[2023.03.11-18.48.52:669][126]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Sandbox cleanup took 0.009 seconds for platforms Android_ASTC
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display:
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Shader Library 'Global' (SF_VULKAN_ES31_ANDROID) Stats:
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: =================
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 70 (7000.00%)
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Total Shaders: 546, Unique Shaders: 536 (98.17%)
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Total Shader Size: 3.37mb, Unique Shaders Size: 3.36mb (99.75%)
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: === Extended info:
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 110
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display:     3, 2, 2, 2, 2, 2, 2, 2, 2, 1
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-Global-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2023.03.11-18.48.53:339][128]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: =================
+[2023.03.11-18.48.53:675][129]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cooked packages 0 Packages Remain 515 Total 515
+[2023.03.11-18.48.53:675][129]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=217, VirtualMemory=603MiB
+[2023.03.11-18.48.54:348][131]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cooked packages 50 Packages Remain 662 Total 712
+[2023.03.11-18.48.54:348][131]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Excluding /MagicLeapPassableWorld/MagicLeapARPinInfoActor -> C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Cooked/Android_ASTC/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset
+[2023.03.11-18.48.56:362][137]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cooked packages 216 Packages Remain 607 Total 823
+[2023.03.11-18.48.58:748][144]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cooked packages 368 Packages Remain 465 Total 833
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]UATHelper: Packaging (Android (ASTC)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:049][150]PackagingResults: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.01:388][152]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cooked packages 501 Packages Remain 347 Total 848
+[2023.03.11-18.49.02:101][154]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cooked packages 616 Packages Remain 235 Total 851
+[2023.03.11-18.49.03:424][158]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cooked packages 826 Packages Remain 0 Total 826
+[2023.03.11-18.49.03:424][158]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=829, VirtualMemory=1082MiB
+[2023.03.11-18.49.03:424][158]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Finishing up...
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Saving BulkData manifest(s)...
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Done saving BulkData manifest(s)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 876, size is 372.79kb
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display:
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Shader Library 'GroovyBeats' (SF_VULKAN_ES31_ANDROID) Stats:
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: =================
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Assets: 177, Unique Shadermaps: 103 (58.19%)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Total Shaders: 2489, Unique Shaders: 2118 (85.09%)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Total Shader Size: 30.60mb, Unique Shaders Size: 27.43mb (89.65%)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: === Extended info:
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 14
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 287
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display:     49, 44, 15, 15, 15, 15, 15, 7, 4, 4
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Saved/Shaders/SF_VULKAN_ES31_ANDROID/ShaderDebug-GroovyBeats-SF_VULKAN_ES31_ANDROID/Dump.txt'
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogShaderLibrary: Display: =================
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Cook by the book total time in tick 9.680911s total time 11.714821
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Peak Used virtual 1157 MiB Peak Used physical 1191 MiB
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Hierarchy Timer Information:
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:   Root: 0.000s (0)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     CleanSandbox: 0.009s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     CollectFilesToCook: 0.286s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     GenerateLongPackageName: 0.001s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     TickCookOnTheSide: 9.681s (938)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       PostLoadPackageFixup: 0.002s (2955)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       LoadPackageForCooking: 4.936s (826)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       SavingPackages: 4.724s (184)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.189s (76)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 1.935s (822)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 1.934s (750)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:         SaveCookedPackage: 2.189s (826)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:           GEditorSavePackage: 2.159s (825)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:             ConvertingBlueprints: 0.010s (825)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:             VerifyCanCookPackage: 0.006s (792)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.012s (826)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     GeneratingBlueprintAssets: 0.005s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     SavingCurrentIniSettings: 0.007s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:     SavingAssetRegistry: 0.146s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       BuildChunkManifest: 0.012s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       SaveRealAssetRegistry: 0.024s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display:       WriteCookerOpenOrder: 0.037s (1)
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCook: Display: Done!
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogSavePackage: Display: Took 0.001492s to verify the EDL loading graph.
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Misc Cook Stats
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: ===============
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: ShaderCompiler
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000020
+[2023.03.11-18.49.03:735][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000815
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Package.Load
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     NumPreloadedDependencies=443
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     NumInlineLoads=175
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     NumPackagesLoaded=583
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     LoadPackageTimeSec=6.756702
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     PeakRequestQueueSize=498
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     PeakLoadQueueSize=571
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     PeakSaveQueueSize=314
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Package.Save
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     NumPackagesSaved=825
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     SavePackageTimeSec=1.975327
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.777750
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.073070
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000387
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.003581
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.007981
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000521
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.246997
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.486195
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.048822
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     MBWritten=413.797153
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Package.DiffTotal
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: UnversionedProperties
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     SavedStructs=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     SavedMB=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Cook Profile
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: ============
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0.CookWallTimeSec=24.956877
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=13.230378
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=11.722989
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.701675
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000053
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=9.920481
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=4.936163
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.188939
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=2.123490
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.054067
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000440
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.001348
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000180
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: DDC Summary Stats
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: =================
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: TotalGetHits    =      1407
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: TotalGets       =      1409
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.998581
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.836764
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.161817
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: GetMissPct      =  0.001419
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display:
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: DDC Resource Stats
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: =======================================================================================================
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Texture (Streaming)                             1.81                   0.00             0         87.90
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: MaterialShader                                  1.70                   1.70             0         61.73
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: PhysX (BodySetup)                               1.50                   1.50             0         62.21
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: NiagaraScript                                   0.37                   0.37             0          0.88
+[2023.03.11-18.49.03:736][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: StaticMesh                                      0.36                   0.36             0         33.17
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: SoundWave                                       0.29                   0.29             0         34.46
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Audio (Inline)                                  0.27                   0.27             0          0.03
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: SkeletalMesh                                    0.17                   0.17             0         22.93
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: NavCollision                                    0.15                   0.15             0          0.13
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: GlobalShader                                    0.14                   0.14             0          3.68
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: AnimSequence                                    0.08                   0.08             0          0.82
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0        244.90
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display:
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: -----------------------------------
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: LogClass: Warning: ObjectProperty FAnimNode_UBIKSolver::SkeletalMeshComponent is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: LogClass: Warning: ObjectProperty FAnimNode_UBIKSolver::World is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: LogAutomationTest: Warning: ObjectProperty FAnimNode_UBIKSolver::SkeletalMeshComponent is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: LogAutomationTest: Warning: ObjectProperty FAnimNode_UBIKSolver::World is not initialized properly even though its struct probably has a custom default constructor. Module:UBIKRuntime File:Public/AnimNode_UBIKSolver.h
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Content\Whiteboard\BlueMarker.uasset: Failed to load '/Game/Whiteboard/Markers/BlueMarker': Can't find file.
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display:
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: Success - 0 error(s), 12 warning(s)
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   LogInit: Display:
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   
+[2023.03.11-18.49.03:737][159]UATHelper: Packaging (Android (ASTC)):   Execution of commandlet took:  11.75 seconds
+[2023.03.11-18.49.04:067][160]UATHelper: Packaging (Android (ASTC)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-18.49.04:067][160]UATHelper: Packaging (Android (ASTC)):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.11-18.49.04:067][160]UATHelper: Packaging (Android (ASTC)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.11-18.49.04:067][160]UATHelper: Packaging (Android (ASTC)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.11-18.49.04:067][160]UATHelper: Packaging (Android (ASTC)):   LogShaderCompilers: Display: ================================================
+[2023.03.11-18.49.04:399][161]UATHelper: Packaging (Android (ASTC)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.03.11-18.49.04:734][162]UATHelper: Packaging (Android (ASTC)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Took 27.6404856s to run UE4Editor-Cmd.exe, ExitCode=0
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): ********** COOK COMMAND COMPLETED **********
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): ********** STAGE COMMAND STARTED **********
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Creating UE4CommandLine.txt
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Creating Staging Manifest...
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditor.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseLightmass.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\ConsoleVariables.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Category.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Editor.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Engine.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Excluding config file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Config\DefaultEditor.ini
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Cleaning Stage Directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\StagedBuilds\Android_ASTC
+[2023.03.11-18.49.06:409][167]UATHelper: Packaging (Android (ASTC)): Creating pak using staging manifest.
+[2023.03.11-18.49.06:752][168]UATHelper: Packaging (Android (ASTC)): Excluding C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultBloomKernel.uasset from pak files
+[2023.03.11-18.49.06:752][168]UATHelper: Packaging (Android (ASTC)): Excluding C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\Cooked\Android_ASTC\Engine\Content\EngineMaterials\DefaultBloomKernel.uexp from pak files
+[2023.03.11-18.49.06:752][168]UATHelper: Packaging (Android (ASTC)): Executing 1 UnrealPak command...
+[2023.03.11-18.49.16:609][197]UATHelper: Packaging (Android (ASTC)): Waiting for child processes to complete (0/1)
+[2023.03.11-18.49.26:669][224]UATHelper: Packaging (Android (ASTC)): Waiting for child processes to complete (0/1)
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)): Waiting for child processes to complete (1/1)
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)): Output from: "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\GroovyBeats.uproject" "C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\StagedBuilds\Android_ASTC\GroovyBeats\Content\Paks\GroovyBeats-Android_ASTC.pak" -create="C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\PakList_GroovyBeats-Android_ASTC.txt" -cryptokeys="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\Cooked\Android_ASTC\GroovyBeats\Metadata\Crypto.json" -secondaryOrder="C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android_ASTC\FileOpenOrder\CookerOpenOrder.log" -platform=Android -compressionformats=Oodle -compressmethod=Kraken -compresslevel=5  -multiprocess -abslog="C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UnrealPak-GroovyBeats-Android_ASTC-2023.03.11-18.49.06.txt" -compressionblocksize=256KB
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: Loading text-based GConfig....
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)):   OodleDataCompression: Display: Oodle v2.9.0 initializing with method=Kraken, level=5=Optimal1
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Loading response file C:\Users\SLATE 15\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\PakList_GroovyBeats-Android_ASTC.txt
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Added 2747 entries to add to pak file.
+[2023.03.11-18.49.28:684][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Loading pak order file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android_ASTC\FileOpenOrder\CookerOpenOrder.log...
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Finished loading pak order file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android_ASTC\FileOpenOrder\CookerOpenOrder.log.
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Collecting files to add to pak file...
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Collected 2747 files in 0.01s.
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Creating pak C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\StagedBuilds\Android_ASTC\GroovyBeats\Content\Paks\GroovyBeats-Android_ASTC.pak.
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogDerivedDataCache: Display: Performance to C:/Users/SLATE 15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: CompressionFormat 0 [Oodle] : 1199 files, 409253186 -> 134105383 bytes
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: CompressionFormat 1 [Zlib] : 63 files, 3605833 -> 1183443 bytes
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: CompressionFormat 2 [None] : 1485 files, 33494767 -> 33494767 bytes
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Added 2747 files, 169181090 bytes total, time 21.30s.
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: PrimaryIndex size: 49498 bytes
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: PathHashIndex size: 59614 bytes
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: FullDirectoryIndex size: 94389 bytes
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Compression summary: 32.77% of original size. Compressed Size 135288826 bytes, Original Size 412859019 bytes.
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Encryption - DISABLED
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)):   LogPakFile: Display: Unreal pak executed in 21.389300 seconds
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)): UnrealPak terminated with exit code 0
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)): Copying NonUFSFiles to staging directory: C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\StagedBuilds\Android_ASTC
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)): ********** STAGE COMMAND COMPLETED **********
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)): ********** PACKAGE COMMAND STARTED **********
+[2023.03.11-18.49.28:685][230]UATHelper: Packaging (Android (ASTC)): BaseApkName = C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Binaries/Android\GroovyBeats-Android-Shipping.apk
+[2023.03.11-18.49.29:018][231]UATHelper: Packaging (Android (ASTC)): Creating C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\StagedBuilds\Android_ASTC.obb from C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\StagedBuilds\Android_ASTC
+[2023.03.11-18.49.29:018][231]UATHelper: Packaging (Android (ASTC)): [1/1] Adding GroovyBeats/Content/Paks/GroovyBeats-Android_ASTC.pak to OBB
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): AndroidPlugin: Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): AndroidPlugin: Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMessaging_UPL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): AndroidPlugin: Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): AndroidPlugin: Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\OculusMobile_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): AndroidPlugin: Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): AndroidPlugin: Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): UPL: Engine\Plugins/Runtime/AndroidPermission/Source/AndroidPermission/AndroidPermission_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): UPL: Engine\Plugins/Runtime/GoogleCloudMessaging/Source/GoogleCloudMessaging/GoogleCloudMessaging_UPL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): UPL: Engine\Plugins/Runtime/GooglePAD/Source/GooglePAD/GooglePAD_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): UPL: Engine\Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/OculusMobile_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): UPL: Engine\Source/Runtime/Online/Voice/AndroidVoiceImpl_UPL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): UPL: Engine\Source/ThirdParty/GoogleGameSDK/GoogleGameSDK_APL.xml
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): Target SDK Version 29
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): Using package name: 'com.CraftyGoblinStudios.GroovyBeats'
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): GotStoreVersion found v1. (bUseChangeListAsStoreVersion=False IsBuildMachine=False EngineChangeList=0)
+[2023.03.11-18.49.29:692][233]UATHelper: Packaging (Android (ASTC)): Writing packageInfo pkgName:com.CraftyGoblinStudios.GroovyBeats storeVersion:1 versionDisplayName:1.0 to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Binaries\Android\packageInfo.txt
+[2023.03.11-18.49.30:024][234]UATHelper: Packaging (Android (ASTC)): ====11/03/2023 18:49:29====PREPARING TO MAKE APK=================================================================
+[2023.03.11-18.49.30:024][234]UATHelper: Packaging (Android (ASTC)): bBuildForES31: false
+[2023.03.11-18.49.30:024][234]UATHelper: Packaging (Android (ASTC)): bSupportsVulkan: true
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): Building Java with SDK API level 'android-30'
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): Building with Build Tools version '30.0.3'
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Writing to shim file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android\src\com\epicgames\ue4\DownloadShim.java ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Shim data file up to date so not writing. ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android\src\com\CraftyGoblinStudios\GroovyBeats\AlarmReceiver.java ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Template target file up to date so not writing. ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android\src\com\CraftyGoblinStudios\GroovyBeats\DownloaderActivity.java ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Template target file up to date so not writing. ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Writing to template target file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android\src\com\CraftyGoblinStudios\GroovyBeats\OBBDownloaderService.java ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): ==== Template target file up to date so not writing. ====
+[2023.03.11-18.49.30:025][234]UATHelper: Packaging (Android (ASTC)): Cleaning up files based on template dir C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Build\Android\src\com\CraftyGoblinStudios\GroovyBeats
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Application display name is different than last build, forcing repackage.
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): UPL Init: armeabi-v7a
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Android Permission Plugin Init
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Google Cloud Messaging init
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): GCMClientSenderID set: false
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): GooglePAD Plugin Init
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): GooglePAD enabled: false
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Oculus mobile init
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Android Voice init
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): GoogleGameSDK Android init
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): On build machine.
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Disabling Show Launch Image for Oculus Mobile enabled application
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Disabling Show Launch Image for Oculus Mobile enabled application
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): ====11/03/2023 18:49:30====PREPARING NATIVE CODE=====-armv7============================================================
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): bPackageDataInsideApk = True
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Obb location C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats/Saved/StagedBuilds/Android_ASTC.obb
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Obb destination location C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7/assets
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Obb file exists...
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): Copying C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats/Saved/StagedBuilds/Android_ASTC.obb to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7/assets\main.obb.png
+[2023.03.11-18.49.30:700][236]UATHelper: Packaging (Android (ASTC)): UE4CommandLine.txt exists...
+[2023.03.11-18.49.30:701][236]UATHelper: Packaging (Android (ASTC)): Copying C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Saved\StagedBuilds\Android_ASTC\UE4CommandLine.txt to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7\assets\UE4CommandLine.txt
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): Added repository: C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Android\extras\google\m2repository
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): Added repository: C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Android\extras\android\m2repository
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): AARImports: com.google.android.gms, play-services-auth, 11.8.0
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): AARImports: com.google.android.gms, play-services-games, 11.8.0
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): AARImports: com.google.android.gms, play-services-nearby, 11.8.0
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): AARImports: com.google.android.gms, play-services-plus, 11.8.0
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): Copying permission_library directory to staging before build
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): Directory C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/AndroidPermission/permission_library copied to C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Intermediate/Android/armv7/JavaLibs/permission_library
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): ==== Writing to OBB data file C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7\src\com\CraftyGoblinStudios\GroovyBeats\OBBData.java ====
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): ==== Writing new GameActivity.java file to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7\src\com\epicgames\ue4\GameActivity.java ====
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): ==== Writing new GameApplication.java file to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7\src\com\epicgames\ue4\GameApplication.java ====
+[2023.03.11-18.49.31:028][237]UATHelper: Packaging (Android (ASTC)): Copying new .so C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Binaries\Android\GroovyBeats-Android-Shipping-armv7.so file to jni folder...
+[2023.03.11-18.49.31:128][243]UATHelper: Packaging (Android (ASTC)): Copying libplaycore.so and proguard files
+[2023.03.11-18.49.31:128][243]UATHelper: Packaging (Android (ASTC)): File C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/GooglePAD/Source/GooglePAD/../ThirdParty/play-core-native-sdk/libs/armeabi-v7a/ndk21.4.7075529/c++_shared/libplaycore.so copied to C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Intermediate/Android/armv7/libs/armeabi-v7a/libplaycore.so
+[2023.03.11-18.49.31:128][243]UATHelper: Packaging (Android (ASTC)): Copying libvrapi.so
+[2023.03.11-18.49.31:128][243]UATHelper: Packaging (Android (ASTC)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/armeabi-v7a/libvrapi.so copied to C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Intermediate/Android/armv7/libs/armeabi-v7a/libvrapi.so
+[2023.03.11-18.49.31:128][243]UATHelper: Packaging (Android (ASTC)): Copying libOVRPlugin.so
+[2023.03.11-18.49.31:130][243]UATHelper: Packaging (Android (ASTC)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Lib/armeabi-v7a/libOVRPlugin.so copied to C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Intermediate/Android/armv7/libs/armeabi-v7a/libOVRPlugin.so
+[2023.03.11-18.49.31:134][243]UATHelper: Packaging (Android (ASTC)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/VrApi.jar copied to C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Intermediate/Android/armv7/libs/VrApi.jar
+[2023.03.11-18.49.31:138][243]UATHelper: Packaging (Android (ASTC)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/SystemUtils.jar copied to C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Intermediate/Android/armv7/libs/SystemUtils.jar
+[2023.03.11-18.49.31:138][243]UATHelper: Packaging (Android (ASTC)): ====11/03/2023 18:49:31====PERFORMING FINAL APK PACKAGE OPERATION=====-armv7===========================================
+[2023.03.11-18.49.31:139][243]UATHelper: Packaging (Android (ASTC)): Copying C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7\AndroidManifest.xml to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Intermediate\Android\armv7\gradle\app\src\main\AndroidManifest.xml
+[2023.03.11-18.49.31:713][274]UATHelper: Packaging (Android (ASTC)): Creating rungradle.bat to work around commandline length limit (using unused drive letter Y:)
+[2023.03.11-18.49.31:713][274]UATHelper: Packaging (Android (ASTC)): Making .apk with Gradle...
+[2023.03.11-18.49.32:917][331]UATHelper: Packaging (Android (ASTC)): To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/6.1.1/userguide/gradle_daemon.html.
+[2023.03.11-18.49.35:912][510]UATHelper: Packaging (Android (ASTC)): Daemon will be stopped at the end of the build stopping after processing
+[2023.03.11-18.49.43:215][947]UATHelper: Packaging (Android (ASTC)): > Task :app:preBuild UP-TO-DATE
+[2023.03.11-18.49.43:215][947]UATHelper: Packaging (Android (ASTC)): > Task :app:preDebugBuild UP-TO-DATE
+[2023.03.11-18.49.43:215][947]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:preBuild UP-TO-DATE
+[2023.03.11-18.49.43:215][947]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:preDebugBuild UP-TO-DATE
+[2023.03.11-18.49.43:215][947]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:compileDebugAidl NO-SOURCE
+[2023.03.11-18.49.43:215][947]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:preBuild UP-TO-DATE
+[2023.03.11-18.49.43:215][947]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:preDebugBuild UP-TO-DATE
+[2023.03.11-18.49.43:313][953]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:compileDebugAidl NO-SOURCE
+[2023.03.11-18.49.43:519][965]UATHelper: Packaging (Android (ASTC)): > Task :app:compileDebugAidl
+[2023.03.11-18.49.43:617][971]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:packageDebugRenderscript NO-SOURCE
+[2023.03.11-18.49.43:617][971]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:packageDebugRenderscript NO-SOURCE
+[2023.03.11-18.49.43:617][971]UATHelper: Packaging (Android (ASTC)): > Task :app:compileDebugRenderscript NO-SOURCE
+[2023.03.11-18.49.43:617][971]UATHelper: Packaging (Android (ASTC)): > Task :app:generateDebugBuildConfig
+[2023.03.11-18.49.43:719][977]UATHelper: Packaging (Android (ASTC)): > Task :app:javaPreCompileDebug
+[2023.03.11-18.49.43:812][983]UATHelper: Packaging (Android (ASTC)): > Task :app:generateDebugResValues
+[2023.03.11-18.49.43:812][983]UATHelper: Packaging (Android (ASTC)): > Task :app:generateDebugResources
+[2023.03.11-18.49.43:812][983]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:compileDebugRenderscript NO-SOURCE
+[2023.03.11-18.49.43:812][983]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:generateDebugResValues
+[2023.03.11-18.49.43:812][983]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:generateDebugResources
+[2023.03.11-18.49.43:915][989]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:packageDebugResources
+[2023.03.11-18.49.43:915][989]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:generateDebugResValues
+[2023.03.11-18.49.43:915][989]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:compileDebugRenderscript NO-SOURCE
+[2023.03.11-18.49.43:915][989]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:generateDebugResources
+[2023.03.11-18.49.44:011][995]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:packageDebugResources
+[2023.03.11-18.49.45:007][ 54]UATHelper: Packaging (Android (ASTC)): > Task :app:createDebugCompatibleScreenManifests
+[2023.03.11-18.49.45:007][ 54]UATHelper: Packaging (Android (ASTC)): > Task :app:extractDeepLinksDebug
+[2023.03.11-18.49.45:007][ 54]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:extractDeepLinksDebug
+[2023.03.11-18.49.45:106][ 60]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:extractDeepLinksDebug
+[2023.03.11-18.49.45:308][ 72]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:processDebugManifest
+[2023.03.11-18.49.45:420][ 79]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeDebugResources
+[2023.03.11-18.49.45:420][ 79]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:compileDebugLibraryResources
+[2023.03.11-18.49.45:420][ 79]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:processDebugManifest
+[2023.03.11-18.49.45:624][ 91]UATHelper: Packaging (Android (ASTC)): > Task :app:processDebugManifest
+[2023.03.11-18.49.45:624][ 91]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:compileDebugLibraryResources
+[2023.03.11-18.49.45:624][ 91]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:generateDebugBuildConfig
+[2023.03.11-18.49.45:624][ 91]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:parseDebugLocalResources
+[2023.03.11-18.49.45:925][109]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:parseDebugLocalResources
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:javaPreCompileDebug
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:generateDebugBuildConfig
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:javaPreCompileDebug
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeDebugShaders
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :app:compileDebugShaders NO-SOURCE
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :app:generateDebugAssets UP-TO-DATE
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:mergeDebugShaders
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:compileDebugShaders NO-SOURCE
+[2023.03.11-18.49.46:006][114]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:generateDebugAssets UP-TO-DATE
+[2023.03.11-18.49.46:119][121]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:packageDebugAssets
+[2023.03.11-18.49.46:119][121]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:mergeDebugShaders
+[2023.03.11-18.49.46:119][121]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:compileDebugShaders NO-SOURCE
+[2023.03.11-18.49.46:119][121]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:generateDebugAssets UP-TO-DATE
+[2023.03.11-18.49.46:119][121]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:packageDebugAssets
+[2023.03.11-18.49.47:320][193]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeDebugAssets
+[2023.03.11-18.49.47:320][193]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:generateDebugRFile
+[2023.03.11-18.49.48:610][270]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:compileDebugJavaWithJavac
+[2023.03.11-18.49.48:610][270]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:generateDebugRFile
+[2023.03.11-18.49.49:213][306]UATHelper: Packaging (Android (ASTC)): > Task :app:processDebugResources
+[2023.03.11-18.49.49:409][318]UATHelper: Packaging (Android (ASTC)): Note: Y:\permission_library\src\main\java\com\google\vr\sdk\samples\permission\PermissionFragment.java uses or overrides a deprecated API.
+[2023.03.11-18.49.49:409][318]UATHelper: Packaging (Android (ASTC)): Note: Recompile with -Xlint:deprecation for details.
+[2023.03.11-18.49.49:409][318]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:compileDebugJavaWithJavac
+[2023.03.11-18.49.49:409][318]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:bundleLibCompileToJarDebug
+[2023.03.11-18.49.49:409][318]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:bundleLibCompileToJarDebug
+[2023.03.11-18.49.51:415][438]UATHelper: Packaging (Android (ASTC)): > Task :app:compileDebugJavaWithJavac
+[2023.03.11-18.49.51:415][438]UATHelper: Packaging (Android (ASTC)): The following annotation processors are not incremental: lifecycle-compiler-2.0.0.jar (androidx.lifecycle:lifecycle-compiler:2.0.0).
+[2023.03.11-18.49.51:415][438]UATHelper: Packaging (Android (ASTC)): Make sure all annotation processors are incremental to improve your build speed.
+[2023.03.11-18.49.51:611][450]UATHelper: Packaging (Android (ASTC)): Note: Some input files use or override a deprecated API.
+[2023.03.11-18.49.51:611][450]UATHelper: Packaging (Android (ASTC)): Note: Recompile with -Xlint:deprecation for details.
+[2023.03.11-18.49.51:716][456]UATHelper: Packaging (Android (ASTC)): > Task :app:compileDebugSources
+[2023.03.11-18.49.51:716][456]UATHelper: Packaging (Android (ASTC)): > Task :app:processDebugJavaRes NO-SOURCE
+[2023.03.11-18.49.51:716][456]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:processDebugJavaRes NO-SOURCE
+[2023.03.11-18.49.51:716][456]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:bundleLibResDebug NO-SOURCE
+[2023.03.11-18.49.51:717][456]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:processDebugJavaRes NO-SOURCE
+[2023.03.11-18.49.51:717][456]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:bundleLibResDebug NO-SOURCE
+[2023.03.11-18.49.51:914][468]UATHelper: Packaging (Android (ASTC)): > Task :app:checkDebugDuplicateClasses
+[2023.03.11-18.49.51:914][468]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:bundleLibRuntimeToJarDebug
+[2023.03.11-18.49.55:112][657]UATHelper: Packaging (Android (ASTC)): > Task :app:dexBuilderDebug
+[2023.03.11-18.49.55:213][663]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeDebugJavaResource
+[2023.03.11-18.49.55:213][663]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:bundleLibRuntimeToJarDebug
+[2023.03.11-18.49.55:213][663]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeExtDexDebug
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeDebugJniLibFolders
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:mergeDebugJniLibFolders
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:mergeDebugJniLibFolders
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:mergeDebugNativeLibs
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:stripDebugDebugSymbols NO-SOURCE
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :downloader_library:copyDebugJniLibsProjectOnly
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :app:ueDeleteOldPackageDebug
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :app:validateSigningDebug
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeProjectDexDebug
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:mergeDebugNativeLibs
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:stripDebugDebugSymbols NO-SOURCE
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :permission_library:copyDebugJniLibsProjectOnly
+[2023.03.11-18.49.57:416][795]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeLibDexDebug
+[2023.03.11-18.49.59:410][915]UATHelper: Packaging (Android (ASTC)): > Task :app:mergeDebugNativeLibs
+[2023.03.11-18.50.01:018][ 11]UATHelper: Packaging (Android (ASTC)): > Task :app:stripDebugDebugSymbols
+[2023.03.11-18.50.04:023][189]UATHelper: Packaging (Android (ASTC)): > Task :app:packageDebug
+[2023.03.11-18.50.04:023][189]UATHelper: Packaging (Android (ASTC)): > Task :app:assembleDebug
+[2023.03.11-18.50.13:911][777]UATHelper: Packaging (Android (ASTC)): > Task :app:ue4CompleteDebug
+[2023.03.11-18.50.14:009][783]UATHelper: Packaging (Android (ASTC)): BUILD SUCCESSFUL in 42s
+[2023.03.11-18.50.14:009][783]UATHelper: Packaging (Android (ASTC)): 59 actionable tasks: 59 executed
+[2023.03.11-18.50.14:679][823]UATHelper: Packaging (Android (ASTC)): Writing symbols to C:\Users\SLATE 15\Documents\GitHub\Hannah-Ashna.github.io\DevSoc-VR-Room\Groovy-Beats\Binaries/Android\GroovyBeats_Symbols_v1/GroovyBeats-armv7\libUE4.so
+[2023.03.11-18.50.15:060][846]UATHelper: Packaging (Android (ASTC)): ====11/03/2023 18:50:15====COMPLETED MAKE APK=======================================================================
+[2023.03.11-18.50.15:060][846]UATHelper: Packaging (Android (ASTC)): Using this aapt: C:\Users\SLATE 15\AppData\Local\Android\Sdk\build-tools\30.0.3\aapt.exe
+[2023.03.11-18.50.15:093][848]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: com.CraftyGoblinStudios.GroovyBeats
+[2023.03.11-18.50.15:110][849]UATHelper: Packaging (Android (ASTC)): Writing bat for install with data in APK
+[2023.03.11-18.50.15:110][849]UATHelper: Packaging (Android (ASTC)): Writing bat for uninstall with data in APK
+[2023.03.11-18.50.15:110][849]UATHelper: Packaging (Android (ASTC)): ********** PACKAGE COMMAND COMPLETED **********
+[2023.03.11-18.50.15:110][849]UATHelper: Packaging (Android (ASTC)): ********** ARCHIVE COMMAND STARTED **********
+[2023.03.11-18.50.15:110][849]UATHelper: Packaging (Android (ASTC)): Archiving to C:/Users/SLATE 15/Documents/GitHub/Hannah-Ashna.github.io/DevSoc-VR-Room/Groovy-Beats/Deploys
+[2023.03.11-18.50.15:376][865]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: com.CraftyGoblinStudios.GroovyBeats
+[2023.03.11-18.50.15:394][866]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: 1
+[2023.03.11-18.50.15:394][866]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: com.CraftyGoblinStudios.GroovyBeats
+[2023.03.11-18.50.15:410][867]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: 1
+[2023.03.11-18.50.15:428][868]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: com.CraftyGoblinStudios.GroovyBeats
+[2023.03.11-18.50.15:428][868]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: 1
+[2023.03.11-18.50.15:447][869]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: com.CraftyGoblinStudios.GroovyBeats
+[2023.03.11-18.50.15:459][870]UATHelper: Packaging (Android (ASTC)): GetPackageInfo ReturnValue: 1
+[2023.03.11-18.50.15:730][886]UATHelper: Packaging (Android (ASTC)): ********** ARCHIVE COMMAND COMPLETED **********
+[2023.03.11-18.50.15:730][886]UATHelper: Packaging (Android (ASTC)): BUILD SUCCESSFUL
+[2023.03.11-18.50.15:746][887]UATHelper: Packaging (Android (ASTC)): AutomationTool exiting with ExitCode=0 (Success)
